@@ -80,12 +80,16 @@ import ArrowUpShortWide from "./icons/ArrowUpShortWide";
 import ArrowUpSmallBig from "./icons/ArrowUpSmallBig";
 import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
+import BrakeWarning from "./icons/BrakeWarning";
+import Bus from "./icons/Bus";
+import Car from "./icons/Car";
 import CaretDown from "./icons/CaretDown";
 import CaretLeft from "./icons/CaretLeft";
 import CaretLeftToLine from "./icons/CaretLeftToLine";
 import CaretRight from "./icons/CaretRight";
 import CaretRightToLine from "./icons/CaretRightToLine";
 import CaretUp from "./icons/CaretUp";
+import CarSide from "./icons/CarSide";
 import ChevronDown from "./icons/ChevronDown";
 import ChevronDownDot from "./icons/ChevronDownDot";
 import ChevronDownDouble from "./icons/ChevronDownDouble";
@@ -121,6 +125,8 @@ import CornerUpRight from "./icons/CornerUpRight";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
 import Download from "./icons/Download";
+import Drone from "./icons/Drone";
+import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
 import Enter from "./icons/Enter";
 import Exclamation from "./icons/Exclamation";
@@ -128,6 +134,10 @@ import ExclamationAlt from "./icons/ExclamationAlt";
 import FlipBackward from "./icons/FlipBackward";
 import FlipForward from "./icons/FlipForward";
 import Forward from "./icons/Forward";
+import Gauge from "./icons/Gauge";
+import GaugeHigh from "./icons/GaugeHigh";
+import GaugeLow from "./icons/GaugeLow";
+import GaugeMax from "./icons/GaugeMax";
 import HexagonExclamation from "./icons/HexagonExclamation";
 import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
@@ -136,6 +146,8 @@ import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
 import Maximize from "./icons/Maximize";
 import Minimize from "./icons/Minimize";
+import Moped from "./icons/Moped";
+import Motorcycle from "./icons/Motorcycle";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
 import OctagonExclamation from "./icons/OctagonExclamation";
@@ -157,6 +169,7 @@ import RefreshCwAlt3 from "./icons/RefreshCwAlt3";
 import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
 import Reply from "./icons/Reply";
+import Rocket from "./icons/Rocket";
 import Rotate from "./icons/Rotate";
 import RotateCcw from "./icons/RotateCcw";
 import RotateCw from "./icons/RotateCw";
@@ -176,8 +189,14 @@ import SquareExclamation from "./icons/SquareExclamation";
 import Subdirectory from "./icons/Subdirectory";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
+import Train from "./icons/Train";
+import TrainSubway from "./icons/TrainSubway";
+import TrainTrack from "./icons/TrainTrack";
+import TrainTram from "./icons/TrainTram";
 import TriangleExclamation from "./icons/TriangleExclamation";
+import Truck from "./icons/Truck";
 import Upload from "./icons/Upload";
+import Van from "./icons/Van";
 import WifiExclamation from "./icons/WifiExclamation";
 import WindWarning from "./icons/WindWarning";
 
@@ -264,12 +283,16 @@ ArrowUpShortWide,
 ArrowUpSmallBig,
 ArrowUpWideShort,
 ArrowUpZA,
+BrakeWarning,
+Bus,
+Car,
 CaretDown,
 CaretLeft,
 CaretLeftToLine,
 CaretRight,
 CaretRightToLine,
 CaretUp,
+CarSide,
 ChevronDown,
 ChevronDownDot,
 ChevronDownDouble,
@@ -305,6 +328,8 @@ CornerUpRight,
 Cursor,
 CursorAlt,
 Download,
+Drone,
+Engine,
 EngineWarning,
 Enter,
 Exclamation,
@@ -312,6 +337,10 @@ ExclamationAlt,
 FlipBackward,
 FlipForward,
 Forward,
+Gauge,
+GaugeHigh,
+GaugeLow,
+GaugeMax,
 HexagonExclamation,
 Infinity,
 Information,
@@ -320,6 +349,8 @@ Loop,
 LoopVertical,
 Maximize,
 Minimize,
+Moped,
+Motorcycle,
 Move,
 MoveAlt,
 OctagonExclamation,
@@ -341,6 +372,7 @@ RefreshCwAlt3,
 RefreshCwAlt4,
 RepeatAlt,
 Reply,
+Rocket,
 Rotate,
 RotateCcw,
 RotateCw,
@@ -360,8 +392,14 @@ SquareExclamation,
 Subdirectory,
 SwitchHorizontal,
 SwitchVertical,
+Train,
+TrainSubway,
+TrainTrack,
+TrainTram,
 TriangleExclamation,
+Truck,
 Upload,
+Van,
 WifiExclamation,
 WindWarning
 }
