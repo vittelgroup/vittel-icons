@@ -10,7 +10,6 @@ import ArrowDown from "./icons/ArrowDown";
 import ArrowDown19 from "./icons/ArrowDown19";
 import ArrowDown91 from "./icons/ArrowDown91";
 import ArrowDownArrowUp from "./icons/ArrowDownArrowUp";
-import ArrowDownAZ (1) from "./icons/ArrowDownAZ (1)";
 import ArrowDownAZ from "./icons/ArrowDownAZ";
 import ArrowDownBigSmall from "./icons/ArrowDownBigSmall";
 import ArrowDownLeft from "./icons/ArrowDownLeft";
@@ -32,13 +31,11 @@ import ArrowNarrowCircleBrokenRight from "./icons/ArrowNarrowCircleBrokenRight";
 import ArrowNarrowCircleBrokenUpLeft from "./icons/ArrowNarrowCircleBrokenUpLeft";
 import ArrowNarrowCircleBrokenUpRight from "./icons/ArrowNarrowCircleBrokenUpRight";
 import ArrowNarrowDown from "./icons/ArrowNarrowDown";
-import ArrowNarrowDownMove (1) from "./icons/ArrowNarrowDownMove (1)";
 import ArrowNarrowDownMove from "./icons/ArrowNarrowDownMove";
 import ArrowNarrowLeft from "./icons/ArrowNarrowLeft";
 import ArrowNarrowLeftAlignment from "./icons/ArrowNarrowLeftAlignment";
 import ArrowNarrowLeftMove from "./icons/ArrowNarrowLeftMove";
 import ArrowNarrowRight from "./icons/ArrowNarrowRight";
-import ArrowNarrowRightAlignment (1) from "./icons/ArrowNarrowRightAlignment (1)";
 import ArrowNarrowRightAlignment from "./icons/ArrowNarrowRightAlignment";
 import ArrowNarrowRightMove from "./icons/ArrowNarrowRightMove";
 import ArrowNarrowTopAlignment from "./icons/ArrowNarrowTopAlignment";
@@ -213,7 +210,6 @@ ArrowDown,
 ArrowDown19,
 ArrowDown91,
 ArrowDownArrowUp,
-ArrowDownAZ (1),
 ArrowDownAZ,
 ArrowDownBigSmall,
 ArrowDownLeft,
@@ -235,13 +231,11 @@ ArrowNarrowCircleBrokenRight,
 ArrowNarrowCircleBrokenUpLeft,
 ArrowNarrowCircleBrokenUpRight,
 ArrowNarrowDown,
-ArrowNarrowDownMove (1),
 ArrowNarrowDownMove,
 ArrowNarrowLeft,
 ArrowNarrowLeftAlignment,
 ArrowNarrowLeftMove,
 ArrowNarrowRight,
-ArrowNarrowRightAlignment (1),
 ArrowNarrowRightAlignment,
 ArrowNarrowRightMove,
 ArrowNarrowTopAlignment,
