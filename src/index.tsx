@@ -79,6 +79,7 @@ import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
 import BadgeCheck from "./icons/BadgeCheck";
 import Bank from "./icons/Bank";
+import BarsProgress from "./icons/BarsProgress";
 import Book from "./icons/Book";
 import BrakeWarning from "./icons/BrakeWarning";
 import BridgeSuspension from "./icons/BridgeSuspension";
@@ -142,6 +143,25 @@ import CaretRightToLine from "./icons/CaretRightToLine";
 import CaretUp from "./icons/CaretUp";
 import CarSide from "./icons/CarSide";
 import Castle from "./icons/Castle";
+import ChartArea from "./icons/ChartArea";
+import ChartBar from "./icons/ChartBar";
+import ChartBullet from "./icons/ChartBullet";
+import ChartColumn from "./icons/ChartColumn";
+import ChartGantt from "./icons/ChartGantt";
+import ChartLineUp from "./icons/ChartLineUp";
+import ChartNetwork from "./icons/ChartNetwork";
+import ChartPieAlt from "./icons/ChartPieAlt";
+import ChartPieAlt1 from "./icons/ChartPieAlt1";
+import ChartPyramid from "./icons/ChartPyramid";
+import ChartRadar from "./icons/ChartRadar";
+import ChartScatter from "./icons/ChartScatter";
+import ChartScatter3d from "./icons/ChartScatter3d";
+import ChartScatterBubble from "./icons/ChartScatterBubble";
+import ChartSimple from "./icons/ChartSimple";
+import ChartSimpleHorizontal from "./icons/ChartSimpleHorizontal";
+import ChartTreeMap from "./icons/ChartTreeMap";
+import ChartUserSquare from "./icons/ChartUserSquare";
+import ChartWaterfall from "./icons/ChartWaterfall";
 import ChevronDown from "./icons/ChevronDown";
 import ChevronDownDot from "./icons/ChevronDownDot";
 import ChevronDownDouble from "./icons/ChevronDownDouble";
@@ -167,6 +187,7 @@ import Church from "./icons/Church";
 import CircleExclamation from "./icons/CircleExclamation";
 import CircleExclamationCheck from "./icons/CircleExclamationCheck";
 import CircleInformation from "./icons/CircleInformation";
+import CircleQuarter from "./icons/CircleQuarter";
 import CircleQuestion from "./icons/CircleQuestion";
 import City from "./icons/City";
 import ContainerStorage from "./icons/ContainerStorage";
@@ -181,6 +202,17 @@ import CornerUpRight from "./icons/CornerUpRight";
 import CreditCardScan from "./icons/CreditCardScan";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
+import DiagramCells from "./icons/DiagramCells";
+import DiagramLeanCanvas from "./icons/DiagramLeanCanvas";
+import DiagramNested from "./icons/DiagramNested";
+import DiagramNext from "./icons/DiagramNext";
+import DiagramPredecessor from "./icons/DiagramPredecessor";
+import DiagramPrevious from "./icons/DiagramPrevious";
+import DiagramProject from "./icons/DiagramProject";
+import DiagramSankey from "./icons/DiagramSankey";
+import DiagramSubtask from "./icons/DiagramSubtask";
+import DiagramSuccessor from "./icons/DiagramSuccessor";
+import DiagramVenn from "./icons/DiagramVenn";
 import Download from "./icons/Download";
 import Drone from "./icons/Drone";
 import Engine from "./icons/Engine";
@@ -325,8 +357,11 @@ import SquareCv from "./icons/SquareCv";
 import SquareDollar from "./icons/SquareDollar";
 import SquareDollarChart from "./icons/SquareDollarChart";
 import SquareExclamation from "./icons/SquareExclamation";
+import SquareKanban from "./icons/SquareKanban";
 import SquarePhone from "./icons/SquarePhone";
 import SquarePhoneFlip from "./icons/SquarePhoneFlip";
+import SquarePollHorizontal from "./icons/SquarePollHorizontal";
+import SquarePollVertical from "./icons/SquarePollVertical";
 import SquareUserChart from "./icons/SquareUserChart";
 import SquareUserCheck from "./icons/SquareUserCheck";
 import Subdirectory from "./icons/Subdirectory";
@@ -448,6 +483,7 @@ ArrowUpWideShort,
 ArrowUpZA,
 BadgeCheck,
 Bank,
+BarsProgress,
 Book,
 BrakeWarning,
 BridgeSuspension,
@@ -511,6 +547,25 @@ CaretRightToLine,
 CaretUp,
 CarSide,
 Castle,
+ChartArea,
+ChartBar,
+ChartBullet,
+ChartColumn,
+ChartGantt,
+ChartLineUp,
+ChartNetwork,
+ChartPieAlt,
+ChartPieAlt1,
+ChartPyramid,
+ChartRadar,
+ChartScatter,
+ChartScatter3d,
+ChartScatterBubble,
+ChartSimple,
+ChartSimpleHorizontal,
+ChartTreeMap,
+ChartUserSquare,
+ChartWaterfall,
 ChevronDown,
 ChevronDownDot,
 ChevronDownDouble,
@@ -536,6 +591,7 @@ Church,
 CircleExclamation,
 CircleExclamationCheck,
 CircleInformation,
+CircleQuarter,
 CircleQuestion,
 City,
 ContainerStorage,
@@ -550,6 +606,17 @@ CornerUpRight,
 CreditCardScan,
 Cursor,
 CursorAlt,
+DiagramCells,
+DiagramLeanCanvas,
+DiagramNested,
+DiagramNext,
+DiagramPredecessor,
+DiagramPrevious,
+DiagramProject,
+DiagramSankey,
+DiagramSubtask,
+DiagramSuccessor,
+DiagramVenn,
 Download,
 Drone,
 Engine,
@@ -694,8 +761,11 @@ SquareCv,
 SquareDollar,
 SquareDollarChart,
 SquareExclamation,
+SquareKanban,
 SquarePhone,
 SquarePhoneFlip,
+SquarePollHorizontal,
+SquarePollVertical,
 SquareUserChart,
 SquareUserCheck,
 Subdirectory,
