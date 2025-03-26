@@ -78,9 +78,19 @@ import ArrowUpShortWide from "./icons/ArrowUpShortWide";
 import ArrowUpSmallBig from "./icons/ArrowUpSmallBig";
 import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
+import BadgeCheck from "./icons/BadgeCheck";
 import Bank from "./icons/Bank";
+import Book from "./icons/Book";
 import BrakeWarning from "./icons/BrakeWarning";
 import BridgeSuspension from "./icons/BridgeSuspension";
+import Briefcase from "./icons/Briefcase";
+import BriefcaseAlt from "./icons/BriefcaseAlt";
+import BriefcaseAlt1 from "./icons/BriefcaseAlt1";
+import BriefcaseAlt2 from "./icons/BriefcaseAlt2";
+import BriefcaseAlt3 from "./icons/BriefcaseAlt3";
+import BriefcaseAlt4 from "./icons/BriefcaseAlt4";
+import BriefcaseDollar from "./icons/BriefcaseDollar";
+import BriefcasePlus from "./icons/BriefcasePlus";
 import Building from "./icons/Building";
 import BuildingArrowRight from "./icons/BuildingArrowRight";
 import BuildingCar from "./icons/BuildingCar";
@@ -95,7 +105,9 @@ import BuildingShield from "./icons/BuildingShield";
 import BuildingUN from "./icons/BuildingUN";
 import BuildingUser from "./icons/BuildingUser";
 import BuildingXmark from "./icons/BuildingXmark";
+import BullseyeArrow from "./icons/BullseyeArrow";
 import Bus from "./icons/Bus";
+import Calculator from "./icons/Calculator";
 import Campground from "./icons/Campground";
 import Car from "./icons/Car";
 import CaretDown from "./icons/CaretDown";
@@ -142,6 +154,7 @@ import CornerRightDown from "./icons/CornerRightDown";
 import CornerRightUp from "./icons/CornerRightUp";
 import CornerUpLeft from "./icons/CornerUpLeft";
 import CornerUpRight from "./icons/CornerUpRight";
+import CreditCardScan from "./icons/CreditCardScan";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
 import Download from "./icons/Download";
@@ -154,6 +167,7 @@ import ExclamationAlt from "./icons/ExclamationAlt";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
+import FileCv from "./icons/FileCv";
 import FlipBackward from "./icons/FlipBackward";
 import FlipForward from "./icons/FlipForward";
 import Forward from "./icons/Forward";
@@ -163,6 +177,8 @@ import Gauge from "./icons/Gauge";
 import GaugeHigh from "./icons/GaugeHigh";
 import GaugeLow from "./icons/GaugeLow";
 import GaugeMax from "./icons/GaugeMax";
+import GlobeDollar from "./icons/GlobeDollar";
+import Handshake from "./icons/Handshake";
 import HexagonExclamation from "./icons/HexagonExclamation";
 import Hospital from "./icons/Hospital";
 import Hospitals from "./icons/Hospitals";
@@ -201,12 +217,16 @@ import IndustryWindows from "./icons/IndustryWindows";
 import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
 import InformationAlt from "./icons/InformationAlt";
+import LampDesk from "./icons/LampDesk";
 import Landmark from "./icons/Landmark";
 import LandmarkDome from "./icons/LandmarkDome";
 import LandmarkFlag from "./icons/LandmarkFlag";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
+import Marker from "./icons/Marker";
 import Maximize from "./icons/Maximize";
+import MemoCheck from "./icons/MemoCheck";
+import MemoPencil from "./icons/MemoPencil";
 import Minimize from "./icons/Minimize";
 import Monument from "./icons/Monument";
 import Moped from "./icons/Moped";
@@ -214,12 +234,32 @@ import Motorcycle from "./icons/Motorcycle";
 import MountainCity from "./icons/MountainCity";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
+import Notebook from "./icons/Notebook";
+import NoteSticky from "./icons/NoteSticky";
 import OctagonExclamation from "./icons/OctagonExclamation";
 import OilWell from "./icons/OilWell";
+import Paperclip from "./icons/Paperclip";
+import PaperclipAlt from "./icons/PaperclipAlt";
+import PaperclipSlash from "./icons/PaperclipSlash";
+import PaperclipSlashAlt from "./icons/PaperclipSlashAlt";
 import PartyBell from "./icons/PartyBell";
 import PartyHorn from "./icons/PartyHorn";
+import Percent from "./icons/Percent";
+import PhoneIntercom from "./icons/PhoneIntercom";
+import PhoneOffice from "./icons/PhoneOffice";
 import PlaceOfWorship from "./icons/PlaceOfWorship";
+import Podium from "./icons/Podium";
+import PresentationChart from "./icons/PresentationChart";
+import PresentationChartAlt from "./icons/PresentationChartAlt";
+import PresentationChartArrow from "./icons/PresentationChartArrow";
+import PresentationLine from "./icons/PresentationLine";
+import PresentationScreen from "./icons/PresentationScreen";
 import Question from "./icons/Question";
+import ReceiptAlt from "./icons/ReceiptAlt";
+import ReceiptAlt1 from "./icons/ReceiptAlt1";
+import ReceiptAlt2 from "./icons/ReceiptAlt2";
+import ReceiptAlt3 from "./icons/ReceiptAlt3";
+import Reciept from "./icons/Reciept";
 import RefreshCcw from "./icons/RefreshCcw";
 import RefreshCcwAlt from "./icons/RefreshCcwAlt";
 import RefreshCcwAlt1 from "./icons/RefreshCcwAlt1";
@@ -250,15 +290,28 @@ import SensorFire from "./icons/SensorFire";
 import SensorOn from "./icons/SensorOn";
 import SensorTriangleExclamation from "./icons/SensorTriangleExclamation";
 import Shop from "./icons/Shop";
+import Shredder from "./icons/Shredder";
 import Shuffle from "./icons/Shuffle";
+import Sitemap from "./icons/Sitemap";
 import SkullCrossbones from "./icons/SkullCrossbones";
 import Sort from "./icons/Sort";
 import SortDown from "./icons/SortDown";
 import SortUp from "./icons/SortUp";
+import SquareCv from "./icons/SquareCv";
+import SquareDollar from "./icons/SquareDollar";
+import SquareDollarChart from "./icons/SquareDollarChart";
 import SquareExclamation from "./icons/SquareExclamation";
+import SquarePhone from "./icons/SquarePhone";
+import SquarePhoneFlip from "./icons/SquarePhoneFlip";
+import SquareUserChart from "./icons/SquareUserChart";
+import SquareUserCheck from "./icons/SquareUserCheck";
 import Subdirectory from "./icons/Subdirectory";
+import Suitcase from "./icons/Suitcase";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
+import TableTree from "./icons/TableTree";
+import Tag from "./icons/Tag";
+import Tags from "./icons/Tags";
 import Temple from "./icons/Temple";
 import Tent from "./icons/Tent";
 import TentArrowDownToLine from "./icons/TentArrowDownToLine";
@@ -266,17 +319,21 @@ import TentArrowLeftRight from "./icons/TentArrowLeftRight";
 import TentArrowsDown from "./icons/TentArrowsDown";
 import TentArrowTurnLeft from "./icons/TentArrowTurnLeft";
 import Tents from "./icons/Tents";
+import Thumbtack from "./icons/Thumbtack";
 import ToiletPortable from "./icons/ToiletPortable";
 import ToiletsPortable from "./icons/ToiletsPortable";
 import ToriiGate from "./icons/ToriiGate";
 import Tower from "./icons/Tower";
 import TowerObservation from "./icons/TowerObservation";
+import Trademark from "./icons/Trademark";
 import Train from "./icons/Train";
 import TrainSubway from "./icons/TrainSubway";
 import TrainTrack from "./icons/TrainTrack";
 import TrainTram from "./icons/TrainTram";
+import TreasureChest from "./icons/TreasureChest";
 import TriangleExclamation from "./icons/TriangleExclamation";
 import Truck from "./icons/Truck";
+import University from "./icons/University";
 import Upload from "./icons/Upload";
 import Van from "./icons/Van";
 import Vihara from "./icons/Vihara";
@@ -366,9 +423,19 @@ ArrowUpShortWide,
 ArrowUpSmallBig,
 ArrowUpWideShort,
 ArrowUpZA,
+BadgeCheck,
 Bank,
+Book,
 BrakeWarning,
 BridgeSuspension,
+Briefcase,
+BriefcaseAlt,
+BriefcaseAlt1,
+BriefcaseAlt2,
+BriefcaseAlt3,
+BriefcaseAlt4,
+BriefcaseDollar,
+BriefcasePlus,
 Building,
 BuildingArrowRight,
 BuildingCar,
@@ -383,7 +450,9 @@ BuildingShield,
 BuildingUN,
 BuildingUser,
 BuildingXmark,
+BullseyeArrow,
 Bus,
+Calculator,
 Campground,
 Car,
 CaretDown,
@@ -430,6 +499,7 @@ CornerRightDown,
 CornerRightUp,
 CornerUpLeft,
 CornerUpRight,
+CreditCardScan,
 Cursor,
 CursorAlt,
 Download,
@@ -442,6 +512,7 @@ ExclamationAlt,
 Farm,
 Fence,
 FerrisWheel,
+FileCv,
 FlipBackward,
 FlipForward,
 Forward,
@@ -451,6 +522,8 @@ Gauge,
 GaugeHigh,
 GaugeLow,
 GaugeMax,
+GlobeDollar,
+Handshake,
 HexagonExclamation,
 Hospital,
 Hospitals,
@@ -489,12 +562,16 @@ IndustryWindows,
 Infinity,
 Information,
 InformationAlt,
+LampDesk,
 Landmark,
 LandmarkDome,
 LandmarkFlag,
 Loop,
 LoopVertical,
+Marker,
 Maximize,
+MemoCheck,
+MemoPencil,
 Minimize,
 Monument,
 Moped,
@@ -502,12 +579,32 @@ Motorcycle,
 MountainCity,
 Move,
 MoveAlt,
+Notebook,
+NoteSticky,
 OctagonExclamation,
 OilWell,
+Paperclip,
+PaperclipAlt,
+PaperclipSlash,
+PaperclipSlashAlt,
 PartyBell,
 PartyHorn,
+Percent,
+PhoneIntercom,
+PhoneOffice,
 PlaceOfWorship,
+Podium,
+PresentationChart,
+PresentationChartAlt,
+PresentationChartArrow,
+PresentationLine,
+PresentationScreen,
 Question,
+ReceiptAlt,
+ReceiptAlt1,
+ReceiptAlt2,
+ReceiptAlt3,
+Reciept,
 RefreshCcw,
 RefreshCcwAlt,
 RefreshCcwAlt1,
@@ -538,15 +635,28 @@ SensorFire,
 SensorOn,
 SensorTriangleExclamation,
 Shop,
+Shredder,
 Shuffle,
+Sitemap,
 SkullCrossbones,
 Sort,
 SortDown,
 SortUp,
+SquareCv,
+SquareDollar,
+SquareDollarChart,
 SquareExclamation,
+SquarePhone,
+SquarePhoneFlip,
+SquareUserChart,
+SquareUserCheck,
 Subdirectory,
+Suitcase,
 SwitchHorizontal,
 SwitchVertical,
+TableTree,
+Tag,
+Tags,
 Temple,
 Tent,
 TentArrowDownToLine,
@@ -554,17 +664,21 @@ TentArrowLeftRight,
 TentArrowsDown,
 TentArrowTurnLeft,
 Tents,
+Thumbtack,
 ToiletPortable,
 ToiletsPortable,
 ToriiGate,
 Tower,
 TowerObservation,
+Trademark,
 Train,
 TrainSubway,
 TrainTrack,
 TrainTram,
+TreasureChest,
 TriangleExclamation,
 Truck,
+University,
 Upload,
 Van,
 Vihara,
