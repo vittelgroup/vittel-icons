@@ -81,6 +81,15 @@ import BadgeCheck from "./icons/BadgeCheck";
 import Bank from "./icons/Bank";
 import BarsProgress from "./icons/BarsProgress";
 import Book from "./icons/Book";
+import BracketCurly from "./icons/BracketCurly";
+import BracketCurlyRight from "./icons/BracketCurlyRight";
+import BracketRound from "./icons/BracketRound";
+import BracketRoundRight from "./icons/BracketRoundRight";
+import BracketsCurly from "./icons/BracketsCurly";
+import BracketSquare from "./icons/BracketSquare";
+import BracketSquareRight from "./icons/BracketSquareRight";
+import BracketsRound from "./icons/BracketsRound";
+import BracketsSquare from "./icons/BracketsSquare";
 import BrakeWarning from "./icons/BrakeWarning";
 import BridgeSuspension from "./icons/BridgeSuspension";
 import Briefcase from "./icons/Briefcase";
@@ -91,6 +100,7 @@ import BriefcaseAlt3 from "./icons/BriefcaseAlt3";
 import BriefcaseAlt4 from "./icons/BriefcaseAlt4";
 import BriefcaseDollar from "./icons/BriefcaseDollar";
 import BriefcasePlus from "./icons/BriefcasePlus";
+import Browser from "./icons/Browser";
 import Building from "./icons/Building";
 import BuildingArrowRight from "./icons/BuildingArrowRight";
 import BuildingCar from "./icons/BuildingCar";
@@ -190,6 +200,15 @@ import CircleInformation from "./icons/CircleInformation";
 import CircleQuarter from "./icons/CircleQuarter";
 import CircleQuestion from "./icons/CircleQuestion";
 import City from "./icons/City";
+import Code from "./icons/Code";
+import CodeAlt from "./icons/CodeAlt";
+import CodeBranch from "./icons/CodeBranch";
+import CodeCommit from "./icons/CodeCommit";
+import CodeCompare from "./icons/CodeCompare";
+import CodeFork from "./icons/CodeFork";
+import CodeMerge from "./icons/CodeMerge";
+import CodePullRequest from "./icons/CodePullRequest";
+import CodePullRequestClosed from "./icons/CodePullRequestClosed";
 import ContainerStorage from "./icons/ContainerStorage";
 import CornerDownLeft from "./icons/CornerDownLeft";
 import CornerDownRight from "./icons/CornerDownRight";
@@ -290,6 +309,7 @@ import Motorcycle from "./icons/Motorcycle";
 import MountainCity from "./icons/MountainCity";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
+import Notdef from "./icons/Notdef";
 import Notebook from "./icons/Notebook";
 import NoteSticky from "./icons/NoteSticky";
 import OctagonExclamation from "./icons/OctagonExclamation";
@@ -316,6 +336,9 @@ import ReceiptAlt1 from "./icons/ReceiptAlt1";
 import ReceiptAlt2 from "./icons/ReceiptAlt2";
 import ReceiptAlt3 from "./icons/ReceiptAlt3";
 import Reciept from "./icons/Reciept";
+import RectangleCode from "./icons/RectangleCode";
+import RectangleTerminal from "./icons/RectangleTerminal";
+import RectangleXmark from "./icons/RectangleXmark";
 import RefreshCcw from "./icons/RefreshCcw";
 import RefreshCcwAlt from "./icons/RefreshCcwAlt";
 import RefreshCcwAlt1 from "./icons/RefreshCcwAlt1";
@@ -348,11 +371,14 @@ import SensorTriangleExclamation from "./icons/SensorTriangleExclamation";
 import Shop from "./icons/Shop";
 import Shredder from "./icons/Shredder";
 import Shuffle from "./icons/Shuffle";
+import Sidebar from "./icons/Sidebar";
+import SidebarFlip from "./icons/SidebarFlip";
 import Sitemap from "./icons/Sitemap";
 import SkullCrossbones from "./icons/SkullCrossbones";
 import Sort from "./icons/Sort";
 import SortDown from "./icons/SortDown";
 import SortUp from "./icons/SortUp";
+import SquareCode from "./icons/SquareCode";
 import SquareCv from "./icons/SquareCv";
 import SquareDollar from "./icons/SquareDollar";
 import SquareDollarChart from "./icons/SquareDollarChart";
@@ -362,6 +388,7 @@ import SquarePhone from "./icons/SquarePhone";
 import SquarePhoneFlip from "./icons/SquarePhoneFlip";
 import SquarePollHorizontal from "./icons/SquarePollHorizontal";
 import SquarePollVertical from "./icons/SquarePollVertical";
+import SquareTerminal from "./icons/SquareTerminal";
 import SquareUserChart from "./icons/SquareUserChart";
 import SquareUserCheck from "./icons/SquareUserCheck";
 import Subdirectory from "./icons/Subdirectory";
@@ -378,6 +405,7 @@ import TentArrowLeftRight from "./icons/TentArrowLeftRight";
 import TentArrowsDown from "./icons/TentArrowsDown";
 import TentArrowTurnLeft from "./icons/TentArrowTurnLeft";
 import Tents from "./icons/Tents";
+import Terminal from "./icons/Terminal";
 import Thumbtack from "./icons/Thumbtack";
 import ToiletPortable from "./icons/ToiletPortable";
 import ToiletsPortable from "./icons/ToiletsPortable";
@@ -399,6 +427,8 @@ import Vihara from "./icons/Vihara";
 import Warehouse from "./icons/Warehouse";
 import WarehouseFull from "./icons/WarehouseFull";
 import WifiExclamation from "./icons/WifiExclamation";
+import Window from "./icons/Window";
+import WindowFlip from "./icons/WindowFlip";
 import WindWarning from "./icons/WindWarning";
 
 export {
@@ -485,6 +515,15 @@ BadgeCheck,
 Bank,
 BarsProgress,
 Book,
+BracketCurly,
+BracketCurlyRight,
+BracketRound,
+BracketRoundRight,
+BracketsCurly,
+BracketSquare,
+BracketSquareRight,
+BracketsRound,
+BracketsSquare,
 BrakeWarning,
 BridgeSuspension,
 Briefcase,
@@ -495,6 +534,7 @@ BriefcaseAlt3,
 BriefcaseAlt4,
 BriefcaseDollar,
 BriefcasePlus,
+Browser,
 Building,
 BuildingArrowRight,
 BuildingCar,
@@ -594,6 +634,15 @@ CircleInformation,
 CircleQuarter,
 CircleQuestion,
 City,
+Code,
+CodeAlt,
+CodeBranch,
+CodeCommit,
+CodeCompare,
+CodeFork,
+CodeMerge,
+CodePullRequest,
+CodePullRequestClosed,
 ContainerStorage,
 CornerDownLeft,
 CornerDownRight,
@@ -694,6 +743,7 @@ Motorcycle,
 MountainCity,
 Move,
 MoveAlt,
+Notdef,
 Notebook,
 NoteSticky,
 OctagonExclamation,
@@ -720,6 +770,9 @@ ReceiptAlt1,
 ReceiptAlt2,
 ReceiptAlt3,
 Reciept,
+RectangleCode,
+RectangleTerminal,
+RectangleXmark,
 RefreshCcw,
 RefreshCcwAlt,
 RefreshCcwAlt1,
@@ -752,11 +805,14 @@ SensorTriangleExclamation,
 Shop,
 Shredder,
 Shuffle,
+Sidebar,
+SidebarFlip,
 Sitemap,
 SkullCrossbones,
 Sort,
 SortDown,
 SortUp,
+SquareCode,
 SquareCv,
 SquareDollar,
 SquareDollarChart,
@@ -766,6 +822,7 @@ SquarePhone,
 SquarePhoneFlip,
 SquarePollHorizontal,
 SquarePollVertical,
+SquareTerminal,
 SquareUserChart,
 SquareUserCheck,
 Subdirectory,
@@ -782,6 +839,7 @@ TentArrowLeftRight,
 TentArrowsDown,
 TentArrowTurnLeft,
 Tents,
+Terminal,
 Thumbtack,
 ToiletPortable,
 ToiletsPortable,
@@ -803,5 +861,7 @@ Vihara,
 Warehouse,
 WarehouseFull,
 WifiExclamation,
+Window,
+WindowFlip,
 WindWarning
 }
