@@ -108,6 +108,31 @@ import BuildingXmark from "./icons/BuildingXmark";
 import BullseyeArrow from "./icons/BullseyeArrow";
 import Bus from "./icons/Bus";
 import Calculator from "./icons/Calculator";
+import Calendar from "./icons/Calendar";
+import CalendarAlt from "./icons/CalendarAlt";
+import CalendarArrowDown from "./icons/CalendarArrowDown";
+import CalendarArrowUp from "./icons/CalendarArrowUp";
+import CalendarCheck from "./icons/CalendarCheck";
+import CalendarCircleExclamation from "./icons/CalendarCircleExclamation";
+import CalendarCircleMinus from "./icons/CalendarCircleMinus";
+import CalendarCirclePlus from "./icons/CalendarCirclePlus";
+import CalendarDay from "./icons/CalendarDay";
+import CalendarDays from "./icons/CalendarDays";
+import CalendarExclamation from "./icons/CalendarExclamation";
+import CalendarExclamationAlt from "./icons/CalendarExclamationAlt";
+import CalendarHeart from "./icons/CalendarHeart";
+import CalendarLines from "./icons/CalendarLines";
+import CalendarLinesAlt from "./icons/CalendarLinesAlt";
+import CalendarLinesPen from "./icons/CalendarLinesPen";
+import CalendarMinus from "./icons/CalendarMinus";
+import CalendarPen from "./icons/CalendarPen";
+import CalendarPlus from "./icons/CalendarPlus";
+import CalendarPlusAlt from "./icons/CalendarPlusAlt";
+import Calendars from "./icons/Calendars";
+import CalendarUser from "./icons/CalendarUser";
+import CalendarWeek from "./icons/CalendarWeek";
+import CalendarXmark from "./icons/CalendarXmark";
+import CalendarXmarkAlt from "./icons/CalendarXmarkAlt";
 import Campground from "./icons/Campground";
 import Car from "./icons/Car";
 import CaretDown from "./icons/CaretDown";
@@ -453,6 +478,31 @@ BuildingXmark,
 BullseyeArrow,
 Bus,
 Calculator,
+Calendar,
+CalendarAlt,
+CalendarArrowDown,
+CalendarArrowUp,
+CalendarCheck,
+CalendarCircleExclamation,
+CalendarCircleMinus,
+CalendarCirclePlus,
+CalendarDay,
+CalendarDays,
+CalendarExclamation,
+CalendarExclamationAlt,
+CalendarHeart,
+CalendarLines,
+CalendarLinesAlt,
+CalendarLinesPen,
+CalendarMinus,
+CalendarPen,
+CalendarPlus,
+CalendarPlusAlt,
+Calendars,
+CalendarUser,
+CalendarWeek,
+CalendarXmark,
+CalendarXmarkAlt,
 Campground,
 Car,
 CaretDown,
