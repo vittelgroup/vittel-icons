@@ -41,7 +41,6 @@ import ArrowNarrowRightAlignment from "./icons/ArrowNarrowRightAlignment";
 import ArrowNarrowRightMove from "./icons/ArrowNarrowRightMove";
 import ArrowNarrowTopAlignment from "./icons/ArrowNarrowTopAlignment";
 import ArrowNarrowUp from "./icons/ArrowNarrowUp";
-import ArrowNarrowUp1 from "./icons/ArrowNarrowUp1";
 import ArrowNarrowUpMove from "./icons/ArrowNarrowUpMove";
 import ArrowRight from "./icons/ArrowRight";
 import ArrowRightFromArc from "./icons/ArrowRightFromArc";
@@ -411,7 +410,6 @@ ArrowNarrowRightAlignment,
 ArrowNarrowRightMove,
 ArrowNarrowTopAlignment,
 ArrowNarrowUp,
-ArrowNarrowUp1,
 ArrowNarrowUpMove,
 ArrowRight,
 ArrowRightFromArc,

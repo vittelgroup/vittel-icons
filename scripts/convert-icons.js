@@ -7,6 +7,13 @@ const outputPath = path.join(__dirname, "../src/icons");
 const indexPath = path.join(__dirname, "../src/index.tsx");
 const { generateStorybookFiles } = require("./generate-storie-book-file");
 
+// Saber Icones Faltantes
+// groupedIcons.map((groupSvgWithVariants, i) => {
+//   if(groupSvgWithVariants[Object.keys(groupSvgWithVariants)[0]].length != 4){
+//     console.log(groupSvgWithVariants)
+//   }
+// })
+
 function groupIconsByName() {
   const iconGroups = [];
 
