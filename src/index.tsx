@@ -1,3 +1,4 @@
+import Archway from "./icons/Archway";
 import ArrowCircleDown from "./icons/ArrowCircleDown";
 import ArrowCircleDownLeft from "./icons/ArrowCircleDownLeft";
 import ArrowCircleDownRight from "./icons/ArrowCircleDownRight";
@@ -77,8 +78,25 @@ import ArrowUpShortWide from "./icons/ArrowUpShortWide";
 import ArrowUpSmallBig from "./icons/ArrowUpSmallBig";
 import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
+import Bank from "./icons/Bank";
 import BrakeWarning from "./icons/BrakeWarning";
+import BridgeSuspension from "./icons/BridgeSuspension";
+import Building from "./icons/Building";
+import BuildingArrowRight from "./icons/BuildingArrowRight";
+import BuildingCar from "./icons/BuildingCar";
+import BuildingCheck from "./icons/BuildingCheck";
+import BuildingColumns from "./icons/BuildingColumns";
+import BuildingExclamation from "./icons/BuildingExclamation";
+import BuildingFlag from "./icons/BuildingFlag";
+import BuildingLock from "./icons/BuildingLock";
+import BuildingNGO from "./icons/BuildingNGO";
+import Buildings from "./icons/Buildings";
+import BuildingShield from "./icons/BuildingShield";
+import BuildingUN from "./icons/BuildingUN";
+import BuildingUser from "./icons/BuildingUser";
+import BuildingXmark from "./icons/BuildingXmark";
 import Bus from "./icons/Bus";
+import Campground from "./icons/Campground";
 import Car from "./icons/Car";
 import CaretDown from "./icons/CaretDown";
 import CaretLeft from "./icons/CaretLeft";
@@ -87,6 +105,7 @@ import CaretRight from "./icons/CaretRight";
 import CaretRightToLine from "./icons/CaretRightToLine";
 import CaretUp from "./icons/CaretUp";
 import CarSide from "./icons/CarSide";
+import Castle from "./icons/Castle";
 import ChevronDown from "./icons/ChevronDown";
 import ChevronDownDot from "./icons/ChevronDownDot";
 import ChevronDownDouble from "./icons/ChevronDownDouble";
@@ -107,10 +126,14 @@ import ChevronUpDot from "./icons/ChevronUpDot";
 import ChevronUpDouble from "./icons/ChevronUpDouble";
 import ChevronUpLeft from "./icons/ChevronUpLeft";
 import ChevronUpRight from "./icons/ChevronUpRight";
+import Chimney from "./icons/Chimney";
+import Church from "./icons/Church";
 import CircleExclamation from "./icons/CircleExclamation";
 import CircleExclamationCheck from "./icons/CircleExclamationCheck";
 import CircleInformation from "./icons/CircleInformation";
 import CircleQuestion from "./icons/CircleQuestion";
+import City from "./icons/City";
+import ContainerStorage from "./icons/ContainerStorage";
 import CornerDownLeft from "./icons/CornerDownLeft";
 import CornerDownRight from "./icons/CornerDownRight";
 import CornerLeftDown from "./icons/CornerLeftDown";
@@ -128,28 +151,74 @@ import EngineWarning from "./icons/EngineWarning";
 import Enter from "./icons/Enter";
 import Exclamation from "./icons/Exclamation";
 import ExclamationAlt from "./icons/ExclamationAlt";
+import Farm from "./icons/Farm";
+import Fence from "./icons/Fence";
+import FerrisWheel from "./icons/FerrisWheel";
 import FlipBackward from "./icons/FlipBackward";
 import FlipForward from "./icons/FlipForward";
 import Forward from "./icons/Forward";
+import Garage from "./icons/Garage";
+import GarageOpen from "./icons/GarageOpen";
 import Gauge from "./icons/Gauge";
 import GaugeHigh from "./icons/GaugeHigh";
 import GaugeLow from "./icons/GaugeLow";
 import GaugeMax from "./icons/GaugeMax";
 import HexagonExclamation from "./icons/HexagonExclamation";
+import Hospital from "./icons/Hospital";
+import Hospitals from "./icons/Hospitals";
+import HospitalUser from "./icons/HospitalUser";
+import Hotel from "./icons/Hotel";
+import HouseBolt from "./icons/HouseBolt";
+import HouseBoltAlt from "./icons/HouseBoltAlt";
+import HouseBuilding from "./icons/HouseBuilding";
+import HouseCelcius from "./icons/HouseCelcius";
+import HouseChimneyBlank from "./icons/HouseChimneyBlank";
+import HouseChimneyFloor from "./icons/HouseChimneyFloor";
+import HouseChimneyUser from "./icons/HouseChimneyUser";
+import HouseCrack from "./icons/HouseCrack";
+import HouseFire from "./icons/HouseFire";
+import HouseFlag from "./icons/HouseFlag";
+import HouseFloor from "./icons/HouseFloor";
+import HouseLine from "./icons/HouseLine";
+import HouseLock from "./icons/HouseLock";
+import HouseLockAlt from "./icons/HouseLockAlt";
+import HouseMedical from "./icons/HouseMedical";
+import HouseMedicalCheck from "./icons/HouseMedicalCheck";
+import HouseMedicalExclamation from "./icons/HouseMedicalExclamation";
+import HouseMedicalFlag from "./icons/HouseMedicalFlag";
+import HouseMedicalXmark from "./icons/HouseMedicalXmark";
+import HouseShield from "./icons/HouseShield";
+import HouseSmile from "./icons/HouseSmile";
+import HouseSun from "./icons/HouseSun";
+import HouseTree from "./icons/HouseTree";
+import HouseTurret from "./icons/HouseTurret";
+import HouseUser from "./icons/HouseUser";
+import HouseWater from "./icons/HouseWater";
+import HouseWifi from "./icons/HouseWifi";
+import HouseWindow from "./icons/HouseWindow";
+import Industry from "./icons/Industry";
+import IndustryWindows from "./icons/IndustryWindows";
 import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
 import InformationAlt from "./icons/InformationAlt";
+import Landmark from "./icons/Landmark";
+import LandmarkDome from "./icons/LandmarkDome";
+import LandmarkFlag from "./icons/LandmarkFlag";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
 import Maximize from "./icons/Maximize";
 import Minimize from "./icons/Minimize";
+import Monument from "./icons/Monument";
 import Moped from "./icons/Moped";
 import Motorcycle from "./icons/Motorcycle";
+import MountainCity from "./icons/MountainCity";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
 import OctagonExclamation from "./icons/OctagonExclamation";
+import OilWell from "./icons/OilWell";
 import PartyBell from "./icons/PartyBell";
 import PartyHorn from "./icons/PartyHorn";
+import PlaceOfWorship from "./icons/PlaceOfWorship";
 import Question from "./icons/Question";
 import RefreshCcw from "./icons/RefreshCcw";
 import RefreshCcwAlt from "./icons/RefreshCcwAlt";
@@ -167,16 +236,20 @@ import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
 import Reply from "./icons/Reply";
 import Rocket from "./icons/Rocket";
+import RollerCoaster from "./icons/RollerCoaster";
 import Rotate from "./icons/Rotate";
 import RotateCcw from "./icons/RotateCcw";
 import RotateCw from "./icons/RotateCw";
 import RotateExclamation from "./icons/RotateExclamation";
+import School from "./icons/School";
+import SchoolFlag from "./icons/SchoolFlag";
 import SealExclamation from "./icons/SealExclamation";
 import SealQuestion from "./icons/SealQuestion";
 import Sensor from "./icons/Sensor";
 import SensorFire from "./icons/SensorFire";
 import SensorOn from "./icons/SensorOn";
 import SensorTriangleExclamation from "./icons/SensorTriangleExclamation";
+import Shop from "./icons/Shop";
 import Shuffle from "./icons/Shuffle";
 import SkullCrossbones from "./icons/SkullCrossbones";
 import Sort from "./icons/Sort";
@@ -186,6 +259,18 @@ import SquareExclamation from "./icons/SquareExclamation";
 import Subdirectory from "./icons/Subdirectory";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
+import Temple from "./icons/Temple";
+import Tent from "./icons/Tent";
+import TentArrowDownToLine from "./icons/TentArrowDownToLine";
+import TentArrowLeftRight from "./icons/TentArrowLeftRight";
+import TentArrowsDown from "./icons/TentArrowsDown";
+import TentArrowTurnLeft from "./icons/TentArrowTurnLeft";
+import Tents from "./icons/Tents";
+import ToiletPortable from "./icons/ToiletPortable";
+import ToiletsPortable from "./icons/ToiletsPortable";
+import ToriiGate from "./icons/ToriiGate";
+import Tower from "./icons/Tower";
+import TowerObservation from "./icons/TowerObservation";
 import Train from "./icons/Train";
 import TrainSubway from "./icons/TrainSubway";
 import TrainTrack from "./icons/TrainTrack";
@@ -194,10 +279,14 @@ import TriangleExclamation from "./icons/TriangleExclamation";
 import Truck from "./icons/Truck";
 import Upload from "./icons/Upload";
 import Van from "./icons/Van";
+import Vihara from "./icons/Vihara";
+import Warehouse from "./icons/Warehouse";
+import WarehouseFull from "./icons/WarehouseFull";
 import WifiExclamation from "./icons/WifiExclamation";
 import WindWarning from "./icons/WindWarning";
 
 export {
+Archway,
 ArrowCircleDown,
 ArrowCircleDownLeft,
 ArrowCircleDownRight,
@@ -277,8 +366,25 @@ ArrowUpShortWide,
 ArrowUpSmallBig,
 ArrowUpWideShort,
 ArrowUpZA,
+Bank,
 BrakeWarning,
+BridgeSuspension,
+Building,
+BuildingArrowRight,
+BuildingCar,
+BuildingCheck,
+BuildingColumns,
+BuildingExclamation,
+BuildingFlag,
+BuildingLock,
+BuildingNGO,
+Buildings,
+BuildingShield,
+BuildingUN,
+BuildingUser,
+BuildingXmark,
 Bus,
+Campground,
 Car,
 CaretDown,
 CaretLeft,
@@ -287,6 +393,7 @@ CaretRight,
 CaretRightToLine,
 CaretUp,
 CarSide,
+Castle,
 ChevronDown,
 ChevronDownDot,
 ChevronDownDouble,
@@ -307,10 +414,14 @@ ChevronUpDot,
 ChevronUpDouble,
 ChevronUpLeft,
 ChevronUpRight,
+Chimney,
+Church,
 CircleExclamation,
 CircleExclamationCheck,
 CircleInformation,
 CircleQuestion,
+City,
+ContainerStorage,
 CornerDownLeft,
 CornerDownRight,
 CornerLeftDown,
@@ -328,28 +439,74 @@ EngineWarning,
 Enter,
 Exclamation,
 ExclamationAlt,
+Farm,
+Fence,
+FerrisWheel,
 FlipBackward,
 FlipForward,
 Forward,
+Garage,
+GarageOpen,
 Gauge,
 GaugeHigh,
 GaugeLow,
 GaugeMax,
 HexagonExclamation,
+Hospital,
+Hospitals,
+HospitalUser,
+Hotel,
+HouseBolt,
+HouseBoltAlt,
+HouseBuilding,
+HouseCelcius,
+HouseChimneyBlank,
+HouseChimneyFloor,
+HouseChimneyUser,
+HouseCrack,
+HouseFire,
+HouseFlag,
+HouseFloor,
+HouseLine,
+HouseLock,
+HouseLockAlt,
+HouseMedical,
+HouseMedicalCheck,
+HouseMedicalExclamation,
+HouseMedicalFlag,
+HouseMedicalXmark,
+HouseShield,
+HouseSmile,
+HouseSun,
+HouseTree,
+HouseTurret,
+HouseUser,
+HouseWater,
+HouseWifi,
+HouseWindow,
+Industry,
+IndustryWindows,
 Infinity,
 Information,
 InformationAlt,
+Landmark,
+LandmarkDome,
+LandmarkFlag,
 Loop,
 LoopVertical,
 Maximize,
 Minimize,
+Monument,
 Moped,
 Motorcycle,
+MountainCity,
 Move,
 MoveAlt,
 OctagonExclamation,
+OilWell,
 PartyBell,
 PartyHorn,
+PlaceOfWorship,
 Question,
 RefreshCcw,
 RefreshCcwAlt,
@@ -367,16 +524,20 @@ RefreshCwAlt4,
 RepeatAlt,
 Reply,
 Rocket,
+RollerCoaster,
 Rotate,
 RotateCcw,
 RotateCw,
 RotateExclamation,
+School,
+SchoolFlag,
 SealExclamation,
 SealQuestion,
 Sensor,
 SensorFire,
 SensorOn,
 SensorTriangleExclamation,
+Shop,
 Shuffle,
 SkullCrossbones,
 Sort,
@@ -386,6 +547,18 @@ SquareExclamation,
 Subdirectory,
 SwitchHorizontal,
 SwitchVertical,
+Temple,
+Tent,
+TentArrowDownToLine,
+TentArrowLeftRight,
+TentArrowsDown,
+TentArrowTurnLeft,
+Tents,
+ToiletPortable,
+ToiletsPortable,
+ToriiGate,
+Tower,
+TowerObservation,
 Train,
 TrainSubway,
 TrainTrack,
@@ -394,6 +567,9 @@ TriangleExclamation,
 Truck,
 Upload,
 Van,
+Vihara,
+Warehouse,
+WarehouseFull,
 WifiExclamation,
 WindWarning
 }
