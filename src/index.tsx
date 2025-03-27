@@ -1,3 +1,7 @@
+import AddressBook from "./icons/AddressBook";
+import AddressCard from "./icons/AddressCard";
+import Annotation from "./icons/Annotation";
+import AnnotationUser from "./icons/AnnotationUser";
 import Archway from "./icons/Archway";
 import ArrowCircleDown from "./icons/ArrowCircleDown";
 import ArrowCircleDownLeft from "./icons/ArrowCircleDownLeft";
@@ -77,6 +81,7 @@ import ArrowUpShortWide from "./icons/ArrowUpShortWide";
 import ArrowUpSmallBig from "./icons/ArrowUpSmallBig";
 import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
+import AtSign from "./icons/AtSign";
 import BadgeCheck from "./icons/BadgeCheck";
 import Bank from "./icons/Bank";
 import BarsProgress from "./icons/BarsProgress";
@@ -287,6 +292,22 @@ import HouseUser from "./icons/HouseUser";
 import HouseWater from "./icons/HouseWater";
 import HouseWifi from "./icons/HouseWifi";
 import HouseWindow from "./icons/HouseWindow";
+import Inbox from "./icons/Inbox";
+import InboxAlt from "./icons/InboxAlt";
+import InboxAlt1 from "./icons/InboxAlt1";
+import InboxAlt2 from "./icons/InboxAlt2";
+import InboxArrowDown from "./icons/InboxArrowDown";
+import InboxArrowLeft from "./icons/InboxArrowLeft";
+import InboxArrowRight from "./icons/InboxArrowRight";
+import InboxArrowUp from "./icons/InboxArrowUp";
+import InboxCheck from "./icons/InboxCheck";
+import InboxExclamation from "./icons/InboxExclamation";
+import InboxHeart from "./icons/InboxHeart";
+import InboxInformation from "./icons/InboxInformation";
+import InboxMinus from "./icons/InboxMinus";
+import InboxPlus from "./icons/InboxPlus";
+import InboxStar from "./icons/InboxStar";
+import InboxXmark from "./icons/InboxXmark";
 import Industry from "./icons/Industry";
 import IndustryWindows from "./icons/IndustryWindows";
 import Infinity from "./icons/Infinity";
@@ -298,10 +319,96 @@ import LandmarkDome from "./icons/LandmarkDome";
 import LandmarkFlag from "./icons/LandmarkFlag";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
+import Mail from "./icons/Mail";
+import MailAlt from "./icons/MailAlt";
+import MailAlt1 from "./icons/MailAlt1";
+import MailAlt2 from "./icons/MailAlt2";
+import MailAlt3 from "./icons/MailAlt3";
+import MailArrowDown from "./icons/MailArrowDown";
+import MailArrowUp from "./icons/MailArrowUp";
+import MailBlock from "./icons/MailBlock";
+import MailBookmark from "./icons/MailBookmark";
+import Mailbox from "./icons/Mailbox";
+import MailboxAlt from "./icons/MailboxAlt";
+import MailCheck from "./icons/MailCheck";
+import MailExclamation from "./icons/MailExclamation";
+import MailHeart from "./icons/MailHeart";
+import MailInfo from "./icons/MailInfo";
+import MailLock from "./icons/MailLock";
+import MailMinus from "./icons/MailMinus";
+import MailNotification from "./icons/MailNotification";
+import MailOpen from "./icons/MailOpen";
+import MailOpenAlt from "./icons/MailOpenAlt";
+import MailOpenAlt1 from "./icons/MailOpenAlt1";
+import MailOpenArrowDown from "./icons/MailOpenArrowDown";
+import MailOpenArrowUp from "./icons/MailOpenArrowUp";
+import MailOpenCheck from "./icons/MailOpenCheck";
+import MailOpenExclamation from "./icons/MailOpenExclamation";
+import MailOpenInfo from "./icons/MailOpenInfo";
+import MailOpenMinus from "./icons/MailOpenMinus";
+import MailOpenPlus from "./icons/MailOpenPlus";
+import MailOpenXmark from "./icons/MailOpenXmark";
+import MailPencil from "./icons/MailPencil";
+import MailPlus from "./icons/MailPlus";
+import MailRefresh from "./icons/MailRefresh";
+import MailSearch from "./icons/MailSearch";
+import MailShield from "./icons/MailShield";
+import MailStar from "./icons/MailStar";
+import MailXmark from "./icons/MailXmark";
 import Marker from "./icons/Marker";
 import Maximize from "./icons/Maximize";
 import MemoCheck from "./icons/MemoCheck";
 import MemoPencil from "./icons/MemoPencil";
+import MessageCircle from "./icons/MessageCircle";
+import MessageCircleArrowDown from "./icons/MessageCircleArrowDown";
+import MessageCircleArrowUp from "./icons/MessageCircleArrowUp";
+import MessageCircleBlock from "./icons/MessageCircleBlock";
+import MessageCircleChartLines from "./icons/MessageCircleChartLines";
+import MessageCircleChat from "./icons/MessageCircleChat";
+import MessageCircleCheck from "./icons/MessageCircleCheck";
+import MessageCircleDots from "./icons/MessageCircleDots";
+import MessageCircleExclamation from "./icons/MessageCircleExclamation";
+import MessageCircleHeart from "./icons/MessageCircleHeart";
+import MessageCircleImage from "./icons/MessageCircleImage";
+import MessageCircleInfo from "./icons/MessageCircleInfo";
+import MessageCircleLines from "./icons/MessageCircleLines";
+import MessageCircleLinesAlt from "./icons/MessageCircleLinesAlt";
+import MessageCircleList from "./icons/MessageCircleList";
+import MessageCircleLock from "./icons/MessageCircleLock";
+import MessageCircleMedical from "./icons/MessageCircleMedical";
+import MessageCircleNotification from "./icons/MessageCircleNotification";
+import MessageCirclePencil from "./icons/MessageCirclePencil";
+import MessageCirclePlus from "./icons/MessageCirclePlus";
+import MessageCircleQuestion from "./icons/MessageCircleQuestion";
+import MessageCircleRefresh from "./icons/MessageCircleRefresh";
+import MessageCircleSearch from "./icons/MessageCircleSearch";
+import MessageCircleShield from "./icons/MessageCircleShield";
+import MessageCircleXmark from "./icons/MessageCircleXmark";
+import MessageSquare from "./icons/MessageSquare";
+import MessageSquareArrowDown from "./icons/MessageSquareArrowDown";
+import MessageSquareArrowUp from "./icons/MessageSquareArrowUp";
+import MessageSquareBlock from "./icons/MessageSquareBlock";
+import MessageSquareChartLines from "./icons/MessageSquareChartLines";
+import MessageSquareChat from "./icons/MessageSquareChat";
+import MessageSquareCheck from "./icons/MessageSquareCheck";
+import MessageSquareDots from "./icons/MessageSquareDots";
+import MessageSquareExclamation from "./icons/MessageSquareExclamation";
+import MessageSquareHeart from "./icons/MessageSquareHeart";
+import MessageSquareImage from "./icons/MessageSquareImage";
+import MessageSquareInfo from "./icons/MessageSquareInfo";
+import MessageSquareLines from "./icons/MessageSquareLines";
+import MessageSquareLinesAlt from "./icons/MessageSquareLinesAlt";
+import MessageSquareList from "./icons/MessageSquareList";
+import MessageSquareLock from "./icons/MessageSquareLock";
+import MessageSquareMedical from "./icons/MessageSquareMedical";
+import MessageSquareNotification from "./icons/MessageSquareNotification";
+import MessageSquarePencil from "./icons/MessageSquarePencil";
+import MessageSquarePlus from "./icons/MessageSquarePlus";
+import MessageSquareQuestion from "./icons/MessageSquareQuestion";
+import MessageSquareRefresh from "./icons/MessageSquareRefresh";
+import MessageSquareSearch from "./icons/MessageSquareSearch";
+import MessageSquareShield from "./icons/MessageSquareShield";
+import MessageSquareXmark from "./icons/MessageSquareXmark";
 import Minimize from "./icons/Minimize";
 import Monument from "./icons/Monument";
 import Moped from "./icons/Moped";
@@ -321,9 +428,36 @@ import PaperclipSlashAlt from "./icons/PaperclipSlashAlt";
 import PartyBell from "./icons/PartyBell";
 import PartyHorn from "./icons/PartyHorn";
 import Percent from "./icons/Percent";
+import Phone from "./icons/Phone";
+import PhoneAlt from "./icons/PhoneAlt";
+import PhoneBlock from "./icons/PhoneBlock";
+import PhoneBlockAlt from "./icons/PhoneBlockAlt";
+import PhoneCall from "./icons/PhoneCall";
+import PhoneCallAlt1 from "./icons/PhoneCallAlt1";
+import PhoneFlip from "./icons/PhoneFlip";
+import PhoneFlipAlt from "./icons/PhoneFlipAlt";
+import PhoneIncoming from "./icons/PhoneIncoming";
+import PhoneIncomingAlt from "./icons/PhoneIncomingAlt";
 import PhoneIntercom from "./icons/PhoneIntercom";
+import PhoneLock from "./icons/PhoneLock";
+import PhoneLockAlt from "./icons/PhoneLockAlt";
+import PhoneMissed from "./icons/PhoneMissed";
+import PhoneMissedAlt from "./icons/PhoneMissedAlt";
 import PhoneOffice from "./icons/PhoneOffice";
+import PhoneOutgoing from "./icons/PhoneOutgoing";
+import PhoneOutgoingAlt from "./icons/PhoneOutgoingAlt";
+import PhonePause from "./icons/PhonePause";
+import PhonePauseAlt from "./icons/PhonePauseAlt";
+import PhonePlus from "./icons/PhonePlus";
+import PhonePlusAlt from "./icons/PhonePlusAlt";
+import PhoneSignal from "./icons/PhoneSignal";
+import PhoneSignalAlt from "./icons/PhoneSignalAlt";
+import PhoneSlash from "./icons/PhoneSlash";
+import PhoneSlashAlt from "./icons/PhoneSlashAlt";
+import PhoneXmark from "./icons/PhoneXmark";
+import PhoneXmarkAlt from "./icons/PhoneXmarkAlt";
 import PlaceOfWorship from "./icons/PlaceOfWorship";
+import Podcast from "./icons/Podcast";
 import Podium from "./icons/Podium";
 import PresentationChart from "./icons/PresentationChart";
 import PresentationChartAlt from "./icons/PresentationChartAlt";
@@ -364,6 +498,11 @@ import School from "./icons/School";
 import SchoolFlag from "./icons/SchoolFlag";
 import SealExclamation from "./icons/SealExclamation";
 import SealQuestion from "./icons/SealQuestion";
+import Send from "./icons/Send";
+import SendAlt from "./icons/SendAlt";
+import SendAlt1 from "./icons/SendAlt1";
+import SendAlt2 from "./icons/SendAlt2";
+import SendAlt3 from "./icons/SendAlt3";
 import Sensor from "./icons/Sensor";
 import SensorFire from "./icons/SensorFire";
 import SensorOn from "./icons/SensorOn";
@@ -424,6 +563,7 @@ import University from "./icons/University";
 import Upload from "./icons/Upload";
 import Van from "./icons/Van";
 import Vihara from "./icons/Vihara";
+import Voicemail from "./icons/Voicemail";
 import Warehouse from "./icons/Warehouse";
 import WarehouseFull from "./icons/WarehouseFull";
 import WifiExclamation from "./icons/WifiExclamation";
@@ -432,6 +572,10 @@ import WindowFlip from "./icons/WindowFlip";
 import WindWarning from "./icons/WindWarning";
 
 export {
+AddressBook,
+AddressCard,
+Annotation,
+AnnotationUser,
 Archway,
 ArrowCircleDown,
 ArrowCircleDownLeft,
@@ -511,6 +655,7 @@ ArrowUpShortWide,
 ArrowUpSmallBig,
 ArrowUpWideShort,
 ArrowUpZA,
+AtSign,
 BadgeCheck,
 Bank,
 BarsProgress,
@@ -721,6 +866,22 @@ HouseUser,
 HouseWater,
 HouseWifi,
 HouseWindow,
+Inbox,
+InboxAlt,
+InboxAlt1,
+InboxAlt2,
+InboxArrowDown,
+InboxArrowLeft,
+InboxArrowRight,
+InboxArrowUp,
+InboxCheck,
+InboxExclamation,
+InboxHeart,
+InboxInformation,
+InboxMinus,
+InboxPlus,
+InboxStar,
+InboxXmark,
 Industry,
 IndustryWindows,
 Infinity,
@@ -732,10 +893,96 @@ LandmarkDome,
 LandmarkFlag,
 Loop,
 LoopVertical,
+Mail,
+MailAlt,
+MailAlt1,
+MailAlt2,
+MailAlt3,
+MailArrowDown,
+MailArrowUp,
+MailBlock,
+MailBookmark,
+Mailbox,
+MailboxAlt,
+MailCheck,
+MailExclamation,
+MailHeart,
+MailInfo,
+MailLock,
+MailMinus,
+MailNotification,
+MailOpen,
+MailOpenAlt,
+MailOpenAlt1,
+MailOpenArrowDown,
+MailOpenArrowUp,
+MailOpenCheck,
+MailOpenExclamation,
+MailOpenInfo,
+MailOpenMinus,
+MailOpenPlus,
+MailOpenXmark,
+MailPencil,
+MailPlus,
+MailRefresh,
+MailSearch,
+MailShield,
+MailStar,
+MailXmark,
 Marker,
 Maximize,
 MemoCheck,
 MemoPencil,
+MessageCircle,
+MessageCircleArrowDown,
+MessageCircleArrowUp,
+MessageCircleBlock,
+MessageCircleChartLines,
+MessageCircleChat,
+MessageCircleCheck,
+MessageCircleDots,
+MessageCircleExclamation,
+MessageCircleHeart,
+MessageCircleImage,
+MessageCircleInfo,
+MessageCircleLines,
+MessageCircleLinesAlt,
+MessageCircleList,
+MessageCircleLock,
+MessageCircleMedical,
+MessageCircleNotification,
+MessageCirclePencil,
+MessageCirclePlus,
+MessageCircleQuestion,
+MessageCircleRefresh,
+MessageCircleSearch,
+MessageCircleShield,
+MessageCircleXmark,
+MessageSquare,
+MessageSquareArrowDown,
+MessageSquareArrowUp,
+MessageSquareBlock,
+MessageSquareChartLines,
+MessageSquareChat,
+MessageSquareCheck,
+MessageSquareDots,
+MessageSquareExclamation,
+MessageSquareHeart,
+MessageSquareImage,
+MessageSquareInfo,
+MessageSquareLines,
+MessageSquareLinesAlt,
+MessageSquareList,
+MessageSquareLock,
+MessageSquareMedical,
+MessageSquareNotification,
+MessageSquarePencil,
+MessageSquarePlus,
+MessageSquareQuestion,
+MessageSquareRefresh,
+MessageSquareSearch,
+MessageSquareShield,
+MessageSquareXmark,
 Minimize,
 Monument,
 Moped,
@@ -755,9 +1002,36 @@ PaperclipSlashAlt,
 PartyBell,
 PartyHorn,
 Percent,
+Phone,
+PhoneAlt,
+PhoneBlock,
+PhoneBlockAlt,
+PhoneCall,
+PhoneCallAlt1,
+PhoneFlip,
+PhoneFlipAlt,
+PhoneIncoming,
+PhoneIncomingAlt,
 PhoneIntercom,
+PhoneLock,
+PhoneLockAlt,
+PhoneMissed,
+PhoneMissedAlt,
 PhoneOffice,
+PhoneOutgoing,
+PhoneOutgoingAlt,
+PhonePause,
+PhonePauseAlt,
+PhonePlus,
+PhonePlusAlt,
+PhoneSignal,
+PhoneSignalAlt,
+PhoneSlash,
+PhoneSlashAlt,
+PhoneXmark,
+PhoneXmarkAlt,
 PlaceOfWorship,
+Podcast,
 Podium,
 PresentationChart,
 PresentationChartAlt,
@@ -798,6 +1072,11 @@ School,
 SchoolFlag,
 SealExclamation,
 SealQuestion,
+Send,
+SendAlt,
+SendAlt1,
+SendAlt2,
+SendAlt3,
 Sensor,
 SensorFire,
 SensorOn,
@@ -858,6 +1137,7 @@ University,
 Upload,
 Van,
 Vihara,
+Voicemail,
 Warehouse,
 WarehouseFull,
 WifiExclamation,
