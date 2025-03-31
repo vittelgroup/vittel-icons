@@ -53,8 +53,9 @@ export const Default: Story = {
       
       const filePath = path.join(outputDir, `${name}.stories.tsx`);
       fs.writeFileSync(filePath, content, "utf8");
-      console.log(`✅ ${name}.stories.tsx criado com sucesso!`);
     });
+    console.log(`✅ Stories criados com sucesso!`);
+
   } catch (error) {
     console.error("❌ Erro ao gerar arquivos de storybook:", error);
   }
