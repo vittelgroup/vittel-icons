@@ -97,6 +97,9 @@ import Award from "./icons/Award";
 import AwardAlt from "./icons/AwardAlt";
 import Backpack from "./icons/Backpack";
 import BackpackAlt from "./icons/BackpackAlt";
+import Backward from "./icons/Backward";
+import BackwardFast from "./icons/BackwardFast";
+import BackwardStep from "./icons/BackwardStep";
 import BadgeCheck from "./icons/BadgeCheck";
 import BagShopping from "./icons/BagShopping";
 import BagsShopping from "./icons/BagsShopping";
@@ -285,11 +288,14 @@ import CircleMicrophone from "./icons/CircleMicrophone";
 import CircleMinus from "./icons/CircleMinus";
 import CircleParking from "./icons/CircleParking";
 import CircleParkingSplash from "./icons/CircleParkingSplash";
+import CirclePause from "./icons/CirclePause";
+import CirclePlay from "./icons/CirclePlay";
 import CirclePlug from "./icons/CirclePlug";
 import CirclePlugAlt from "./icons/CirclePlugAlt";
 import CirclePlus from "./icons/CirclePlus";
 import CircleQuarter from "./icons/CircleQuarter";
 import CircleQuestion from "./icons/CircleQuestion";
+import CircleStop from "./icons/CircleStop";
 import CircleVideo from "./icons/CircleVideo";
 import CircleWaterPlug from "./icons/CircleWaterPlug";
 import CircleWaveformLines from "./icons/CircleWaveformLines";
@@ -345,6 +351,11 @@ import Colors from "./icons/Colors";
 import Command from "./icons/Command";
 import CompactDisc from "./icons/CompactDisc";
 import CompassDrafting from "./icons/CompassDrafting";
+import Compress from "./icons/Compress";
+import CompressAlt from "./icons/CompressAlt";
+import CompressAlt1 from "./icons/CompressAlt1";
+import CompressAlt2 from "./icons/CompressAlt2";
+import CompressWide from "./icons/CompressWide";
 import ContainerStorage from "./icons/ContainerStorage";
 import Cookie from "./icons/Cookie";
 import CookieMan from "./icons/CookieMan";
@@ -411,6 +422,11 @@ import EngineWarning from "./icons/EngineWarning";
 import Enter from "./icons/Enter";
 import Exclamation from "./icons/Exclamation";
 import ExclamationAlt from "./icons/ExclamationAlt";
+import Expand from "./icons/Expand";
+import ExpandAlt from "./icons/ExpandAlt";
+import ExpandAlt1 from "./icons/ExpandAlt1";
+import ExpandAlt2 from "./icons/ExpandAlt2";
+import ExpandWide from "./icons/ExpandWide";
 import EyeDropper from "./icons/EyeDropper";
 import EyeDropperFull from "./icons/EyeDropperFull";
 import EyeDropperHalf from "./icons/EyeDropperHalf";
@@ -521,6 +537,7 @@ import FolderShield from "./icons/FolderShield";
 import FolderUser from "./icons/FolderUser";
 import FolderXmark from "./icons/FolderXmark";
 import Forward from "./icons/Forward";
+import ForwardStep from "./icons/ForwardStep";
 import Frame from "./icons/Frame";
 import Frankenstein from "./icons/Frankenstein";
 import GalleryThumbnails from "./icons/GalleryThumbnails";
@@ -901,6 +918,7 @@ import PaperclipSlash from "./icons/PaperclipSlash";
 import PaperclipSlashAlt from "./icons/PaperclipSlashAlt";
 import PartyBell from "./icons/PartyBell";
 import PartyHorn from "./icons/PartyHorn";
+import Pause from "./icons/Pause";
 import Pen from "./icons/Pen";
 import Pencil from "./icons/Pencil";
 import PencilSlash from "./icons/PencilSlash";
@@ -946,9 +964,12 @@ import PhoneXmark from "./icons/PhoneXmark";
 import PhoneXmarkAlt from "./icons/PhoneXmarkAlt";
 import Piano from "./icons/Piano";
 import PlaceOfWorship from "./icons/PlaceOfWorship";
+import Play from "./icons/Play";
+import PlayPause from "./icons/PlayPause";
 import Plug from "./icons/Plug";
 import Plus from "./icons/Plus";
 import PlusLarge from "./icons/PlusLarge";
+import PlusMinus from "./icons/PlusMinus";
 import Podcast from "./icons/Podcast";
 import Podium from "./icons/Podium";
 import Potion from "./icons/Potion";
@@ -1013,6 +1034,7 @@ import Scissors from "./icons/Scissors";
 import Screencast from "./icons/Screencast";
 import ScreenUsers from "./icons/ScreenUsers";
 import Scribble from "./icons/Scribble";
+import Scrubber from "./icons/Scrubber";
 import Scythe from "./icons/Scythe";
 import SealExclamation from "./icons/SealExclamation";
 import SealQuestion from "./icons/SealQuestion";
@@ -1195,6 +1217,12 @@ import VideoPlus from "./icons/VideoPlus";
 import VideoSlash from "./icons/VideoSlash";
 import Vihara from "./icons/Vihara";
 import Voicemail from "./icons/Voicemail";
+import VolumeMax from "./icons/VolumeMax";
+import VolumeMin from "./icons/VolumeMin";
+import VolumeMinus from "./icons/VolumeMinus";
+import VolumeOff from "./icons/VolumeOff";
+import VolumePlus from "./icons/VolumePlus";
+import VolumeXmark from "./icons/VolumeXmark";
 import Wand from "./icons/Wand";
 import WandMagic from "./icons/WandMagic";
 import WandMagicSparkles from "./icons/WandMagicSparkles";
@@ -1326,6 +1354,9 @@ Award,
 AwardAlt,
 Backpack,
 BackpackAlt,
+Backward,
+BackwardFast,
+BackwardStep,
 BadgeCheck,
 BagShopping,
 BagsShopping,
@@ -1514,11 +1545,14 @@ CircleMicrophone,
 CircleMinus,
 CircleParking,
 CircleParkingSplash,
+CirclePause,
+CirclePlay,
 CirclePlug,
 CirclePlugAlt,
 CirclePlus,
 CircleQuarter,
 CircleQuestion,
+CircleStop,
 CircleVideo,
 CircleWaterPlug,
 CircleWaveformLines,
@@ -1574,6 +1608,11 @@ Colors,
 Command,
 CompactDisc,
 CompassDrafting,
+Compress,
+CompressAlt,
+CompressAlt1,
+CompressAlt2,
+CompressWide,
 ContainerStorage,
 Cookie,
 CookieMan,
@@ -1640,6 +1679,11 @@ EngineWarning,
 Enter,
 Exclamation,
 ExclamationAlt,
+Expand,
+ExpandAlt,
+ExpandAlt1,
+ExpandAlt2,
+ExpandWide,
 EyeDropper,
 EyeDropperFull,
 EyeDropperHalf,
@@ -1750,6 +1794,7 @@ FolderShield,
 FolderUser,
 FolderXmark,
 Forward,
+ForwardStep,
 Frame,
 Frankenstein,
 GalleryThumbnails,
@@ -2130,6 +2175,7 @@ PaperclipSlash,
 PaperclipSlashAlt,
 PartyBell,
 PartyHorn,
+Pause,
 Pen,
 Pencil,
 PencilSlash,
@@ -2175,9 +2221,12 @@ PhoneXmark,
 PhoneXmarkAlt,
 Piano,
 PlaceOfWorship,
+Play,
+PlayPause,
 Plug,
 Plus,
 PlusLarge,
+PlusMinus,
 Podcast,
 Podium,
 Potion,
@@ -2242,6 +2291,7 @@ Scissors,
 Screencast,
 ScreenUsers,
 Scribble,
+Scrubber,
 Scythe,
 SealExclamation,
 SealQuestion,
@@ -2424,6 +2474,12 @@ VideoPlus,
 VideoSlash,
 Vihara,
 Voicemail,
+VolumeMax,
+VolumeMin,
+VolumeMinus,
+VolumeOff,
+VolumePlus,
+VolumeXmark,
 Wand,
 WandMagic,
 WandMagicSparkles,
