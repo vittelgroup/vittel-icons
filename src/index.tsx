@@ -121,6 +121,7 @@ import BatteryFull from "./icons/BatteryFull";
 import BatteryLow from "./icons/BatteryLow";
 import BatteryMid from "./icons/BatteryMid";
 import BatterySlash from "./icons/BatterySlash";
+import Bed from "./icons/Bed";
 import BitcoinCircle from "./icons/BitcoinCircle";
 import BitcoinSign from "./icons/BitcoinSign";
 import BluetoothOn from "./icons/BluetoothOn";
@@ -132,6 +133,7 @@ import Book from "./icons/Book";
 import Bookmark from "./icons/Bookmark";
 import BookOpen from "./icons/BookOpen";
 import BookSparkles from "./icons/BookSparkles";
+import BookUser from "./icons/BookUser";
 import Boombox from "./icons/Boombox";
 import BoxArchive from "./icons/BoxArchive";
 import BracketCurly from "./icons/BracketCurly";
@@ -316,6 +318,7 @@ import CircleQuarter from "./icons/CircleQuarter";
 import CircleQuestion from "./icons/CircleQuestion";
 import CircleRadiation from "./icons/CircleRadiation";
 import CircleStop from "./icons/CircleStop";
+import CircleUser from "./icons/CircleUser";
 import CircleVideo from "./icons/CircleVideo";
 import CircleWaterPlug from "./icons/CircleWaterPlug";
 import CircleWaveformLines from "./icons/CircleWaveformLines";
@@ -475,6 +478,8 @@ import EyeDropperFull from "./icons/EyeDropperFull";
 import EyeDropperHalf from "./icons/EyeDropperHalf";
 import EyeSlash from "./icons/EyeSlash";
 import EyeSlashAlt from "./icons/EyeSlashAlt";
+import FaceFrown from "./icons/FaceFrown";
+import FaceSmile from "./icons/FaceSmile";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
@@ -1039,6 +1044,8 @@ import PlusLarge from "./icons/PlusLarge";
 import PlusMinus from "./icons/PlusMinus";
 import Podcast from "./icons/Podcast";
 import Podium from "./icons/Podium";
+import PollPeople from "./icons/PollPeople";
+import PortraitUser from "./icons/PortraitUser";
 import Potion from "./icons/Potion";
 import PoundCircle from "./icons/PoundCircle";
 import PoundSign from "./icons/PoundSign";
@@ -1196,8 +1203,10 @@ import SquareSliders from "./icons/SquareSliders";
 import SquareSlidersVertical from "./icons/SquareSlidersVertical";
 import SquareT from "./icons/SquareT";
 import SquareTerminal from "./icons/SquareTerminal";
+import SquareUser from "./icons/SquareUser";
 import SquareUserChart from "./icons/SquareUserChart";
 import SquareUserCheck from "./icons/SquareUserCheck";
+import SquareUserCheckAlt from "./icons/SquareUserCheckAlt";
 import StaffSnake from "./icons/StaffSnake";
 import Star from "./icons/Star";
 import StarExclamation from "./icons/StarExclamation";
@@ -1293,6 +1302,43 @@ import University from "./icons/University";
 import Upload from "./icons/Upload";
 import UsbFlashDrive from "./icons/UsbFlashDrive";
 import UsbFlashDriveAlt1 from "./icons/UsbFlashDriveAlt1";
+import User from "./icons/User";
+import UserAlt from "./icons/UserAlt";
+import UserAlt1 from "./icons/UserAlt1";
+import UserBlock from "./icons/UserBlock";
+import UserBlockAlt from "./icons/UserBlockAlt";
+import UserBlockAlt1 from "./icons/UserBlockAlt1";
+import UserCheck from "./icons/UserCheck";
+import UserCheckAlt from "./icons/UserCheckAlt";
+import UserCheckAlt1 from "./icons/UserCheckAlt1";
+import UserHeart from "./icons/UserHeart";
+import UserHeartAlt from "./icons/UserHeartAlt";
+import UserHeartAlt1 from "./icons/UserHeartAlt1";
+import UserMinus from "./icons/UserMinus";
+import UserMinusAlt from "./icons/UserMinusAlt";
+import UserMinusAlt1 from "./icons/UserMinusAlt1";
+import UserPen from "./icons/UserPen";
+import UserPenAlt from "./icons/UserPenAlt";
+import UserPenAlt1 from "./icons/UserPenAlt1";
+import UserPlus from "./icons/UserPlus";
+import UserPlusAlt from "./icons/UserPlusAlt";
+import UserPlusAlt1 from "./icons/UserPlusAlt1";
+import UserQuestion from "./icons/UserQuestion";
+import UserQuestionAlt from "./icons/UserQuestionAlt";
+import UserQuestionAlt1 from "./icons/UserQuestionAlt1";
+import UserRefresh from "./icons/UserRefresh";
+import UserRefreshAlt from "./icons/UserRefreshAlt";
+import UserRefreshAlt1 from "./icons/UserRefreshAlt1";
+import Users from "./icons/Users";
+import UserSearch from "./icons/UserSearch";
+import UserSearchAlt from "./icons/UserSearchAlt";
+import UserSearchAlt1 from "./icons/UserSearchAlt1";
+import UserShield from "./icons/UserShield";
+import UserShieldAlt from "./icons/UserShieldAlt";
+import UserShieldAlt1 from "./icons/UserShieldAlt1";
+import UserXmark from "./icons/UserXmark";
+import UserXmarkAlt from "./icons/UserXmarkAlt";
+import UserXmarkAlt1 from "./icons/UserXmarkAlt1";
 import Van from "./icons/Van";
 import Vault from "./icons/Vault";
 import Vial from "./icons/Vial";
@@ -1474,6 +1520,7 @@ BatteryFull,
 BatteryLow,
 BatteryMid,
 BatterySlash,
+Bed,
 BitcoinCircle,
 BitcoinSign,
 BluetoothOn,
@@ -1485,6 +1532,7 @@ Book,
 Bookmark,
 BookOpen,
 BookSparkles,
+BookUser,
 Boombox,
 BoxArchive,
 BracketCurly,
@@ -1669,6 +1717,7 @@ CircleQuarter,
 CircleQuestion,
 CircleRadiation,
 CircleStop,
+CircleUser,
 CircleVideo,
 CircleWaterPlug,
 CircleWaveformLines,
@@ -1828,6 +1877,8 @@ EyeDropperFull,
 EyeDropperHalf,
 EyeSlash,
 EyeSlashAlt,
+FaceFrown,
+FaceSmile,
 Farm,
 Fence,
 FerrisWheel,
@@ -2392,6 +2443,8 @@ PlusLarge,
 PlusMinus,
 Podcast,
 Podium,
+PollPeople,
+PortraitUser,
 Potion,
 PoundCircle,
 PoundSign,
@@ -2549,8 +2602,10 @@ SquareSliders,
 SquareSlidersVertical,
 SquareT,
 SquareTerminal,
+SquareUser,
 SquareUserChart,
 SquareUserCheck,
+SquareUserCheckAlt,
 StaffSnake,
 Star,
 StarExclamation,
@@ -2646,6 +2701,43 @@ University,
 Upload,
 UsbFlashDrive,
 UsbFlashDriveAlt1,
+User,
+UserAlt,
+UserAlt1,
+UserBlock,
+UserBlockAlt,
+UserBlockAlt1,
+UserCheck,
+UserCheckAlt,
+UserCheckAlt1,
+UserHeart,
+UserHeartAlt,
+UserHeartAlt1,
+UserMinus,
+UserMinusAlt,
+UserMinusAlt1,
+UserPen,
+UserPenAlt,
+UserPenAlt1,
+UserPlus,
+UserPlusAlt,
+UserPlusAlt1,
+UserQuestion,
+UserQuestionAlt,
+UserQuestionAlt1,
+UserRefresh,
+UserRefreshAlt,
+UserRefreshAlt1,
+Users,
+UserSearch,
+UserSearchAlt,
+UserSearchAlt1,
+UserShield,
+UserShieldAlt,
+UserShieldAlt1,
+UserXmark,
+UserXmarkAlt,
+UserXmarkAlt1,
 Van,
 Vault,
 Vial,
