@@ -344,6 +344,7 @@ import ClipboardText from "./icons/ClipboardText";
 import ClipboardTextAlt from "./icons/ClipboardTextAlt";
 import ClipboardUser from "./icons/ClipboardUser";
 import ClipboardXmark from "./icons/ClipboardXmark";
+import Cloche from "./icons/Cloche";
 import Clone from "./icons/Clone";
 import ClosedCaptioning from "./icons/ClosedCaptioning";
 import CloudArrowDownAlt from "./icons/CloudArrowDownAlt";
@@ -586,6 +587,8 @@ import FolderSearch from "./icons/FolderSearch";
 import FolderShield from "./icons/FolderShield";
 import FolderUser from "./icons/FolderUser";
 import FolderXmark from "./icons/FolderXmark";
+import ForkKnife from "./icons/ForkKnife";
+import ForkSpoon from "./icons/ForkSpoon";
 import Forward from "./icons/Forward";
 import ForwardStep from "./icons/ForwardStep";
 import Frame from "./icons/Frame";
@@ -829,6 +832,7 @@ import MapLocationPin from "./icons/MapLocationPin";
 import MapPin from "./icons/MapPin";
 import MapPinAlt from "./icons/MapPinAlt";
 import Marker from "./icons/Marker";
+import MartiniGlass from "./icons/MartiniGlass";
 import Mask from "./icons/Mask";
 import MaskFace from "./icons/MaskFace";
 import Maximize from "./icons/Maximize";
@@ -954,6 +958,7 @@ import MouseAlt5 from "./icons/MouseAlt5";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
 import Mp3Player from "./icons/Mp3Player";
+import MugSauser from "./icons/MugSauser";
 import Music from "./icons/Music";
 import MusicNote from "./icons/MusicNote";
 import MusicNoteSlash from "./icons/MusicNoteSlash";
@@ -1089,6 +1094,7 @@ import RefreshCwAlt3 from "./icons/RefreshCwAlt3";
 import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
 import Reply from "./icons/Reply";
+import RestaurantMenu from "./icons/RestaurantMenu";
 import Rocket from "./icons/Rocket";
 import RockingHorse from "./icons/RockingHorse";
 import RollerCoaster from "./icons/RollerCoaster";
@@ -1390,6 +1396,7 @@ import Wind from "./icons/Wind";
 import Window from "./icons/Window";
 import WindowFlip from "./icons/WindowFlip";
 import WindWarning from "./icons/WindWarning";
+import WineGlass from "./icons/WineGlass";
 import WonSign from "./icons/WonSign";
 import Wreath from "./icons/Wreath";
 import Xmark from "./icons/Xmark";
@@ -1743,6 +1750,7 @@ ClipboardText,
 ClipboardTextAlt,
 ClipboardUser,
 ClipboardXmark,
+Cloche,
 Clone,
 ClosedCaptioning,
 CloudArrowDownAlt,
@@ -1985,6 +1993,8 @@ FolderSearch,
 FolderShield,
 FolderUser,
 FolderXmark,
+ForkKnife,
+ForkSpoon,
 Forward,
 ForwardStep,
 Frame,
@@ -2228,6 +2238,7 @@ MapLocationPin,
 MapPin,
 MapPinAlt,
 Marker,
+MartiniGlass,
 Mask,
 MaskFace,
 Maximize,
@@ -2353,6 +2364,7 @@ MouseAlt5,
 Move,
 MoveAlt,
 Mp3Player,
+MugSauser,
 Music,
 MusicNote,
 MusicNoteSlash,
@@ -2488,6 +2500,7 @@ RefreshCwAlt3,
 RefreshCwAlt4,
 RepeatAlt,
 Reply,
+RestaurantMenu,
 Rocket,
 RockingHorse,
 RollerCoaster,
@@ -2789,6 +2802,7 @@ Wind,
 Window,
 WindowFlip,
 WindWarning,
+WineGlass,
 WonSign,
 Wreath,
 Xmark,
