@@ -83,7 +83,12 @@ import ArrowUpShortWide from "./icons/ArrowUpShortWide";
 import ArrowUpSmallBig from "./icons/ArrowUpSmallBig";
 import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
+import Atom from "./icons/Atom";
 import AtSign from "./icons/AtSign";
+import Award from "./icons/Award";
+import AwardAlt from "./icons/AwardAlt";
+import Backpack from "./icons/Backpack";
+import BackpackAlt from "./icons/BackpackAlt";
 import BadgeCheck from "./icons/BadgeCheck";
 import BagShopping from "./icons/BagShopping";
 import BagsShopping from "./icons/BagsShopping";
@@ -95,6 +100,7 @@ import BasketShopping from "./icons/BasketShopping";
 import BasketShoppingAlt from "./icons/BasketShoppingAlt";
 import Book from "./icons/Book";
 import Bookmark from "./icons/Bookmark";
+import BookOpen from "./icons/BookOpen";
 import BracketCurly from "./icons/BracketCurly";
 import BracketCurlyRight from "./icons/BracketCurlyRight";
 import BracketRound from "./icons/BracketRound";
@@ -247,6 +253,7 @@ import CodeMerge from "./icons/CodeMerge";
 import CodePullRequest from "./icons/CodePullRequest";
 import CodePullRequestClosed from "./icons/CodePullRequestClosed";
 import Command from "./icons/Command";
+import CompassDrafting from "./icons/CompassDrafting";
 import ContainerStorage from "./icons/ContainerStorage";
 import CornerDownLeft from "./icons/CornerDownLeft";
 import CornerDownRight from "./icons/CornerDownRight";
@@ -283,6 +290,7 @@ import DistributeSpacingHorizontal from "./icons/DistributeSpacingHorizontal";
 import DistributeSpacingHorizontalAlt from "./icons/DistributeSpacingHorizontalAlt";
 import DistributeSpacingVertical from "./icons/DistributeSpacingVertical";
 import DistributeSpacingVerticalAlt from "./icons/DistributeSpacingVerticalAlt";
+import Dna from "./icons/Dna";
 import DotsHorizontal from "./icons/DotsHorizontal";
 import DotsHorizontalAlt from "./icons/DotsHorizontalAlt";
 import DotsVertical from "./icons/DotsVertical";
@@ -324,7 +332,12 @@ import GemAlt from "./icons/GemAlt";
 import Gift from "./icons/Gift";
 import GiftAlt from "./icons/GiftAlt";
 import GiftCard from "./icons/GiftCard";
+import Glasses from "./icons/Glasses";
 import GlobeDollar from "./icons/GlobeDollar";
+import GraduationHat from "./icons/GraduationHat";
+import GraduationHatAlt from "./icons/GraduationHatAlt";
+import GraduationHatAlt1 from "./icons/GraduationHatAlt1";
+import GraduationHatAlt2 from "./icons/GraduationHatAlt2";
 import Grid from "./icons/Grid";
 import GridCircle from "./icons/GridCircle";
 import GridDividers from "./icons/GridDividers";
@@ -432,6 +445,7 @@ import LaptopXmark from "./icons/LaptopXmark";
 import LaptopXmarkAlt from "./icons/LaptopXmarkAlt";
 import Lasso from "./icons/Lasso";
 import LassoSparkles from "./icons/LassoSparkles";
+import LayerGroup from "./icons/LayerGroup";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
 import Mail from "./icons/Mail";
@@ -472,6 +486,8 @@ import MailStar from "./icons/MailStar";
 import MailXmark from "./icons/MailXmark";
 import Marker from "./icons/Marker";
 import Maximize from "./icons/Maximize";
+import Medal from "./icons/Medal";
+import MedalAlt from "./icons/MedalAlt";
 import MemoCheck from "./icons/MemoCheck";
 import MemoPencil from "./icons/MemoPencil";
 import MessageCircle from "./icons/MessageCircle";
@@ -573,6 +589,7 @@ import MoveAlt from "./icons/MoveAlt";
 import NfcSymbol from "./icons/NfcSymbol";
 import Notdef from "./icons/Notdef";
 import Notebook from "./icons/Notebook";
+import Notes from "./icons/Notes";
 import NoteSticky from "./icons/NoteSticky";
 import ObjectsAlignBottom from "./icons/ObjectsAlignBottom";
 import ObjectsAlignBottomAlt from "./icons/ObjectsAlignBottomAlt";
@@ -687,9 +704,12 @@ import Rotate from "./icons/Rotate";
 import RotateCcw from "./icons/RotateCcw";
 import RotateCw from "./icons/RotateCw";
 import RotateExclamation from "./icons/RotateExclamation";
+import Ruler from "./icons/Ruler";
+import RulerTraingle from "./icons/RulerTraingle";
 import School from "./icons/School";
 import SchoolFlag from "./icons/SchoolFlag";
 import Scissors from "./icons/Scissors";
+import ScreenUsers from "./icons/ScreenUsers";
 import Scribble from "./icons/Scribble";
 import SealExclamation from "./icons/SealExclamation";
 import SealQuestion from "./icons/SealQuestion";
@@ -741,6 +761,7 @@ import Star from "./icons/Star";
 import StarExclamation from "./icons/StarExclamation";
 import Subdirectory from "./icons/Subdirectory";
 import Suitcase from "./icons/Suitcase";
+import Swatchbook from "./icons/Swatchbook";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
 import Tablet from "./icons/Tablet";
@@ -911,7 +932,12 @@ ArrowUpShortWide,
 ArrowUpSmallBig,
 ArrowUpWideShort,
 ArrowUpZA,
+Atom,
 AtSign,
+Award,
+AwardAlt,
+Backpack,
+BackpackAlt,
 BadgeCheck,
 BagShopping,
 BagsShopping,
@@ -923,6 +949,7 @@ BasketShopping,
 BasketShoppingAlt,
 Book,
 Bookmark,
+BookOpen,
 BracketCurly,
 BracketCurlyRight,
 BracketRound,
@@ -1075,6 +1102,7 @@ CodeMerge,
 CodePullRequest,
 CodePullRequestClosed,
 Command,
+CompassDrafting,
 ContainerStorage,
 CornerDownLeft,
 CornerDownRight,
@@ -1111,6 +1139,7 @@ DistributeSpacingHorizontal,
 DistributeSpacingHorizontalAlt,
 DistributeSpacingVertical,
 DistributeSpacingVerticalAlt,
+Dna,
 DotsHorizontal,
 DotsHorizontalAlt,
 DotsVertical,
@@ -1152,7 +1181,12 @@ GemAlt,
 Gift,
 GiftAlt,
 GiftCard,
+Glasses,
 GlobeDollar,
+GraduationHat,
+GraduationHatAlt,
+GraduationHatAlt1,
+GraduationHatAlt2,
 Grid,
 GridCircle,
 GridDividers,
@@ -1260,6 +1294,7 @@ LaptopXmark,
 LaptopXmarkAlt,
 Lasso,
 LassoSparkles,
+LayerGroup,
 Loop,
 LoopVertical,
 Mail,
@@ -1300,6 +1335,8 @@ MailStar,
 MailXmark,
 Marker,
 Maximize,
+Medal,
+MedalAlt,
 MemoCheck,
 MemoPencil,
 MessageCircle,
@@ -1401,6 +1438,7 @@ MoveAlt,
 NfcSymbol,
 Notdef,
 Notebook,
+Notes,
 NoteSticky,
 ObjectsAlignBottom,
 ObjectsAlignBottomAlt,
@@ -1515,9 +1553,12 @@ Rotate,
 RotateCcw,
 RotateCw,
 RotateExclamation,
+Ruler,
+RulerTraingle,
 School,
 SchoolFlag,
 Scissors,
+ScreenUsers,
 Scribble,
 SealExclamation,
 SealQuestion,
@@ -1569,6 +1610,7 @@ Star,
 StarExclamation,
 Subdirectory,
 Suitcase,
+Swatchbook,
 SwitchHorizontal,
 SwitchVertical,
 Tablet,
