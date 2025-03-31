@@ -5,6 +5,7 @@ import Airpods from "./icons/Airpods";
 import AirpodsAlt from "./icons/AirpodsAlt";
 import Album from "./icons/Album";
 import AlbumCollection from "./icons/AlbumCollection";
+import Anchor from "./icons/Anchor";
 import Angel from "./icons/Angel";
 import Annotation from "./icons/Annotation";
 import AnnotationUser from "./icons/AnnotationUser";
@@ -279,8 +280,11 @@ import CircleExclamation from "./icons/CircleExclamation";
 import CircleExclamationCheck from "./icons/CircleExclamationCheck";
 import CircleHalfStroke from "./icons/CircleHalfStroke";
 import CircleInformation from "./icons/CircleInformation";
+import CircleLocationArrow from "./icons/CircleLocationArrow";
 import CircleMicrophone from "./icons/CircleMicrophone";
 import CircleMinus from "./icons/CircleMinus";
+import CircleParking from "./icons/CircleParking";
+import CircleParkingSplash from "./icons/CircleParkingSplash";
 import CirclePlug from "./icons/CirclePlug";
 import CirclePlugAlt from "./icons/CirclePlugAlt";
 import CirclePlus from "./icons/CirclePlus";
@@ -383,6 +387,7 @@ import DialMed from "./icons/DialMed";
 import DialMedLow from "./icons/DialMedLow";
 import DialMin from "./icons/DialMin";
 import DialOff from "./icons/DialOff";
+import DiamondTurnRight from "./icons/DiamondTurnRight";
 import Disc from "./icons/Disc";
 import DiscAlt from "./icons/DiscAlt";
 import DiscDrive from "./icons/DiscDrive";
@@ -486,6 +491,7 @@ import Film from "./icons/Film";
 import FilmAlt from "./icons/FilmAlt";
 import FilmSlash from "./icons/FilmSlash";
 import Fireplace from "./icons/Fireplace";
+import Flag from "./icons/Flag";
 import Flashlight from "./icons/Flashlight";
 import FlaskRoundBlank from "./icons/FlaskRoundBlank";
 import FlaskRoundPotion from "./icons/FlaskRoundPotion";
@@ -535,8 +541,10 @@ import Gift from "./icons/Gift";
 import GiftAlt from "./icons/GiftAlt";
 import GiftCard from "./icons/GiftCard";
 import Glasses from "./icons/Glasses";
+import Globe from "./icons/Globe";
 import GlobeAlt from "./icons/GlobeAlt";
 import GlobeDollar from "./icons/GlobeDollar";
+import GlobeStand from "./icons/GlobeStand";
 import GraduationHat from "./icons/GraduationHat";
 import GraduationHatAlt from "./icons/GraduationHatAlt";
 import GraduationHatAlt1 from "./icons/GraduationHatAlt1";
@@ -676,6 +684,7 @@ import LaptopXmarkAlt from "./icons/LaptopXmarkAlt";
 import Lasso from "./icons/Lasso";
 import LassoSparkles from "./icons/LassoSparkles";
 import LayerGroup from "./icons/LayerGroup";
+import LifeRing from "./icons/LifeRing";
 import Lightbulb from "./icons/Lightbulb";
 import LightbulbAlt from "./icons/LightbulbAlt";
 import LightbulbExclamation from "./icons/LightbulbExclamation";
@@ -687,9 +696,24 @@ import LinkAlt1 from "./icons/LinkAlt1";
 import LinkSlash from "./icons/LinkSlash";
 import LinkSlashAlt from "./icons/LinkSlashAlt";
 import ListMusic from "./icons/ListMusic";
+import LocationArrow from "./icons/LocationArrow";
+import LocationArrowAlt from "./icons/LocationArrowAlt";
+import LocationCheck from "./icons/LocationCheck";
+import LocationCrosshairs from "./icons/LocationCrosshairs";
+import LocationCrosshairsSlash from "./icons/LocationCrosshairsSlash";
+import LocationExclamation from "./icons/LocationExclamation";
+import LocationMinus from "./icons/LocationMinus";
+import LocationPin from "./icons/LocationPin";
+import LocationPinAlt from "./icons/LocationPinAlt";
+import LocationPinAlt1 from "./icons/LocationPinAlt1";
+import LocationPinLock from "./icons/LocationPinLock";
+import LocationPinSlash from "./icons/LocationPinSlash";
+import LocationPlus from "./icons/LocationPlus";
+import LocationXmark from "./icons/LocationXmark";
 import Lollipop from "./icons/Lollipop";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
+import Magnet from "./icons/Magnet";
 import Mail from "./icons/Mail";
 import MailAlt from "./icons/MailAlt";
 import MailAlt1 from "./icons/MailAlt1";
@@ -726,6 +750,10 @@ import MailSearch from "./icons/MailSearch";
 import MailShield from "./icons/MailShield";
 import MailStar from "./icons/MailStar";
 import MailXmark from "./icons/MailXmark";
+import Map from "./icons/Map";
+import MapLocationPin from "./icons/MapLocationPin";
+import MapPin from "./icons/MapPin";
+import MapPinAlt from "./icons/MapPinAlt";
 import Marker from "./icons/Marker";
 import Mask from "./icons/Mask";
 import Maximize from "./icons/Maximize";
@@ -969,6 +997,7 @@ import Rotate from "./icons/Rotate";
 import RotateCcw from "./icons/RotateCcw";
 import RotateCw from "./icons/RotateCw";
 import RotateExclamation from "./icons/RotateExclamation";
+import Route from "./icons/Route";
 import Rss from "./icons/Rss";
 import Ruler from "./icons/Ruler";
 import RulerTraingle from "./icons/RulerTraingle";
@@ -987,6 +1016,12 @@ import Scribble from "./icons/Scribble";
 import Scythe from "./icons/Scythe";
 import SealExclamation from "./icons/SealExclamation";
 import SealQuestion from "./icons/SealQuestion";
+import Search from "./icons/Search";
+import SearchAlt from "./icons/SearchAlt";
+import SearchAlt1 from "./icons/SearchAlt1";
+import SearchAlt2 from "./icons/SearchAlt2";
+import SearchMinus from "./icons/SearchMinus";
+import SearchPlus from "./icons/SearchPlus";
 import Send from "./icons/Send";
 import SendAlt from "./icons/SendAlt";
 import SendAlt1 from "./icons/SendAlt1";
@@ -1013,6 +1048,7 @@ import SignalStrong from "./icons/SignalStrong";
 import SignalWeak from "./icons/SignalWeak";
 import Signature from "./icons/Signature";
 import SignatureLock from "./icons/SignatureLock";
+import SignsPost from "./icons/SignsPost";
 import Simcard from "./icons/Simcard";
 import SimcardAlt from "./icons/SimcardAlt";
 import SimcardSlash from "./icons/SimcardSlash";
@@ -1049,6 +1085,8 @@ import SquareDotsVertical from "./icons/SquareDotsVertical";
 import SquareExclamation from "./icons/SquareExclamation";
 import SquareKanban from "./icons/SquareKanban";
 import SquareMinus from "./icons/SquareMinus";
+import SquareParking from "./icons/SquareParking";
+import SquareParkingSlash from "./icons/SquareParkingSlash";
 import SquarePen from "./icons/SquarePen";
 import SquarePhone from "./icons/SquarePhone";
 import SquarePhoneFlip from "./icons/SquarePhoneFlip";
@@ -1102,6 +1140,12 @@ import TowerBroadcast from "./icons/TowerBroadcast";
 import TowerBroadcastSlash from "./icons/TowerBroadcastSlash";
 import TowerObservation from "./icons/TowerObservation";
 import Trademark from "./icons/Trademark";
+import TrafficCone from "./icons/TrafficCone";
+import TrafficLight from "./icons/TrafficLight";
+import TrafficLight1 from "./icons/TrafficLight1";
+import TrafficLightGo from "./icons/TrafficLightGo";
+import TrafficLightSlow from "./icons/TrafficLightSlow";
+import TrafficLightStop from "./icons/TrafficLightStop";
 import Train from "./icons/Train";
 import TrainSubway from "./icons/TrainSubway";
 import TrainTrack from "./icons/TrainTrack";
@@ -1190,6 +1234,7 @@ Airpods,
 AirpodsAlt,
 Album,
 AlbumCollection,
+Anchor,
 Angel,
 Annotation,
 AnnotationUser,
@@ -1464,8 +1509,11 @@ CircleExclamation,
 CircleExclamationCheck,
 CircleHalfStroke,
 CircleInformation,
+CircleLocationArrow,
 CircleMicrophone,
 CircleMinus,
+CircleParking,
+CircleParkingSplash,
 CirclePlug,
 CirclePlugAlt,
 CirclePlus,
@@ -1568,6 +1616,7 @@ DialMed,
 DialMedLow,
 DialMin,
 DialOff,
+DiamondTurnRight,
 Disc,
 DiscAlt,
 DiscDrive,
@@ -1671,6 +1720,7 @@ Film,
 FilmAlt,
 FilmSlash,
 Fireplace,
+Flag,
 Flashlight,
 FlaskRoundBlank,
 FlaskRoundPotion,
@@ -1720,8 +1770,10 @@ Gift,
 GiftAlt,
 GiftCard,
 Glasses,
+Globe,
 GlobeAlt,
 GlobeDollar,
+GlobeStand,
 GraduationHat,
 GraduationHatAlt,
 GraduationHatAlt1,
@@ -1861,6 +1913,7 @@ LaptopXmarkAlt,
 Lasso,
 LassoSparkles,
 LayerGroup,
+LifeRing,
 Lightbulb,
 LightbulbAlt,
 LightbulbExclamation,
@@ -1872,9 +1925,24 @@ LinkAlt1,
 LinkSlash,
 LinkSlashAlt,
 ListMusic,
+LocationArrow,
+LocationArrowAlt,
+LocationCheck,
+LocationCrosshairs,
+LocationCrosshairsSlash,
+LocationExclamation,
+LocationMinus,
+LocationPin,
+LocationPinAlt,
+LocationPinAlt1,
+LocationPinLock,
+LocationPinSlash,
+LocationPlus,
+LocationXmark,
 Lollipop,
 Loop,
 LoopVertical,
+Magnet,
 Mail,
 MailAlt,
 MailAlt1,
@@ -1911,6 +1979,10 @@ MailSearch,
 MailShield,
 MailStar,
 MailXmark,
+Map,
+MapLocationPin,
+MapPin,
+MapPinAlt,
 Marker,
 Mask,
 Maximize,
@@ -2154,6 +2226,7 @@ Rotate,
 RotateCcw,
 RotateCw,
 RotateExclamation,
+Route,
 Rss,
 Ruler,
 RulerTraingle,
@@ -2172,6 +2245,12 @@ Scribble,
 Scythe,
 SealExclamation,
 SealQuestion,
+Search,
+SearchAlt,
+SearchAlt1,
+SearchAlt2,
+SearchMinus,
+SearchPlus,
 Send,
 SendAlt,
 SendAlt1,
@@ -2198,6 +2277,7 @@ SignalStrong,
 SignalWeak,
 Signature,
 SignatureLock,
+SignsPost,
 Simcard,
 SimcardAlt,
 SimcardSlash,
@@ -2234,6 +2314,8 @@ SquareDotsVertical,
 SquareExclamation,
 SquareKanban,
 SquareMinus,
+SquareParking,
+SquareParkingSlash,
 SquarePen,
 SquarePhone,
 SquarePhoneFlip,
@@ -2287,6 +2369,12 @@ TowerBroadcast,
 TowerBroadcastSlash,
 TowerObservation,
 Trademark,
+TrafficCone,
+TrafficLight,
+TrafficLight1,
+TrafficLightGo,
+TrafficLightSlow,
+TrafficLightStop,
 Train,
 TrainSubway,
 TrainTrack,
