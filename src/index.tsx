@@ -113,6 +113,7 @@ import Bolt from "./icons/Bolt";
 import Book from "./icons/Book";
 import Bookmark from "./icons/Bookmark";
 import BookOpen from "./icons/BookOpen";
+import BoxArchive from "./icons/BoxArchive";
 import BracketCurly from "./icons/BracketCurly";
 import BracketCurlyRight from "./icons/BracketCurlyRight";
 import BracketRound from "./icons/BracketRound";
@@ -259,6 +260,20 @@ import CircleWaterPlug from "./icons/CircleWaterPlug";
 import CircleXmark from "./icons/CircleXmark";
 import Circuit from "./icons/Circuit";
 import City from "./icons/City";
+import Clipboard from "./icons/Clipboard";
+import ClipboardArrowDown from "./icons/ClipboardArrowDown";
+import ClipboardArrowUp from "./icons/ClipboardArrowUp";
+import ClipboardAttachment from "./icons/ClipboardAttachment";
+import ClipboardCheck from "./icons/ClipboardCheck";
+import ClipboardList from "./icons/ClipboardList";
+import ClipboardListAlt from "./icons/ClipboardListAlt";
+import ClipboardMinus from "./icons/ClipboardMinus";
+import ClipboardPlus from "./icons/ClipboardPlus";
+import ClipboardText from "./icons/ClipboardText";
+import ClipboardTextAlt from "./icons/ClipboardTextAlt";
+import ClipboardUser from "./icons/ClipboardUser";
+import ClipboardXmark from "./icons/ClipboardXmark";
+import Clone from "./icons/Clone";
 import CloudArrowDownAlt from "./icons/CloudArrowDownAlt";
 import CloudArrowUp from "./icons/CloudArrowUp";
 import CloudCheck from "./icons/CloudCheck";
@@ -339,12 +354,100 @@ import EyeDropperHalf from "./icons/EyeDropperHalf";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
+import File from "./icons/File";
+import FileAlt from "./icons/FileAlt";
+import FileArrowDown from "./icons/FileArrowDown";
+import FileArrowDownAlt from "./icons/FileArrowDownAlt";
+import FileArrowDownAlt1 from "./icons/FileArrowDownAlt1";
+import FileArrowLeft from "./icons/FileArrowLeft";
+import FileArrowRight from "./icons/FileArrowRight";
+import FileArrowUp from "./icons/FileArrowUp";
+import FileArrowUpAlt from "./icons/FileArrowUpAlt";
+import FileArrowUpAlt1 from "./icons/FileArrowUpAlt1";
+import FileBlock from "./icons/FileBlock";
+import FileBlockAlt from "./icons/FileBlockAlt";
+import FileBlockAlt1 from "./icons/FileBlockAlt1";
+import FileBookmark from "./icons/FileBookmark";
+import FileBookmarkAlt from "./icons/FileBookmarkAlt";
+import FileBookmarkAlt1 from "./icons/FileBookmarkAlt1";
+import FileChartColumn from "./icons/FileChartColumn";
+import FileCheck from "./icons/FileCheck";
+import FileCheckAlt from "./icons/FileCheckAlt";
+import FileCheckAlt1 from "./icons/FileCheckAlt1";
+import FileCode from "./icons/FileCode";
+import FileCopy from "./icons/FileCopy";
 import FileCv from "./icons/FileCv";
+import FileDashedLine from "./icons/FileDashedLine";
+import FileDollar from "./icons/FileDollar";
+import FileDollarAlt from "./icons/FileDollarAlt";
+import FileExclamation from "./icons/FileExclamation";
+import FileExclamationAlt from "./icons/FileExclamationAlt";
+import FileExclamationAlt1 from "./icons/FileExclamationAlt1";
+import FileGraph from "./icons/FileGraph";
+import FileHeart from "./icons/FileHeart";
+import FileHeartAlt from "./icons/FileHeartAlt";
+import FileHeartAlt1 from "./icons/FileHeartAlt1";
+import FileHorizontal from "./icons/FileHorizontal";
+import FileImport from "./icons/FileImport";
+import FileInfo from "./icons/FileInfo";
+import FileInfoAlt from "./icons/FileInfoAlt";
+import FileInfoAlt1 from "./icons/FileInfoAlt1";
+import FileLink from "./icons/FileLink";
+import FileMinus from "./icons/FileMinus";
+import FileMinusAlt from "./icons/FileMinusAlt";
+import FileMinusAlt1 from "./icons/FileMinusAlt1";
+import FilePencil from "./icons/FilePencil";
+import FilePencilAlt from "./icons/FilePencilAlt";
+import FilePencilAlt1 from "./icons/FilePencilAlt1";
+import FilePlus from "./icons/FilePlus";
+import FilePlusAlt from "./icons/FilePlusAlt";
+import FilePlusAlt1 from "./icons/FilePlusAlt1";
+import FileQuestion from "./icons/FileQuestion";
+import FileQuestionAlt from "./icons/FileQuestionAlt";
+import FileQuestionAlt1 from "./icons/FileQuestionAlt1";
+import FileRedo from "./icons/FileRedo";
+import FileRedoAlt from "./icons/FileRedoAlt";
+import FileRedoAlt1 from "./icons/FileRedoAlt1";
+import Files from "./icons/Files";
+import FilesAlt from "./icons/FilesAlt";
+import FilesAlt1 from "./icons/FilesAlt1";
+import FilesAlt2 from "./icons/FilesAlt2";
+import FileSearch from "./icons/FileSearch";
+import FileSearchAlt from "./icons/FileSearchAlt";
+import FileSearchAlt1 from "./icons/FileSearchAlt1";
+import FileShredder from "./icons/FileShredder";
+import FileSlash from "./icons/FileSlash";
+import FileUser from "./icons/FileUser";
+import FileWired from "./icons/FileWired";
+import FileXmark from "./icons/FileXmark";
+import FileXmarkAlt from "./icons/FileXmarkAlt";
+import FileXmarkAlt1 from "./icons/FileXmarkAlt1";
+import FileZipper from "./icons/FileZipper";
 import Flashlight from "./icons/Flashlight";
 import FlipBackward from "./icons/FlipBackward";
 import FlipForward from "./icons/FlipForward";
 import FlipForwardEnergy from "./icons/FlipForwardEnergy";
+import FloppyDisk from "./icons/FloppyDisk";
 import FloppyDiskAlt from "./icons/FloppyDiskAlt";
+import Folder from "./icons/Folder";
+import FolderArrowDown from "./icons/FolderArrowDown";
+import FolderArrowLeft from "./icons/FolderArrowLeft";
+import FolderArrowRight from "./icons/FolderArrowRight";
+import FolderArrowUp from "./icons/FolderArrowUp";
+import FolderBlock from "./icons/FolderBlock";
+import FolderCheck from "./icons/FolderCheck";
+import FolderExclamation from "./icons/FolderExclamation";
+import FolderHeart from "./icons/FolderHeart";
+import FolderImage from "./icons/FolderImage";
+import FolderInfo from "./icons/FolderInfo";
+import FolderLock from "./icons/FolderLock";
+import FolderMinus from "./icons/FolderMinus";
+import FolderPlus from "./icons/FolderPlus";
+import FolderQuestion from "./icons/FolderQuestion";
+import FolderSearch from "./icons/FolderSearch";
+import FolderShield from "./icons/FolderShield";
+import FolderUser from "./icons/FolderUser";
+import FolderXmark from "./icons/FolderXmark";
 import Forward from "./icons/Forward";
 import GalleryThumbnails from "./icons/GalleryThumbnails";
 import GamingPad from "./icons/GamingPad";
@@ -528,6 +631,7 @@ import Marker from "./icons/Marker";
 import Maximize from "./icons/Maximize";
 import Medal from "./icons/Medal";
 import MedalAlt from "./icons/MedalAlt";
+import Memo from "./icons/Memo";
 import MemoCheck from "./icons/MemoCheck";
 import MemoPencil from "./icons/MemoPencil";
 import MessageCircle from "./icons/MessageCircle";
@@ -1031,6 +1135,7 @@ Bolt,
 Book,
 Bookmark,
 BookOpen,
+BoxArchive,
 BracketCurly,
 BracketCurlyRight,
 BracketRound,
@@ -1177,6 +1282,20 @@ CircleWaterPlug,
 CircleXmark,
 Circuit,
 City,
+Clipboard,
+ClipboardArrowDown,
+ClipboardArrowUp,
+ClipboardAttachment,
+ClipboardCheck,
+ClipboardList,
+ClipboardListAlt,
+ClipboardMinus,
+ClipboardPlus,
+ClipboardText,
+ClipboardTextAlt,
+ClipboardUser,
+ClipboardXmark,
+Clone,
 CloudArrowDownAlt,
 CloudArrowUp,
 CloudCheck,
@@ -1257,12 +1376,100 @@ EyeDropperHalf,
 Farm,
 Fence,
 FerrisWheel,
+File,
+FileAlt,
+FileArrowDown,
+FileArrowDownAlt,
+FileArrowDownAlt1,
+FileArrowLeft,
+FileArrowRight,
+FileArrowUp,
+FileArrowUpAlt,
+FileArrowUpAlt1,
+FileBlock,
+FileBlockAlt,
+FileBlockAlt1,
+FileBookmark,
+FileBookmarkAlt,
+FileBookmarkAlt1,
+FileChartColumn,
+FileCheck,
+FileCheckAlt,
+FileCheckAlt1,
+FileCode,
+FileCopy,
 FileCv,
+FileDashedLine,
+FileDollar,
+FileDollarAlt,
+FileExclamation,
+FileExclamationAlt,
+FileExclamationAlt1,
+FileGraph,
+FileHeart,
+FileHeartAlt,
+FileHeartAlt1,
+FileHorizontal,
+FileImport,
+FileInfo,
+FileInfoAlt,
+FileInfoAlt1,
+FileLink,
+FileMinus,
+FileMinusAlt,
+FileMinusAlt1,
+FilePencil,
+FilePencilAlt,
+FilePencilAlt1,
+FilePlus,
+FilePlusAlt,
+FilePlusAlt1,
+FileQuestion,
+FileQuestionAlt,
+FileQuestionAlt1,
+FileRedo,
+FileRedoAlt,
+FileRedoAlt1,
+Files,
+FilesAlt,
+FilesAlt1,
+FilesAlt2,
+FileSearch,
+FileSearchAlt,
+FileSearchAlt1,
+FileShredder,
+FileSlash,
+FileUser,
+FileWired,
+FileXmark,
+FileXmarkAlt,
+FileXmarkAlt1,
+FileZipper,
 Flashlight,
 FlipBackward,
 FlipForward,
 FlipForwardEnergy,
+FloppyDisk,
 FloppyDiskAlt,
+Folder,
+FolderArrowDown,
+FolderArrowLeft,
+FolderArrowRight,
+FolderArrowUp,
+FolderBlock,
+FolderCheck,
+FolderExclamation,
+FolderHeart,
+FolderImage,
+FolderInfo,
+FolderLock,
+FolderMinus,
+FolderPlus,
+FolderQuestion,
+FolderSearch,
+FolderShield,
+FolderUser,
+FolderXmark,
 Forward,
 GalleryThumbnails,
 GamingPad,
@@ -1446,6 +1653,7 @@ Marker,
 Maximize,
 Medal,
 MedalAlt,
+Memo,
 MemoCheck,
 MemoPencil,
 MessageCircle,
