@@ -8,6 +8,7 @@ import AlbumCollection from "./icons/AlbumCollection";
 import Angel from "./icons/Angel";
 import Annotation from "./icons/Annotation";
 import AnnotationUser from "./icons/AnnotationUser";
+import Aperture from "./icons/Aperture";
 import Archway from "./icons/Archway";
 import ArrowCircleDown from "./icons/ArrowCircleDown";
 import ArrowCircleDownLeft from "./icons/ArrowCircleDownLeft";
@@ -336,6 +337,7 @@ import CodePullRequestClosed from "./icons/CodePullRequestClosed";
 import Coffin from "./icons/Coffin";
 import CoffinCross from "./icons/CoffinCross";
 import CoffinOpen from "./icons/CoffinOpen";
+import Colors from "./icons/Colors";
 import Command from "./icons/Command";
 import CompactDisc from "./icons/CompactDisc";
 import CompassDrafting from "./icons/CompassDrafting";
@@ -568,6 +570,7 @@ import HeadphonesAlt2 from "./icons/HeadphonesAlt2";
 import Heat from "./icons/Heat";
 import HexagonCheck from "./icons/HexagonCheck";
 import HexagonExclamation from "./icons/HexagonExclamation";
+import HexagonImage from "./icons/HexagonImage";
 import HighDefinition from "./icons/HighDefinition";
 import HockeyMask from "./icons/HockeyMask";
 import Hospital from "./icons/Hospital";
@@ -602,6 +605,18 @@ import HouseUser from "./icons/HouseUser";
 import HouseWater from "./icons/HouseWater";
 import HouseWifi from "./icons/HouseWifi";
 import HouseWindow from "./icons/HouseWindow";
+import Image from "./icons/Image";
+import ImageCircle from "./icons/ImageCircle";
+import ImageMinus from "./icons/ImageMinus";
+import ImagePen from "./icons/ImagePen";
+import ImagePlus from "./icons/ImagePlus";
+import ImagePolaroidUser from "./icons/ImagePolaroidUser";
+import ImagePortrait from "./icons/ImagePortrait";
+import ImageSquare from "./icons/ImageSquare";
+import ImageSquareCheck from "./icons/ImageSquareCheck";
+import ImageSquareXmark from "./icons/ImageSquareXmark";
+import ImagesUser from "./icons/ImagesUser";
+import ImageUser from "./icons/ImageUser";
 import Inbox from "./icons/Inbox";
 import InboxAlt from "./icons/InboxAlt";
 import InboxAlt1 from "./icons/InboxAlt1";
@@ -1178,6 +1193,7 @@ AlbumCollection,
 Angel,
 Annotation,
 AnnotationUser,
+Aperture,
 Archway,
 ArrowCircleDown,
 ArrowCircleDownLeft,
@@ -1506,6 +1522,7 @@ CodePullRequestClosed,
 Coffin,
 CoffinCross,
 CoffinOpen,
+Colors,
 Command,
 CompactDisc,
 CompassDrafting,
@@ -1738,6 +1755,7 @@ HeadphonesAlt2,
 Heat,
 HexagonCheck,
 HexagonExclamation,
+HexagonImage,
 HighDefinition,
 HockeyMask,
 Hospital,
@@ -1772,6 +1790,18 @@ HouseUser,
 HouseWater,
 HouseWifi,
 HouseWindow,
+Image,
+ImageCircle,
+ImageMinus,
+ImagePen,
+ImagePlus,
+ImagePolaroidUser,
+ImagePortrait,
+ImageSquare,
+ImageSquareCheck,
+ImageSquareXmark,
+ImagesUser,
+ImageUser,
 Inbox,
 InboxAlt,
 InboxAlt1,
