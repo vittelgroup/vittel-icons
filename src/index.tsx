@@ -85,9 +85,15 @@ import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
 import AtSign from "./icons/AtSign";
 import BadgeCheck from "./icons/BadgeCheck";
+import BagShopping from "./icons/BagShopping";
+import BagsShopping from "./icons/BagsShopping";
+import Balloon from "./icons/Balloon";
 import Bank from "./icons/Bank";
 import BarsProgress from "./icons/BarsProgress";
+import BasketShopping from "./icons/BasketShopping";
+import BasketShoppingAlt from "./icons/BasketShoppingAlt";
 import Book from "./icons/Book";
+import Bookmark from "./icons/Bookmark";
 import BracketCurly from "./icons/BracketCurly";
 import BracketCurlyRight from "./icons/BracketCurlyRight";
 import BracketRound from "./icons/BracketRound";
@@ -165,6 +171,14 @@ import CaretRight from "./icons/CaretRight";
 import CaretRightToLine from "./icons/CaretRightToLine";
 import CaretUp from "./icons/CaretUp";
 import CarSide from "./icons/CarSide";
+import CartArrowDown from "./icons/CartArrowDown";
+import CartArrowUp from "./icons/CartArrowUp";
+import CartCheck from "./icons/CartCheck";
+import CartMinus from "./icons/CartMinus";
+import CartPlus from "./icons/CartPlus";
+import CartShopping from "./icons/CartShopping";
+import CartShoppingFast from "./icons/CartShoppingFast";
+import CartXmark from "./icons/CartXmark";
 import Castle from "./icons/Castle";
 import ChartArea from "./icons/ChartArea";
 import ChartBar from "./icons/ChartBar";
@@ -275,6 +289,11 @@ import Gauge from "./icons/Gauge";
 import GaugeHigh from "./icons/GaugeHigh";
 import GaugeLow from "./icons/GaugeLow";
 import GaugeMax from "./icons/GaugeMax";
+import Gem from "./icons/Gem";
+import GemAlt from "./icons/GemAlt";
+import Gift from "./icons/Gift";
+import GiftAlt from "./icons/GiftAlt";
+import GiftCard from "./icons/GiftCard";
 import GlobeDollar from "./icons/GlobeDollar";
 import Handshake from "./icons/Handshake";
 import HardDrive from "./icons/HardDrive";
@@ -476,6 +495,8 @@ import MobileAlt2 from "./icons/MobileAlt2";
 import MobileBolt from "./icons/MobileBolt";
 import MobileCheck from "./icons/MobileCheck";
 import MobileDollar from "./icons/MobileDollar";
+import MobileSignal from "./icons/MobileSignal";
+import MobileSignalOut from "./icons/MobileSignalOut";
 import MobileSlash from "./icons/MobileSlash";
 import MobileXmark from "./icons/MobileXmark";
 import Modem from "./icons/Modem";
@@ -504,6 +525,7 @@ import MouseAlt4 from "./icons/MouseAlt4";
 import MouseAlt5 from "./icons/MouseAlt5";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
+import NfcSymbol from "./icons/NfcSymbol";
 import Notdef from "./icons/Notdef";
 import Notebook from "./icons/Notebook";
 import NoteSticky from "./icons/NoteSticky";
@@ -627,6 +649,8 @@ import SquarePollVertical from "./icons/SquarePollVertical";
 import SquareTerminal from "./icons/SquareTerminal";
 import SquareUserChart from "./icons/SquareUserChart";
 import SquareUserCheck from "./icons/SquareUserCheck";
+import Star from "./icons/Star";
+import StarExclamation from "./icons/StarExclamation";
 import Subdirectory from "./icons/Subdirectory";
 import Suitcase from "./icons/Suitcase";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
@@ -659,6 +683,7 @@ import TrainTrack from "./icons/TrainTrack";
 import TrainTram from "./icons/TrainTram";
 import TreasureChest from "./icons/TreasureChest";
 import TriangleExclamation from "./icons/TriangleExclamation";
+import Trophy from "./icons/Trophy";
 import Truck from "./icons/Truck";
 import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
@@ -776,9 +801,15 @@ ArrowUpWideShort,
 ArrowUpZA,
 AtSign,
 BadgeCheck,
+BagShopping,
+BagsShopping,
+Balloon,
 Bank,
 BarsProgress,
+BasketShopping,
+BasketShoppingAlt,
 Book,
+Bookmark,
 BracketCurly,
 BracketCurlyRight,
 BracketRound,
@@ -856,6 +887,14 @@ CaretRight,
 CaretRightToLine,
 CaretUp,
 CarSide,
+CartArrowDown,
+CartArrowUp,
+CartCheck,
+CartMinus,
+CartPlus,
+CartShopping,
+CartShoppingFast,
+CartXmark,
 Castle,
 ChartArea,
 ChartBar,
@@ -966,6 +1005,11 @@ Gauge,
 GaugeHigh,
 GaugeLow,
 GaugeMax,
+Gem,
+GemAlt,
+Gift,
+GiftAlt,
+GiftCard,
 GlobeDollar,
 Handshake,
 HardDrive,
@@ -1167,6 +1211,8 @@ MobileAlt2,
 MobileBolt,
 MobileCheck,
 MobileDollar,
+MobileSignal,
+MobileSignalOut,
 MobileSlash,
 MobileXmark,
 Modem,
@@ -1195,6 +1241,7 @@ MouseAlt4,
 MouseAlt5,
 Move,
 MoveAlt,
+NfcSymbol,
 Notdef,
 Notebook,
 NoteSticky,
@@ -1318,6 +1365,8 @@ SquarePollVertical,
 SquareTerminal,
 SquareUserChart,
 SquareUserCheck,
+Star,
+StarExclamation,
 Subdirectory,
 Suitcase,
 SwitchHorizontal,
@@ -1350,6 +1399,7 @@ TrainTrack,
 TrainTram,
 TreasureChest,
 TriangleExclamation,
+Trophy,
 Truck,
 Tv,
 TvAlt,
