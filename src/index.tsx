@@ -147,6 +147,7 @@ import BriefcaseAlt2 from "./icons/BriefcaseAlt2";
 import BriefcaseAlt3 from "./icons/BriefcaseAlt3";
 import BriefcaseAlt4 from "./icons/BriefcaseAlt4";
 import BriefcaseDollar from "./icons/BriefcaseDollar";
+import BriefcaseMedical from "./icons/BriefcaseMedical";
 import BriefcasePlus from "./icons/BriefcasePlus";
 import Broom from "./icons/Broom";
 import Browser from "./icons/Browser";
@@ -207,6 +208,7 @@ import Candy from "./icons/Candy";
 import CandyAlt from "./icons/CandyAlt";
 import CandyCane from "./icons/CandyCane";
 import CandyCorn from "./icons/CandyCorn";
+import Capsule from "./icons/Capsule";
 import Car from "./icons/Car";
 import CarBattery from "./icons/CarBattery";
 import CaretDown from "./icons/CaretDown";
@@ -295,6 +297,7 @@ import CirclePlugAlt from "./icons/CirclePlugAlt";
 import CirclePlus from "./icons/CirclePlus";
 import CircleQuarter from "./icons/CircleQuarter";
 import CircleQuestion from "./icons/CircleQuestion";
+import CircleRadiation from "./icons/CircleRadiation";
 import CircleStop from "./icons/CircleStop";
 import CircleVideo from "./icons/CircleVideo";
 import CircleWaterPlug from "./icons/CircleWaterPlug";
@@ -427,9 +430,13 @@ import ExpandAlt from "./icons/ExpandAlt";
 import ExpandAlt1 from "./icons/ExpandAlt1";
 import ExpandAlt2 from "./icons/ExpandAlt2";
 import ExpandWide from "./icons/ExpandWide";
+import Eye from "./icons/Eye";
+import EyeAlt from "./icons/EyeAlt";
 import EyeDropper from "./icons/EyeDropper";
 import EyeDropperFull from "./icons/EyeDropperFull";
 import EyeDropperHalf from "./icons/EyeDropperHalf";
+import EyeSlash from "./icons/EyeSlash";
+import EyeSlashAlt from "./icons/EyeSlashAlt";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
@@ -592,6 +599,8 @@ import Headphones from "./icons/Headphones";
 import HeadphonesAlt from "./icons/HeadphonesAlt";
 import HeadphonesAlt1 from "./icons/HeadphonesAlt1";
 import HeadphonesAlt2 from "./icons/HeadphonesAlt2";
+import Heart from "./icons/Heart";
+import HeartAlt from "./icons/HeartAlt";
 import Heat from "./icons/Heat";
 import HexagonCheck from "./icons/HexagonCheck";
 import HexagonExclamation from "./icons/HexagonExclamation";
@@ -630,6 +639,7 @@ import HouseUser from "./icons/HouseUser";
 import HouseWater from "./icons/HouseWater";
 import HouseWifi from "./icons/HouseWifi";
 import HouseWindow from "./icons/HouseWindow";
+import IdCardClip from "./icons/IdCardClip";
 import Image from "./icons/Image";
 import ImageCircle from "./icons/ImageCircle";
 import ImageMinus from "./icons/ImageMinus";
@@ -667,6 +677,7 @@ import JackOLantern from "./icons/JackOLantern";
 import Keyboard from "./icons/Keyboard";
 import KeyboardAlt from "./icons/KeyboardAlt";
 import KeyboardAlt1 from "./icons/KeyboardAlt1";
+import KitMedical from "./icons/KitMedical";
 import KnifeKitchen from "./icons/KnifeKitchen";
 import LampDesk from "./icons/LampDesk";
 import Landmark from "./icons/Landmark";
@@ -687,6 +698,7 @@ import LaptopExclamation from "./icons/LaptopExclamation";
 import LaptopExclamationAlt from "./icons/LaptopExclamationAlt";
 import LaptopLock from "./icons/LaptopLock";
 import LaptopLockAlt from "./icons/LaptopLockAlt";
+import LaptopMedical from "./icons/LaptopMedical";
 import LaptopRefresh from "./icons/LaptopRefresh";
 import LaptopRefreshAlt from "./icons/LaptopRefreshAlt";
 import LaptopSearch from "./icons/LaptopSearch";
@@ -773,6 +785,7 @@ import MapPin from "./icons/MapPin";
 import MapPinAlt from "./icons/MapPinAlt";
 import Marker from "./icons/Marker";
 import Mask from "./icons/Mask";
+import MaskFace from "./icons/MaskFace";
 import Maximize from "./icons/Maximize";
 import Medal from "./icons/Medal";
 import MedalAlt from "./icons/MedalAlt";
@@ -839,6 +852,7 @@ import MicrophoneAlt1 from "./icons/MicrophoneAlt1";
 import MicrophoneSlash from "./icons/MicrophoneSlash";
 import MicrophoneSlashAlt from "./icons/MicrophoneSlashAlt";
 import MicrophoneSlashAlt1 from "./icons/MicrophoneSlashAlt1";
+import Microscope from "./icons/Microscope";
 import Minimize from "./icons/Minimize";
 import Minus from "./icons/Minus";
 import Mistletoe from "./icons/Mistletoe";
@@ -866,6 +880,8 @@ import MonitorAlt3 from "./icons/MonitorAlt3";
 import MonitorAlt4 from "./icons/MonitorAlt4";
 import MonitorAlt5 from "./icons/MonitorAlt5";
 import MonitorAlt6 from "./icons/MonitorAlt6";
+import MonitorHeartRate from "./icons/MonitorHeartRate";
+import MonitorMedical from "./icons/MonitorMedical";
 import MonitorSun from "./icons/MonitorSun";
 import MonitorWater from "./icons/MonitorWater";
 import Monument from "./icons/Monument";
@@ -890,6 +906,7 @@ import NetworkWired from "./icons/NetworkWired";
 import NfcSymbol from "./icons/NfcSymbol";
 import Notdef from "./icons/Notdef";
 import Notebook from "./icons/Notebook";
+import NoteMedical from "./icons/NoteMedical";
 import Notes from "./icons/Notes";
 import NoteSticky from "./icons/NoteSticky";
 import ObjectsAlignBottom from "./icons/ObjectsAlignBottom";
@@ -976,6 +993,8 @@ import Potion from "./icons/Potion";
 import PowerAlt from "./icons/PowerAlt";
 import PowerBank from "./icons/PowerBank";
 import PowerOff from "./icons/PowerOff";
+import PrescriptionBottle from "./icons/PrescriptionBottle";
+import PrescriptionBottleMedical from "./icons/PrescriptionBottleMedical";
 import PresentationChart from "./icons/PresentationChart";
 import PresentationChartAlt from "./icons/PresentationChartAlt";
 import PresentationChartArrow from "./icons/PresentationChartArrow";
@@ -1105,7 +1124,9 @@ import SquareDollarChart from "./icons/SquareDollarChart";
 import SquareDots from "./icons/SquareDots";
 import SquareDotsVertical from "./icons/SquareDotsVertical";
 import SquareExclamation from "./icons/SquareExclamation";
+import SquareH from "./icons/SquareH";
 import SquareKanban from "./icons/SquareKanban";
+import SquareMedical from "./icons/SquareMedical";
 import SquareMinus from "./icons/SquareMinus";
 import SquareParking from "./icons/SquareParking";
 import SquareParkingSlash from "./icons/SquareParkingSlash";
@@ -1121,6 +1142,7 @@ import SquareT from "./icons/SquareT";
 import SquareTerminal from "./icons/SquareTerminal";
 import SquareUserChart from "./icons/SquareUserChart";
 import SquareUserCheck from "./icons/SquareUserCheck";
+import StaffSnake from "./icons/StaffSnake";
 import Star from "./icons/Star";
 import StarExclamation from "./icons/StarExclamation";
 import StarSharp from "./icons/StarSharp";
@@ -1128,6 +1150,7 @@ import StarSharpHalf from "./icons/StarSharpHalf";
 import Stocking from "./icons/Stocking";
 import Subdirectory from "./icons/Subdirectory";
 import Suitcase from "./icons/Suitcase";
+import SuitcaseMedical from "./icons/SuitcaseMedical";
 import Sun from "./icons/Sun";
 import SunAlt from "./icons/SunAlt";
 import Swatchbook from "./icons/Swatchbook";
@@ -1149,6 +1172,7 @@ import TentArrowsDown from "./icons/TentArrowsDown";
 import TentArrowTurnLeft from "./icons/TentArrowTurnLeft";
 import Tents from "./icons/Tents";
 import Terminal from "./icons/Terminal";
+import Thermometer from "./icons/Thermometer";
 import Thumbtack from "./icons/Thumbtack";
 import ToiletPaperBlank from "./icons/ToiletPaperBlank";
 import ToiletPaperDots from "./icons/ToiletPaperDots";
@@ -1210,12 +1234,14 @@ import Upload from "./icons/Upload";
 import UsbFlashDrive from "./icons/UsbFlashDrive";
 import UsbFlashDriveAlt1 from "./icons/UsbFlashDriveAlt1";
 import Van from "./icons/Van";
+import Vial from "./icons/Vial";
 import Video from "./icons/Video";
 import VideoArrowDownLeft from "./icons/VideoArrowDownLeft";
 import VideoArrowUpRight from "./icons/VideoArrowUpRight";
 import VideoPlus from "./icons/VideoPlus";
 import VideoSlash from "./icons/VideoSlash";
 import Vihara from "./icons/Vihara";
+import VirusCovid19 from "./icons/VirusCovid19";
 import Voicemail from "./icons/Voicemail";
 import VolumeMax from "./icons/VolumeMax";
 import VolumeMin from "./icons/VolumeMin";
@@ -1233,6 +1259,7 @@ import Watch from "./icons/Watch";
 import WatchAlt from "./icons/WatchAlt";
 import WatchAlt1 from "./icons/WatchAlt1";
 import WatchAlt2 from "./icons/WatchAlt2";
+import WavePulse from "./icons/WavePulse";
 import Webcam from "./icons/Webcam";
 import WebcamAlt from "./icons/WebcamAlt";
 import WebcamAlt1 from "./icons/WebcamAlt1";
@@ -1240,6 +1267,7 @@ import WebcamAlt2 from "./icons/WebcamAlt2";
 import WebcamSlash from "./icons/WebcamSlash";
 import WebcamSlashAlt from "./icons/WebcamSlashAlt";
 import Weight from "./icons/Weight";
+import WeightScale from "./icons/WeightScale";
 import Wifi from "./icons/Wifi";
 import WifiExclamation from "./icons/WifiExclamation";
 import WifiFair from "./icons/WifiFair";
@@ -1404,6 +1432,7 @@ BriefcaseAlt2,
 BriefcaseAlt3,
 BriefcaseAlt4,
 BriefcaseDollar,
+BriefcaseMedical,
 BriefcasePlus,
 Broom,
 Browser,
@@ -1464,6 +1493,7 @@ Candy,
 CandyAlt,
 CandyCane,
 CandyCorn,
+Capsule,
 Car,
 CarBattery,
 CaretDown,
@@ -1552,6 +1582,7 @@ CirclePlugAlt,
 CirclePlus,
 CircleQuarter,
 CircleQuestion,
+CircleRadiation,
 CircleStop,
 CircleVideo,
 CircleWaterPlug,
@@ -1684,9 +1715,13 @@ ExpandAlt,
 ExpandAlt1,
 ExpandAlt2,
 ExpandWide,
+Eye,
+EyeAlt,
 EyeDropper,
 EyeDropperFull,
 EyeDropperHalf,
+EyeSlash,
+EyeSlashAlt,
 Farm,
 Fence,
 FerrisWheel,
@@ -1849,6 +1884,8 @@ Headphones,
 HeadphonesAlt,
 HeadphonesAlt1,
 HeadphonesAlt2,
+Heart,
+HeartAlt,
 Heat,
 HexagonCheck,
 HexagonExclamation,
@@ -1887,6 +1924,7 @@ HouseUser,
 HouseWater,
 HouseWifi,
 HouseWindow,
+IdCardClip,
 Image,
 ImageCircle,
 ImageMinus,
@@ -1924,6 +1962,7 @@ JackOLantern,
 Keyboard,
 KeyboardAlt,
 KeyboardAlt1,
+KitMedical,
 KnifeKitchen,
 LampDesk,
 Landmark,
@@ -1944,6 +1983,7 @@ LaptopExclamation,
 LaptopExclamationAlt,
 LaptopLock,
 LaptopLockAlt,
+LaptopMedical,
 LaptopRefresh,
 LaptopRefreshAlt,
 LaptopSearch,
@@ -2030,6 +2070,7 @@ MapPin,
 MapPinAlt,
 Marker,
 Mask,
+MaskFace,
 Maximize,
 Medal,
 MedalAlt,
@@ -2096,6 +2137,7 @@ MicrophoneAlt1,
 MicrophoneSlash,
 MicrophoneSlashAlt,
 MicrophoneSlashAlt1,
+Microscope,
 Minimize,
 Minus,
 Mistletoe,
@@ -2123,6 +2165,8 @@ MonitorAlt3,
 MonitorAlt4,
 MonitorAlt5,
 MonitorAlt6,
+MonitorHeartRate,
+MonitorMedical,
 MonitorSun,
 MonitorWater,
 Monument,
@@ -2147,6 +2191,7 @@ NetworkWired,
 NfcSymbol,
 Notdef,
 Notebook,
+NoteMedical,
 Notes,
 NoteSticky,
 ObjectsAlignBottom,
@@ -2233,6 +2278,8 @@ Potion,
 PowerAlt,
 PowerBank,
 PowerOff,
+PrescriptionBottle,
+PrescriptionBottleMedical,
 PresentationChart,
 PresentationChartAlt,
 PresentationChartArrow,
@@ -2362,7 +2409,9 @@ SquareDollarChart,
 SquareDots,
 SquareDotsVertical,
 SquareExclamation,
+SquareH,
 SquareKanban,
+SquareMedical,
 SquareMinus,
 SquareParking,
 SquareParkingSlash,
@@ -2378,6 +2427,7 @@ SquareT,
 SquareTerminal,
 SquareUserChart,
 SquareUserCheck,
+StaffSnake,
 Star,
 StarExclamation,
 StarSharp,
@@ -2385,6 +2435,7 @@ StarSharpHalf,
 Stocking,
 Subdirectory,
 Suitcase,
+SuitcaseMedical,
 Sun,
 SunAlt,
 Swatchbook,
@@ -2406,6 +2457,7 @@ TentArrowsDown,
 TentArrowTurnLeft,
 Tents,
 Terminal,
+Thermometer,
 Thumbtack,
 ToiletPaperBlank,
 ToiletPaperDots,
@@ -2467,12 +2519,14 @@ Upload,
 UsbFlashDrive,
 UsbFlashDriveAlt1,
 Van,
+Vial,
 Video,
 VideoArrowDownLeft,
 VideoArrowUpRight,
 VideoPlus,
 VideoSlash,
 Vihara,
+VirusCovid19,
 Voicemail,
 VolumeMax,
 VolumeMin,
@@ -2490,6 +2544,7 @@ Watch,
 WatchAlt,
 WatchAlt1,
 WatchAlt2,
+WavePulse,
 Webcam,
 WebcamAlt,
 WebcamAlt1,
@@ -2497,6 +2552,7 @@ WebcamAlt2,
 WebcamSlash,
 WebcamSlashAlt,
 Weight,
+WeightScale,
 Wifi,
 WifiExclamation,
 WifiFair,
