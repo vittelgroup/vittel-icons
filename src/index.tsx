@@ -5,6 +5,7 @@ import Airpods from "./icons/Airpods";
 import AirpodsAlt from "./icons/AirpodsAlt";
 import Album from "./icons/Album";
 import AlbumCollection from "./icons/AlbumCollection";
+import Angel from "./icons/Angel";
 import Annotation from "./icons/Annotation";
 import AnnotationUser from "./icons/AnnotationUser";
 import Archway from "./icons/Archway";
@@ -161,6 +162,7 @@ import BuildingUser from "./icons/BuildingUser";
 import BuildingXmark from "./icons/BuildingXmark";
 import BullseyeArrow from "./icons/BullseyeArrow";
 import Bus from "./icons/Bus";
+import CakeChristmas from "./icons/CakeChristmas";
 import Calculator from "./icons/Calculator";
 import Calendar from "./icons/Calendar";
 import CalendarAlt from "./icons/CalendarAlt";
@@ -198,6 +200,7 @@ import CandleHolder from "./icons/CandleHolder";
 import CandleStand from "./icons/CandleStand";
 import Candy from "./icons/Candy";
 import CandyAlt from "./icons/CandyAlt";
+import CandyCane from "./icons/CandyCane";
 import CandyCorn from "./icons/CandyCorn";
 import Car from "./icons/Car";
 import CarBattery from "./icons/CarBattery";
@@ -261,6 +264,10 @@ import ChevronUpDouble from "./icons/ChevronUpDouble";
 import ChevronUpLeft from "./icons/ChevronUpLeft";
 import ChevronUpRight from "./icons/ChevronUpRight";
 import Chimney from "./icons/Chimney";
+import ChirstmasStar from "./icons/ChirstmasStar";
+import ChristmasBag from "./icons/ChristmasBag";
+import ChristmasCandle from "./icons/ChristmasCandle";
+import ChristmasStar from "./icons/ChristmasStar";
 import Church from "./icons/Church";
 import Circle from "./icons/Circle";
 import CircleBolt from "./icons/CircleBolt";
@@ -333,6 +340,9 @@ import Command from "./icons/Command";
 import CompactDisc from "./icons/CompactDisc";
 import CompassDrafting from "./icons/CompassDrafting";
 import ContainerStorage from "./icons/ContainerStorage";
+import Cookie from "./icons/Cookie";
+import CookieMan from "./icons/CookieMan";
+import Cookies from "./icons/Cookies";
 import CornerDownLeft from "./icons/CornerDownLeft";
 import CornerDownRight from "./icons/CornerDownRight";
 import CornerLeftDown from "./icons/CornerLeftDown";
@@ -473,6 +483,7 @@ import FileZipper from "./icons/FileZipper";
 import Film from "./icons/Film";
 import FilmAlt from "./icons/FilmAlt";
 import FilmSlash from "./icons/FilmSlash";
+import Fireplace from "./icons/Fireplace";
 import Flashlight from "./icons/Flashlight";
 import FlaskRoundBlank from "./icons/FlaskRoundBlank";
 import FlaskRoundPotion from "./icons/FlaskRoundPotion";
@@ -654,6 +665,7 @@ import Lightbulb from "./icons/Lightbulb";
 import LightbulbAlt from "./icons/LightbulbAlt";
 import LightbulbExclamation from "./icons/LightbulbExclamation";
 import LightbulbExclamationAlt from "./icons/LightbulbExclamationAlt";
+import LightsHoliday from "./icons/LightsHoliday";
 import Link from "./icons/Link";
 import LinkAlt from "./icons/LinkAlt";
 import LinkAlt1 from "./icons/LinkAlt1";
@@ -707,6 +719,9 @@ import MedalAlt from "./icons/MedalAlt";
 import Memo from "./icons/Memo";
 import MemoCheck from "./icons/MemoCheck";
 import MemoPencil from "./icons/MemoPencil";
+import Menorah from "./icons/Menorah";
+import MenorahAlt from "./icons/MenorahAlt";
+import MenorahAlt1 from "./icons/MenorahAlt1";
 import MessageCircle from "./icons/MessageCircle";
 import MessageCircleArrowDown from "./icons/MessageCircleArrowDown";
 import MessageCircleArrowUp from "./icons/MessageCircleArrowUp";
@@ -766,6 +781,7 @@ import MicrophoneSlashAlt from "./icons/MicrophoneSlashAlt";
 import MicrophoneSlashAlt1 from "./icons/MicrophoneSlashAlt1";
 import Minimize from "./icons/Minimize";
 import Minus from "./icons/Minus";
+import Mistletoe from "./icons/Mistletoe";
 import Mobile from "./icons/Mobile";
 import MobileAlt from "./icons/MobileAlt";
 import MobileAlt1 from "./icons/MobileAlt1";
@@ -831,6 +847,8 @@ import ObjectsAlignTopAlt from "./icons/ObjectsAlignTopAlt";
 import ObjectsColumn from "./icons/ObjectsColumn";
 import OctagonExclamation from "./icons/OctagonExclamation";
 import OilWell from "./icons/OilWell";
+import Ornament from "./icons/Ornament";
+import OrnamentAlt from "./icons/OrnamentAlt";
 import PaintBrush from "./icons/PaintBrush";
 import PaintBrushAlt from "./icons/PaintBrushAlt";
 import PaintRoller from "./icons/PaintRoller";
@@ -930,6 +948,7 @@ import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
 import Reply from "./icons/Reply";
 import Rocket from "./icons/Rocket";
+import RockingHorse from "./icons/RockingHorse";
 import RollerCoaster from "./icons/RollerCoaster";
 import Rotate from "./icons/Rotate";
 import RotateCcw from "./icons/RotateCcw";
@@ -938,6 +957,10 @@ import RotateExclamation from "./icons/RotateExclamation";
 import Rss from "./icons/Rss";
 import Ruler from "./icons/Ruler";
 import RulerTraingle from "./icons/RulerTraingle";
+import SantaClaus from "./icons/SantaClaus";
+import SantaGlove from "./icons/SantaGlove";
+import SantaHat from "./icons/SantaHat";
+import SantaHatAlt from "./icons/SantaHatAlt";
 import SatelliteDish from "./icons/SatelliteDish";
 import Scarecrow from "./icons/Scarecrow";
 import School from "./icons/School";
@@ -980,13 +1003,18 @@ import SimcardAlt from "./icons/SimcardAlt";
 import SimcardSlash from "./icons/SimcardSlash";
 import SipderWeb from "./icons/SipderWeb";
 import Sitemap from "./icons/Sitemap";
+import Skates from "./icons/Skates";
+import SkatesAlt from "./icons/SkatesAlt";
 import Skull from "./icons/Skull";
 import SkullAlt from "./icons/SkullAlt";
 import SkullAlt1 from "./icons/SkullAlt1";
 import SkullCrossbones from "./icons/SkullCrossbones";
+import Sleigh from "./icons/Sleigh";
 import Sliders from "./icons/Sliders";
 import SlidersSimple from "./icons/SlidersSimple";
 import SlidersUp from "./icons/SlidersUp";
+import Snowman from "./icons/Snowman";
+import SnowmanHead from "./icons/SnowmanHead";
 import Sort from "./icons/Sort";
 import SortDown from "./icons/SortDown";
 import SortUp from "./icons/SortUp";
@@ -1022,6 +1050,7 @@ import Star from "./icons/Star";
 import StarExclamation from "./icons/StarExclamation";
 import StarSharp from "./icons/StarSharp";
 import StarSharpHalf from "./icons/StarSharpHalf";
+import Stocking from "./icons/Stocking";
 import Subdirectory from "./icons/Subdirectory";
 import Suitcase from "./icons/Suitcase";
 import Sun from "./icons/Sun";
@@ -1036,6 +1065,7 @@ import TabletAlt2 from "./icons/TabletAlt2";
 import TableTree from "./icons/TableTree";
 import Tag from "./icons/Tag";
 import Tags from "./icons/Tags";
+import TeddyBear from "./icons/TeddyBear";
 import Temple from "./icons/Temple";
 import Tent from "./icons/Tent";
 import TentArrowDownToLine from "./icons/TentArrowDownToLine";
@@ -1082,6 +1112,10 @@ import TrashUndoAlt from "./icons/TrashUndoAlt";
 import TrashXmark from "./icons/TrashXmark";
 import TrashXmarkAlt from "./icons/TrashXmarkAlt";
 import TreasureChest from "./icons/TreasureChest";
+import TreeDecorated from "./icons/TreeDecorated";
+import TreeDecoratedAlt from "./icons/TreeDecoratedAlt";
+import TreeDecoratedAlt1 from "./icons/TreeDecoratedAlt1";
+import TreePlus from "./icons/TreePlus";
 import TriangleArrowsBolt from "./icons/TriangleArrowsBolt";
 import TriangleExclamation from "./icons/TriangleExclamation";
 import TriangleInstrument from "./icons/TriangleInstrument";
@@ -1129,6 +1163,7 @@ import Wind from "./icons/Wind";
 import Window from "./icons/Window";
 import WindowFlip from "./icons/WindowFlip";
 import WindWarning from "./icons/WindWarning";
+import Wreath from "./icons/Wreath";
 import Xmark from "./icons/Xmark";
 import XmarkLarge from "./icons/XmarkLarge";
 
@@ -1140,6 +1175,7 @@ Airpods,
 AirpodsAlt,
 Album,
 AlbumCollection,
+Angel,
 Annotation,
 AnnotationUser,
 Archway,
@@ -1296,6 +1332,7 @@ BuildingUser,
 BuildingXmark,
 BullseyeArrow,
 Bus,
+CakeChristmas,
 Calculator,
 Calendar,
 CalendarAlt,
@@ -1333,6 +1370,7 @@ CandleHolder,
 CandleStand,
 Candy,
 CandyAlt,
+CandyCane,
 CandyCorn,
 Car,
 CarBattery,
@@ -1396,6 +1434,10 @@ ChevronUpDouble,
 ChevronUpLeft,
 ChevronUpRight,
 Chimney,
+ChirstmasStar,
+ChristmasBag,
+ChristmasCandle,
+ChristmasStar,
 Church,
 Circle,
 CircleBolt,
@@ -1468,6 +1510,9 @@ Command,
 CompactDisc,
 CompassDrafting,
 ContainerStorage,
+Cookie,
+CookieMan,
+Cookies,
 CornerDownLeft,
 CornerDownRight,
 CornerLeftDown,
@@ -1608,6 +1653,7 @@ FileZipper,
 Film,
 FilmAlt,
 FilmSlash,
+Fireplace,
 Flashlight,
 FlaskRoundBlank,
 FlaskRoundPotion,
@@ -1789,6 +1835,7 @@ Lightbulb,
 LightbulbAlt,
 LightbulbExclamation,
 LightbulbExclamationAlt,
+LightsHoliday,
 Link,
 LinkAlt,
 LinkAlt1,
@@ -1842,6 +1889,9 @@ MedalAlt,
 Memo,
 MemoCheck,
 MemoPencil,
+Menorah,
+MenorahAlt,
+MenorahAlt1,
 MessageCircle,
 MessageCircleArrowDown,
 MessageCircleArrowUp,
@@ -1901,6 +1951,7 @@ MicrophoneSlashAlt,
 MicrophoneSlashAlt1,
 Minimize,
 Minus,
+Mistletoe,
 Mobile,
 MobileAlt,
 MobileAlt1,
@@ -1966,6 +2017,8 @@ ObjectsAlignTopAlt,
 ObjectsColumn,
 OctagonExclamation,
 OilWell,
+Ornament,
+OrnamentAlt,
 PaintBrush,
 PaintBrushAlt,
 PaintRoller,
@@ -2065,6 +2118,7 @@ RefreshCwAlt4,
 RepeatAlt,
 Reply,
 Rocket,
+RockingHorse,
 RollerCoaster,
 Rotate,
 RotateCcw,
@@ -2073,6 +2127,10 @@ RotateExclamation,
 Rss,
 Ruler,
 RulerTraingle,
+SantaClaus,
+SantaGlove,
+SantaHat,
+SantaHatAlt,
 SatelliteDish,
 Scarecrow,
 School,
@@ -2115,13 +2173,18 @@ SimcardAlt,
 SimcardSlash,
 SipderWeb,
 Sitemap,
+Skates,
+SkatesAlt,
 Skull,
 SkullAlt,
 SkullAlt1,
 SkullCrossbones,
+Sleigh,
 Sliders,
 SlidersSimple,
 SlidersUp,
+Snowman,
+SnowmanHead,
 Sort,
 SortDown,
 SortUp,
@@ -2157,6 +2220,7 @@ Star,
 StarExclamation,
 StarSharp,
 StarSharpHalf,
+Stocking,
 Subdirectory,
 Suitcase,
 Sun,
@@ -2171,6 +2235,7 @@ TabletAlt2,
 TableTree,
 Tag,
 Tags,
+TeddyBear,
 Temple,
 Tent,
 TentArrowDownToLine,
@@ -2217,6 +2282,10 @@ TrashUndoAlt,
 TrashXmark,
 TrashXmarkAlt,
 TreasureChest,
+TreeDecorated,
+TreeDecoratedAlt,
+TreeDecoratedAlt1,
+TreePlus,
 TriangleArrowsBolt,
 TriangleExclamation,
 TriangleInstrument,
@@ -2264,6 +2333,7 @@ Wind,
 Window,
 WindowFlip,
 WindWarning,
+Wreath,
 Xmark,
 XmarkLarge
 }
