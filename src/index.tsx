@@ -93,6 +93,7 @@ import Atom from "./icons/Atom";
 import AtSign from "./icons/AtSign";
 import AudioDescription from "./icons/AudioDescription";
 import AudioDescriptionSlasg from "./icons/AudioDescriptionSlasg";
+import AustralSign from "./icons/AustralSign";
 import Award from "./icons/Award";
 import AwardAlt from "./icons/AwardAlt";
 import Backpack from "./icons/Backpack";
@@ -101,6 +102,8 @@ import Backward from "./icons/Backward";
 import BackwardFast from "./icons/BackwardFast";
 import BackwardStep from "./icons/BackwardStep";
 import BadgeCheck from "./icons/BadgeCheck";
+import BadgeDollar from "./icons/BadgeDollar";
+import BadgePercent from "./icons/BadgePercent";
 import BagShopping from "./icons/BagShopping";
 import BagsShopping from "./icons/BagsShopping";
 import Balloon from "./icons/Balloon";
@@ -118,6 +121,8 @@ import BatteryFull from "./icons/BatteryFull";
 import BatteryLow from "./icons/BatteryLow";
 import BatteryMid from "./icons/BatteryMid";
 import BatterySlash from "./icons/BatterySlash";
+import BitcoinCircle from "./icons/BitcoinCircle";
+import BitcoinSign from "./icons/BitcoinSign";
 import BluetoothOn from "./icons/BluetoothOn";
 import BluetoothSignal from "./icons/BluetoothSignal";
 import BluetoothSlash from "./icons/BluetoothSlash";
@@ -226,20 +231,29 @@ import CartPlus from "./icons/CartPlus";
 import CartShopping from "./icons/CartShopping";
 import CartShoppingFast from "./icons/CartShoppingFast";
 import CartXmark from "./icons/CartXmark";
+import CashRegister from "./icons/CashRegister";
 import CassetteTape from "./icons/CassetteTape";
 import Castle from "./icons/Castle";
 import Cat from "./icons/Cat";
 import Cauldron from "./icons/Cauldron";
 import Cctv from "./icons/Cctv";
+import CediSign from "./icons/CediSign";
+import CentSign from "./icons/CentSign";
 import ChartArea from "./icons/ChartArea";
 import ChartBar from "./icons/ChartBar";
 import ChartBullet from "./icons/ChartBullet";
 import ChartColumn from "./icons/ChartColumn";
 import ChartGantt from "./icons/ChartGantt";
+import ChartLine from "./icons/ChartLine";
+import ChartLineDown from "./icons/ChartLineDown";
 import ChartLineUp from "./icons/ChartLineUp";
+import ChartMixed from "./icons/ChartMixed";
+import ChartMixedAlt from "./icons/ChartMixedAlt";
 import ChartNetwork from "./icons/ChartNetwork";
+import ChartPie from "./icons/ChartPie";
 import ChartPieAlt from "./icons/ChartPieAlt";
 import ChartPieAlt1 from "./icons/ChartPieAlt1";
+import ChartPieSimple from "./icons/ChartPieSimple";
 import ChartPyramid from "./icons/ChartPyramid";
 import ChartRadar from "./icons/ChartRadar";
 import ChartScatter from "./icons/ChartScatter";
@@ -279,6 +293,8 @@ import Church from "./icons/Church";
 import Circle from "./icons/Circle";
 import CircleBolt from "./icons/CircleBolt";
 import CircleDashed from "./icons/CircleDashed";
+import CircleDollar from "./icons/CircleDollar";
+import CircleDollarToSlot from "./icons/CircleDollarToSlot";
 import CircleDotsHorizontal from "./icons/CircleDotsHorizontal";
 import CircleDotsVertical from "./icons/CircleDotsVertical";
 import CircleExclamation from "./icons/CircleExclamation";
@@ -291,6 +307,7 @@ import CircleMinus from "./icons/CircleMinus";
 import CircleParking from "./icons/CircleParking";
 import CircleParkingSplash from "./icons/CircleParkingSplash";
 import CirclePause from "./icons/CirclePause";
+import CirclePercentage from "./icons/CirclePercentage";
 import CirclePlay from "./icons/CirclePlay";
 import CirclePlug from "./icons/CirclePlug";
 import CirclePlugAlt from "./icons/CirclePlugAlt";
@@ -303,6 +320,7 @@ import CircleVideo from "./icons/CircleVideo";
 import CircleWaterPlug from "./icons/CircleWaterPlug";
 import CircleWaveformLines from "./icons/CircleWaveformLines";
 import CircleXmark from "./icons/CircleXmark";
+import CircleYen from "./icons/CircleYen";
 import Circuit from "./icons/Circuit";
 import City from "./icons/City";
 import Clapperboard from "./icons/Clapperboard";
@@ -350,6 +368,13 @@ import CodePullRequestClosed from "./icons/CodePullRequestClosed";
 import Coffin from "./icons/Coffin";
 import CoffinCross from "./icons/CoffinCross";
 import CoffinOpen from "./icons/CoffinOpen";
+import Coin from "./icons/Coin";
+import CoinAlt from "./icons/CoinAlt";
+import CoinFront from "./icons/CoinFront";
+import Coins from "./icons/Coins";
+import CoinsAlt from "./icons/CoinsAlt";
+import CoinVertical from "./icons/CoinVertical";
+import ColonSign from "./icons/ColonSign";
 import Colors from "./icons/Colors";
 import Command from "./icons/Command";
 import CompactDisc from "./icons/CompactDisc";
@@ -371,10 +396,18 @@ import CornerRightDown from "./icons/CornerRightDown";
 import CornerRightUp from "./icons/CornerRightUp";
 import CornerUpLeft from "./icons/CornerUpLeft";
 import CornerUpRight from "./icons/CornerUpRight";
+import CreditCard from "./icons/CreditCard";
+import CreditCardAlt from "./icons/CreditCardAlt";
+import CreditCardAlt1 from "./icons/CreditCardAlt1";
+import CreditCardArrowRight from "./icons/CreditCardArrowRight";
+import CreditCardArrowRightAlt from "./icons/CreditCardArrowRightAlt";
+import CreditCardMinus from "./icons/CreditCardMinus";
+import CreditCardPlus from "./icons/CreditCardPlus";
 import CreditCardScan from "./icons/CreditCardScan";
 import Crop from "./icons/Crop";
 import CropSimple from "./icons/CropSimple";
 import Crow from "./icons/Crow";
+import CruzeiroSign from "./icons/CruzeiroSign";
 import Cube from "./icons/Cube";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
@@ -410,6 +443,9 @@ import DistributeSpacingHorizontalAlt from "./icons/DistributeSpacingHorizontalA
 import DistributeSpacingVertical from "./icons/DistributeSpacingVertical";
 import DistributeSpacingVerticalAlt from "./icons/DistributeSpacingVerticalAlt";
 import Dna from "./icons/Dna";
+import DollarCircleList from "./icons/DollarCircleList";
+import DollarSign from "./icons/DollarSign";
+import DongSign from "./icons/DongSign";
 import DotsHorizontal from "./icons/DotsHorizontal";
 import DotsHorizontalAlt from "./icons/DotsHorizontalAlt";
 import DotsVertical from "./icons/DotsVertical";
@@ -423,6 +459,8 @@ import Drum from "./icons/Drum";
 import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
 import Enter from "./icons/Enter";
+import EuroCircle from "./icons/EuroCircle";
+import EuroSign from "./icons/EuroSign";
 import Exclamation from "./icons/Exclamation";
 import ExclamationAlt from "./icons/ExclamationAlt";
 import Expand from "./icons/Expand";
@@ -569,6 +607,7 @@ import Globe from "./icons/Globe";
 import GlobeAlt from "./icons/GlobeAlt";
 import GlobeDollar from "./icons/GlobeDollar";
 import GlobeStand from "./icons/GlobeStand";
+import Gold from "./icons/Gold";
 import GraduationHat from "./icons/GraduationHat";
 import GraduationHatAlt from "./icons/GraduationHatAlt";
 import GraduationHatAlt1 from "./icons/GraduationHatAlt1";
@@ -724,6 +763,7 @@ import LinkAlt from "./icons/LinkAlt";
 import LinkAlt1 from "./icons/LinkAlt1";
 import LinkSlash from "./icons/LinkSlash";
 import LinkSlashAlt from "./icons/LinkSlashAlt";
+import LiraSign from "./icons/LiraSign";
 import ListMusic from "./icons/ListMusic";
 import LocationArrow from "./icons/LocationArrow";
 import LocationArrowAlt from "./icons/LocationArrowAlt";
@@ -872,6 +912,16 @@ import ModemAlt from "./icons/ModemAlt";
 import ModemAlt1 from "./icons/ModemAlt1";
 import ModemAlt2 from "./icons/ModemAlt2";
 import ModemAlt3 from "./icons/ModemAlt3";
+import Moneybag from "./icons/Moneybag";
+import MoneyBill from "./icons/MoneyBill";
+import MoneyBillStack from "./icons/MoneyBillStack";
+import MoneyCheck from "./icons/MoneyCheck";
+import MoneyCheckDollar from "./icons/MoneyCheckDollar";
+import MoneyCheckDollarPen from "./icons/MoneyCheckDollarPen";
+import MoneyCheckPen from "./icons/MoneyCheckPen";
+import MoneyInsert from "./icons/MoneyInsert";
+import MoneyStack from "./icons/MoneyStack";
+import MoneyWithdrawal from "./icons/MoneyWithdrawal";
 import Monitor from "./icons/Monitor";
 import MonitorAlt from "./icons/MonitorAlt";
 import MonitorAlt1 from "./icons/MonitorAlt1";
@@ -990,6 +1040,8 @@ import PlusMinus from "./icons/PlusMinus";
 import Podcast from "./icons/Podcast";
 import Podium from "./icons/Podium";
 import Potion from "./icons/Potion";
+import PoundCircle from "./icons/PoundCircle";
+import PoundSign from "./icons/PoundSign";
 import PowerAlt from "./icons/PowerAlt";
 import PowerBank from "./icons/PowerBank";
 import PowerOff from "./icons/PowerOff";
@@ -1041,11 +1093,15 @@ import Route from "./icons/Route";
 import Rss from "./icons/Rss";
 import Ruler from "./icons/Ruler";
 import RulerTraingle from "./icons/RulerTraingle";
+import RupeeSign from "./icons/RupeeSign";
 import SantaClaus from "./icons/SantaClaus";
 import SantaGlove from "./icons/SantaGlove";
 import SantaHat from "./icons/SantaHat";
 import SantaHatAlt from "./icons/SantaHatAlt";
 import SatelliteDish from "./icons/SatelliteDish";
+import ScaleBalanced from "./icons/ScaleBalanced";
+import ScaleUnbalanced from "./icons/ScaleUnbalanced";
+import ScaleUnbalancedFlip from "./icons/ScaleUnbalancedFlip";
 import Scarecrow from "./icons/Scarecrow";
 import School from "./icons/School";
 import SchoolFlag from "./icons/SchoolFlag";
@@ -1163,8 +1219,10 @@ import TabletAlt2 from "./icons/TabletAlt2";
 import TableTree from "./icons/TableTree";
 import Tag from "./icons/Tag";
 import Tags from "./icons/Tags";
+import Tally from "./icons/Tally";
 import TeddyBear from "./icons/TeddyBear";
 import Temple from "./icons/Temple";
+import TengeSign from "./icons/TengeSign";
 import Tent from "./icons/Tent";
 import TentArrowDownToLine from "./icons/TentArrowDownToLine";
 import TentArrowLeftRight from "./icons/TentArrowLeftRight";
@@ -1226,6 +1284,8 @@ import TriangleExclamation from "./icons/TriangleExclamation";
 import TriangleInstrument from "./icons/TriangleInstrument";
 import Trophy from "./icons/Trophy";
 import Truck from "./icons/Truck";
+import TughrikSign from "./icons/TughrikSign";
+import TurkishLiraSign from "./icons/TurkishLiraSign";
 import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
 import TvAlt1 from "./icons/TvAlt1";
@@ -1234,6 +1294,7 @@ import Upload from "./icons/Upload";
 import UsbFlashDrive from "./icons/UsbFlashDrive";
 import UsbFlashDriveAlt1 from "./icons/UsbFlashDriveAlt1";
 import Van from "./icons/Van";
+import Vault from "./icons/Vault";
 import Vial from "./icons/Vial";
 import Video from "./icons/Video";
 import VideoArrowDownLeft from "./icons/VideoArrowDownLeft";
@@ -1249,6 +1310,11 @@ import VolumeMinus from "./icons/VolumeMinus";
 import VolumeOff from "./icons/VolumeOff";
 import VolumePlus from "./icons/VolumePlus";
 import VolumeXmark from "./icons/VolumeXmark";
+import Wallet from "./icons/Wallet";
+import WalletAlt from "./icons/WalletAlt";
+import WalletArrowRight from "./icons/WalletArrowRight";
+import WalletMinus from "./icons/WalletMinus";
+import WalletPlus from "./icons/WalletPlus";
 import Wand from "./icons/Wand";
 import WandMagic from "./icons/WandMagic";
 import WandMagicSparkles from "./icons/WandMagicSparkles";
@@ -1278,9 +1344,11 @@ import Wind from "./icons/Wind";
 import Window from "./icons/Window";
 import WindowFlip from "./icons/WindowFlip";
 import WindWarning from "./icons/WindWarning";
+import WonSign from "./icons/WonSign";
 import Wreath from "./icons/Wreath";
 import Xmark from "./icons/Xmark";
 import XmarkLarge from "./icons/XmarkLarge";
+import YenSign from "./icons/YenSign";
 
 export {
 AddressBook,
@@ -1378,6 +1446,7 @@ Atom,
 AtSign,
 AudioDescription,
 AudioDescriptionSlasg,
+AustralSign,
 Award,
 AwardAlt,
 Backpack,
@@ -1386,6 +1455,8 @@ Backward,
 BackwardFast,
 BackwardStep,
 BadgeCheck,
+BadgeDollar,
+BadgePercent,
 BagShopping,
 BagsShopping,
 Balloon,
@@ -1403,6 +1474,8 @@ BatteryFull,
 BatteryLow,
 BatteryMid,
 BatterySlash,
+BitcoinCircle,
+BitcoinSign,
 BluetoothOn,
 BluetoothSignal,
 BluetoothSlash,
@@ -1511,20 +1584,29 @@ CartPlus,
 CartShopping,
 CartShoppingFast,
 CartXmark,
+CashRegister,
 CassetteTape,
 Castle,
 Cat,
 Cauldron,
 Cctv,
+CediSign,
+CentSign,
 ChartArea,
 ChartBar,
 ChartBullet,
 ChartColumn,
 ChartGantt,
+ChartLine,
+ChartLineDown,
 ChartLineUp,
+ChartMixed,
+ChartMixedAlt,
 ChartNetwork,
+ChartPie,
 ChartPieAlt,
 ChartPieAlt1,
+ChartPieSimple,
 ChartPyramid,
 ChartRadar,
 ChartScatter,
@@ -1564,6 +1646,8 @@ Church,
 Circle,
 CircleBolt,
 CircleDashed,
+CircleDollar,
+CircleDollarToSlot,
 CircleDotsHorizontal,
 CircleDotsVertical,
 CircleExclamation,
@@ -1576,6 +1660,7 @@ CircleMinus,
 CircleParking,
 CircleParkingSplash,
 CirclePause,
+CirclePercentage,
 CirclePlay,
 CirclePlug,
 CirclePlugAlt,
@@ -1588,6 +1673,7 @@ CircleVideo,
 CircleWaterPlug,
 CircleWaveformLines,
 CircleXmark,
+CircleYen,
 Circuit,
 City,
 Clapperboard,
@@ -1635,6 +1721,13 @@ CodePullRequestClosed,
 Coffin,
 CoffinCross,
 CoffinOpen,
+Coin,
+CoinAlt,
+CoinFront,
+Coins,
+CoinsAlt,
+CoinVertical,
+ColonSign,
 Colors,
 Command,
 CompactDisc,
@@ -1656,10 +1749,18 @@ CornerRightDown,
 CornerRightUp,
 CornerUpLeft,
 CornerUpRight,
+CreditCard,
+CreditCardAlt,
+CreditCardAlt1,
+CreditCardArrowRight,
+CreditCardArrowRightAlt,
+CreditCardMinus,
+CreditCardPlus,
 CreditCardScan,
 Crop,
 CropSimple,
 Crow,
+CruzeiroSign,
 Cube,
 Cursor,
 CursorAlt,
@@ -1695,6 +1796,9 @@ DistributeSpacingHorizontalAlt,
 DistributeSpacingVertical,
 DistributeSpacingVerticalAlt,
 Dna,
+DollarCircleList,
+DollarSign,
+DongSign,
 DotsHorizontal,
 DotsHorizontalAlt,
 DotsVertical,
@@ -1708,6 +1812,8 @@ Drum,
 Engine,
 EngineWarning,
 Enter,
+EuroCircle,
+EuroSign,
 Exclamation,
 ExclamationAlt,
 Expand,
@@ -1854,6 +1960,7 @@ Globe,
 GlobeAlt,
 GlobeDollar,
 GlobeStand,
+Gold,
 GraduationHat,
 GraduationHatAlt,
 GraduationHatAlt1,
@@ -2009,6 +2116,7 @@ LinkAlt,
 LinkAlt1,
 LinkSlash,
 LinkSlashAlt,
+LiraSign,
 ListMusic,
 LocationArrow,
 LocationArrowAlt,
@@ -2157,6 +2265,16 @@ ModemAlt,
 ModemAlt1,
 ModemAlt2,
 ModemAlt3,
+Moneybag,
+MoneyBill,
+MoneyBillStack,
+MoneyCheck,
+MoneyCheckDollar,
+MoneyCheckDollarPen,
+MoneyCheckPen,
+MoneyInsert,
+MoneyStack,
+MoneyWithdrawal,
 Monitor,
 MonitorAlt,
 MonitorAlt1,
@@ -2275,6 +2393,8 @@ PlusMinus,
 Podcast,
 Podium,
 Potion,
+PoundCircle,
+PoundSign,
 PowerAlt,
 PowerBank,
 PowerOff,
@@ -2326,11 +2446,15 @@ Route,
 Rss,
 Ruler,
 RulerTraingle,
+RupeeSign,
 SantaClaus,
 SantaGlove,
 SantaHat,
 SantaHatAlt,
 SatelliteDish,
+ScaleBalanced,
+ScaleUnbalanced,
+ScaleUnbalancedFlip,
 Scarecrow,
 School,
 SchoolFlag,
@@ -2448,8 +2572,10 @@ TabletAlt2,
 TableTree,
 Tag,
 Tags,
+Tally,
 TeddyBear,
 Temple,
+TengeSign,
 Tent,
 TentArrowDownToLine,
 TentArrowLeftRight,
@@ -2511,6 +2637,8 @@ TriangleExclamation,
 TriangleInstrument,
 Trophy,
 Truck,
+TughrikSign,
+TurkishLiraSign,
 Tv,
 TvAlt,
 TvAlt1,
@@ -2519,6 +2647,7 @@ Upload,
 UsbFlashDrive,
 UsbFlashDriveAlt1,
 Van,
+Vault,
 Vial,
 Video,
 VideoArrowDownLeft,
@@ -2534,6 +2663,11 @@ VolumeMinus,
 VolumeOff,
 VolumePlus,
 VolumeXmark,
+Wallet,
+WalletAlt,
+WalletArrowRight,
+WalletMinus,
+WalletPlus,
 Wand,
 WandMagic,
 WandMagicSparkles,
@@ -2563,7 +2697,9 @@ Wind,
 Window,
 WindowFlip,
 WindWarning,
+WonSign,
 Wreath,
 Xmark,
-XmarkLarge
+XmarkLarge,
+YenSign
 }
