@@ -1,5 +1,7 @@
 import AddressBook from "./icons/AddressBook";
 import AddressCard from "./icons/AddressCard";
+import Airpods from "./icons/Airpods";
+import AirpodsAlt from "./icons/AirpodsAlt";
 import Annotation from "./icons/Annotation";
 import AnnotationUser from "./icons/AnnotationUser";
 import Archway from "./icons/Archway";
@@ -148,8 +150,14 @@ import CalendarUser from "./icons/CalendarUser";
 import CalendarWeek from "./icons/CalendarWeek";
 import CalendarXmark from "./icons/CalendarXmark";
 import CalendarXmarkAlt from "./icons/CalendarXmarkAlt";
+import Camera from "./icons/Camera";
+import CameraAlt from "./icons/CameraAlt";
+import CameraAlt1 from "./icons/CameraAlt1";
+import CameraAlt2 from "./icons/CameraAlt2";
+import CameraSlash from "./icons/CameraSlash";
 import Campground from "./icons/Campground";
 import Car from "./icons/Car";
+import CarBattery from "./icons/CarBattery";
 import CaretDown from "./icons/CaretDown";
 import CaretLeft from "./icons/CaretLeft";
 import CaretLeftToLine from "./icons/CaretLeftToLine";
@@ -204,6 +212,7 @@ import CircleExclamationCheck from "./icons/CircleExclamationCheck";
 import CircleInformation from "./icons/CircleInformation";
 import CircleQuarter from "./icons/CircleQuarter";
 import CircleQuestion from "./icons/CircleQuestion";
+import Circuit from "./icons/Circuit";
 import City from "./icons/City";
 import Code from "./icons/Code";
 import CodeAlt from "./icons/CodeAlt";
@@ -226,6 +235,7 @@ import CornerUpRight from "./icons/CornerUpRight";
 import CreditCardScan from "./icons/CreditCardScan";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
+import DesktopComputer from "./icons/DesktopComputer";
 import DiagramCells from "./icons/DiagramCells";
 import DiagramLeanCanvas from "./icons/DiagramLeanCanvas";
 import DiagramNested from "./icons/DiagramNested";
@@ -237,7 +247,10 @@ import DiagramSankey from "./icons/DiagramSankey";
 import DiagramSubtask from "./icons/DiagramSubtask";
 import DiagramSuccessor from "./icons/DiagramSuccessor";
 import DiagramVenn from "./icons/DiagramVenn";
+import Disc from "./icons/Disc";
+import DiscAlt from "./icons/DiscAlt";
 import Download from "./icons/Download";
+import DrawingTablet from "./icons/DrawingTablet";
 import Drone from "./icons/Drone";
 import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
@@ -248,9 +261,14 @@ import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
 import FileCv from "./icons/FileCv";
+import Flashlight from "./icons/Flashlight";
 import FlipBackward from "./icons/FlipBackward";
 import FlipForward from "./icons/FlipForward";
+import FloppyDiskAlt from "./icons/FloppyDiskAlt";
 import Forward from "./icons/Forward";
+import GamingPad from "./icons/GamingPad";
+import GamingPadAlt from "./icons/GamingPadAlt";
+import GamingPadAlt1 from "./icons/GamingPadAlt1";
 import Garage from "./icons/Garage";
 import GarageOpen from "./icons/GarageOpen";
 import Gauge from "./icons/Gauge";
@@ -259,6 +277,11 @@ import GaugeLow from "./icons/GaugeLow";
 import GaugeMax from "./icons/GaugeMax";
 import GlobeDollar from "./icons/GlobeDollar";
 import Handshake from "./icons/Handshake";
+import HardDrive from "./icons/HardDrive";
+import Headphones from "./icons/Headphones";
+import HeadphonesAlt from "./icons/HeadphonesAlt";
+import HeadphonesAlt1 from "./icons/HeadphonesAlt1";
+import HeadphonesAlt2 from "./icons/HeadphonesAlt2";
 import HexagonExclamation from "./icons/HexagonExclamation";
 import Hospital from "./icons/Hospital";
 import Hospitals from "./icons/Hospitals";
@@ -313,10 +336,39 @@ import IndustryWindows from "./icons/IndustryWindows";
 import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
 import InformationAlt from "./icons/InformationAlt";
+import Keyboard from "./icons/Keyboard";
+import KeyboardAlt from "./icons/KeyboardAlt";
+import KeyboardAlt1 from "./icons/KeyboardAlt1";
 import LampDesk from "./icons/LampDesk";
 import Landmark from "./icons/Landmark";
 import LandmarkDome from "./icons/LandmarkDome";
 import LandmarkFlag from "./icons/LandmarkFlag";
+import Laptop from "./icons/Laptop";
+import LaptopAlt from "./icons/LaptopAlt";
+import LaptopAlt1 from "./icons/LaptopAlt1";
+import LaptopAlt2 from "./icons/LaptopAlt2";
+import LaptopArrowDown from "./icons/LaptopArrowDown";
+import LaptopArrowDownAlt from "./icons/LaptopArrowDownAlt";
+import LaptopArrowUp from "./icons/LaptopArrowUp";
+import LaptopArrowUpAlt from "./icons/LaptopArrowUpAlt";
+import LaptopCheck from "./icons/LaptopCheck";
+import LaptopCheckAlt from "./icons/LaptopCheckAlt";
+import LaptopDollar from "./icons/LaptopDollar";
+import LaptopExclamation from "./icons/LaptopExclamation";
+import LaptopExclamationAlt from "./icons/LaptopExclamationAlt";
+import LaptopLock from "./icons/LaptopLock";
+import LaptopLockAlt from "./icons/LaptopLockAlt";
+import LaptopRefresh from "./icons/LaptopRefresh";
+import LaptopRefreshAlt from "./icons/LaptopRefreshAlt";
+import LaptopSearch from "./icons/LaptopSearch";
+import LaptopSearchAlt from "./icons/LaptopSearchAlt";
+import LaptopShield from "./icons/LaptopShield";
+import LaptopShieldAlt from "./icons/LaptopShieldAlt";
+import LaptopSignal from "./icons/LaptopSignal";
+import LaptopSignalAlt from "./icons/LaptopSignalAlt";
+import LaptopWired from "./icons/LaptopWired";
+import LaptopXmark from "./icons/LaptopXmark";
+import LaptopXmarkAlt from "./icons/LaptopXmarkAlt";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
 import Mail from "./icons/Mail";
@@ -409,11 +461,47 @@ import MessageSquareRefresh from "./icons/MessageSquareRefresh";
 import MessageSquareSearch from "./icons/MessageSquareSearch";
 import MessageSquareShield from "./icons/MessageSquareShield";
 import MessageSquareXmark from "./icons/MessageSquareXmark";
+import Microchip from "./icons/Microchip";
+import Microphone from "./icons/Microphone";
+import MicrophoneAlt from "./icons/MicrophoneAlt";
+import MicrophoneAlt1 from "./icons/MicrophoneAlt1";
+import MicrophoneSlash from "./icons/MicrophoneSlash";
+import MicrophoneSlashAlt from "./icons/MicrophoneSlashAlt";
+import MicrophoneSlashAlt1 from "./icons/MicrophoneSlashAlt1";
 import Minimize from "./icons/Minimize";
+import Mobile from "./icons/Mobile";
+import MobileAlt from "./icons/MobileAlt";
+import MobileAlt1 from "./icons/MobileAlt1";
+import MobileAlt2 from "./icons/MobileAlt2";
+import MobileBolt from "./icons/MobileBolt";
+import MobileCheck from "./icons/MobileCheck";
+import MobileDollar from "./icons/MobileDollar";
+import MobileSlash from "./icons/MobileSlash";
+import MobileXmark from "./icons/MobileXmark";
+import Modem from "./icons/Modem";
+import ModemAlt from "./icons/ModemAlt";
+import ModemAlt1 from "./icons/ModemAlt1";
+import ModemAlt2 from "./icons/ModemAlt2";
+import ModemAlt3 from "./icons/ModemAlt3";
+import Monitor from "./icons/Monitor";
+import MonitorAlt from "./icons/MonitorAlt";
+import MonitorAlt1 from "./icons/MonitorAlt1";
+import MonitorAlt2 from "./icons/MonitorAlt2";
+import MonitorAlt3 from "./icons/MonitorAlt3";
+import MonitorAlt4 from "./icons/MonitorAlt4";
+import MonitorAlt5 from "./icons/MonitorAlt5";
+import MonitorAlt6 from "./icons/MonitorAlt6";
 import Monument from "./icons/Monument";
 import Moped from "./icons/Moped";
 import Motorcycle from "./icons/Motorcycle";
 import MountainCity from "./icons/MountainCity";
+import Mouse from "./icons/Mouse";
+import MouseAlt from "./icons/MouseAlt";
+import MouseAlt1 from "./icons/MouseAlt1";
+import MouseAlt2 from "./icons/MouseAlt2";
+import MouseAlt3 from "./icons/MouseAlt3";
+import MouseAlt4 from "./icons/MouseAlt4";
+import MouseAlt5 from "./icons/MouseAlt5";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
 import Notdef from "./icons/Notdef";
@@ -457,13 +545,18 @@ import PhoneSlashAlt from "./icons/PhoneSlashAlt";
 import PhoneXmark from "./icons/PhoneXmark";
 import PhoneXmarkAlt from "./icons/PhoneXmarkAlt";
 import PlaceOfWorship from "./icons/PlaceOfWorship";
+import Plug from "./icons/Plug";
 import Podcast from "./icons/Podcast";
 import Podium from "./icons/Podium";
+import PowerBank from "./icons/PowerBank";
 import PresentationChart from "./icons/PresentationChart";
 import PresentationChartAlt from "./icons/PresentationChartAlt";
 import PresentationChartArrow from "./icons/PresentationChartArrow";
 import PresentationLine from "./icons/PresentationLine";
 import PresentationScreen from "./icons/PresentationScreen";
+import Printer from "./icons/Printer";
+import PrinterAlt from "./icons/PrinterAlt";
+import Projector from "./icons/Projector";
 import Question from "./icons/Question";
 import ReceiptAlt from "./icons/ReceiptAlt";
 import ReceiptAlt1 from "./icons/ReceiptAlt1";
@@ -507,11 +600,15 @@ import Sensor from "./icons/Sensor";
 import SensorFire from "./icons/SensorFire";
 import SensorOn from "./icons/SensorOn";
 import SensorTriangleExclamation from "./icons/SensorTriangleExclamation";
+import Server from "./icons/Server";
 import Shop from "./icons/Shop";
 import Shredder from "./icons/Shredder";
 import Shuffle from "./icons/Shuffle";
 import Sidebar from "./icons/Sidebar";
 import SidebarFlip from "./icons/SidebarFlip";
+import Simcard from "./icons/Simcard";
+import SimcardAlt from "./icons/SimcardAlt";
+import SimcardSlash from "./icons/SimcardSlash";
 import Sitemap from "./icons/Sitemap";
 import SkullCrossbones from "./icons/SkullCrossbones";
 import Sort from "./icons/Sort";
@@ -534,6 +631,10 @@ import Subdirectory from "./icons/Subdirectory";
 import Suitcase from "./icons/Suitcase";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
+import Tablet from "./icons/Tablet";
+import TabletAlt from "./icons/TabletAlt";
+import TabletAlt1 from "./icons/TabletAlt1";
+import TabletAlt2 from "./icons/TabletAlt2";
 import TableTree from "./icons/TableTree";
 import Tag from "./icons/Tag";
 import Tags from "./icons/Tags";
@@ -559,13 +660,29 @@ import TrainTram from "./icons/TrainTram";
 import TreasureChest from "./icons/TreasureChest";
 import TriangleExclamation from "./icons/TriangleExclamation";
 import Truck from "./icons/Truck";
+import Tv from "./icons/Tv";
+import TvAlt from "./icons/TvAlt";
+import TvAlt1 from "./icons/TvAlt1";
 import University from "./icons/University";
 import Upload from "./icons/Upload";
+import UsbFlashDrive from "./icons/UsbFlashDrive";
+import UsbFlashDriveAlt1 from "./icons/UsbFlashDriveAlt1";
 import Van from "./icons/Van";
 import Vihara from "./icons/Vihara";
 import Voicemail from "./icons/Voicemail";
 import Warehouse from "./icons/Warehouse";
 import WarehouseFull from "./icons/WarehouseFull";
+import Watch from "./icons/Watch";
+import WatchAlt from "./icons/WatchAlt";
+import WatchAlt1 from "./icons/WatchAlt1";
+import WatchAlt2 from "./icons/WatchAlt2";
+import Webcam from "./icons/Webcam";
+import WebcamAlt from "./icons/WebcamAlt";
+import WebcamAlt1 from "./icons/WebcamAlt1";
+import WebcamAlt2 from "./icons/WebcamAlt2";
+import WebcamSlash from "./icons/WebcamSlash";
+import WebcamSlashAlt from "./icons/WebcamSlashAlt";
+import Weight from "./icons/Weight";
 import WifiExclamation from "./icons/WifiExclamation";
 import Window from "./icons/Window";
 import WindowFlip from "./icons/WindowFlip";
@@ -574,6 +691,8 @@ import WindWarning from "./icons/WindWarning";
 export {
 AddressBook,
 AddressCard,
+Airpods,
+AirpodsAlt,
 Annotation,
 AnnotationUser,
 Archway,
@@ -722,8 +841,14 @@ CalendarUser,
 CalendarWeek,
 CalendarXmark,
 CalendarXmarkAlt,
+Camera,
+CameraAlt,
+CameraAlt1,
+CameraAlt2,
+CameraSlash,
 Campground,
 Car,
+CarBattery,
 CaretDown,
 CaretLeft,
 CaretLeftToLine,
@@ -778,6 +903,7 @@ CircleExclamationCheck,
 CircleInformation,
 CircleQuarter,
 CircleQuestion,
+Circuit,
 City,
 Code,
 CodeAlt,
@@ -800,6 +926,7 @@ CornerUpRight,
 CreditCardScan,
 Cursor,
 CursorAlt,
+DesktopComputer,
 DiagramCells,
 DiagramLeanCanvas,
 DiagramNested,
@@ -811,7 +938,10 @@ DiagramSankey,
 DiagramSubtask,
 DiagramSuccessor,
 DiagramVenn,
+Disc,
+DiscAlt,
 Download,
+DrawingTablet,
 Drone,
 Engine,
 EngineWarning,
@@ -822,9 +952,14 @@ Farm,
 Fence,
 FerrisWheel,
 FileCv,
+Flashlight,
 FlipBackward,
 FlipForward,
+FloppyDiskAlt,
 Forward,
+GamingPad,
+GamingPadAlt,
+GamingPadAlt1,
 Garage,
 GarageOpen,
 Gauge,
@@ -833,6 +968,11 @@ GaugeLow,
 GaugeMax,
 GlobeDollar,
 Handshake,
+HardDrive,
+Headphones,
+HeadphonesAlt,
+HeadphonesAlt1,
+HeadphonesAlt2,
 HexagonExclamation,
 Hospital,
 Hospitals,
@@ -887,10 +1027,39 @@ IndustryWindows,
 Infinity,
 Information,
 InformationAlt,
+Keyboard,
+KeyboardAlt,
+KeyboardAlt1,
 LampDesk,
 Landmark,
 LandmarkDome,
 LandmarkFlag,
+Laptop,
+LaptopAlt,
+LaptopAlt1,
+LaptopAlt2,
+LaptopArrowDown,
+LaptopArrowDownAlt,
+LaptopArrowUp,
+LaptopArrowUpAlt,
+LaptopCheck,
+LaptopCheckAlt,
+LaptopDollar,
+LaptopExclamation,
+LaptopExclamationAlt,
+LaptopLock,
+LaptopLockAlt,
+LaptopRefresh,
+LaptopRefreshAlt,
+LaptopSearch,
+LaptopSearchAlt,
+LaptopShield,
+LaptopShieldAlt,
+LaptopSignal,
+LaptopSignalAlt,
+LaptopWired,
+LaptopXmark,
+LaptopXmarkAlt,
 Loop,
 LoopVertical,
 Mail,
@@ -983,11 +1152,47 @@ MessageSquareRefresh,
 MessageSquareSearch,
 MessageSquareShield,
 MessageSquareXmark,
+Microchip,
+Microphone,
+MicrophoneAlt,
+MicrophoneAlt1,
+MicrophoneSlash,
+MicrophoneSlashAlt,
+MicrophoneSlashAlt1,
 Minimize,
+Mobile,
+MobileAlt,
+MobileAlt1,
+MobileAlt2,
+MobileBolt,
+MobileCheck,
+MobileDollar,
+MobileSlash,
+MobileXmark,
+Modem,
+ModemAlt,
+ModemAlt1,
+ModemAlt2,
+ModemAlt3,
+Monitor,
+MonitorAlt,
+MonitorAlt1,
+MonitorAlt2,
+MonitorAlt3,
+MonitorAlt4,
+MonitorAlt5,
+MonitorAlt6,
 Monument,
 Moped,
 Motorcycle,
 MountainCity,
+Mouse,
+MouseAlt,
+MouseAlt1,
+MouseAlt2,
+MouseAlt3,
+MouseAlt4,
+MouseAlt5,
 Move,
 MoveAlt,
 Notdef,
@@ -1031,13 +1236,18 @@ PhoneSlashAlt,
 PhoneXmark,
 PhoneXmarkAlt,
 PlaceOfWorship,
+Plug,
 Podcast,
 Podium,
+PowerBank,
 PresentationChart,
 PresentationChartAlt,
 PresentationChartArrow,
 PresentationLine,
 PresentationScreen,
+Printer,
+PrinterAlt,
+Projector,
 Question,
 ReceiptAlt,
 ReceiptAlt1,
@@ -1081,11 +1291,15 @@ Sensor,
 SensorFire,
 SensorOn,
 SensorTriangleExclamation,
+Server,
 Shop,
 Shredder,
 Shuffle,
 Sidebar,
 SidebarFlip,
+Simcard,
+SimcardAlt,
+SimcardSlash,
 Sitemap,
 SkullCrossbones,
 Sort,
@@ -1108,6 +1322,10 @@ Subdirectory,
 Suitcase,
 SwitchHorizontal,
 SwitchVertical,
+Tablet,
+TabletAlt,
+TabletAlt1,
+TabletAlt2,
 TableTree,
 Tag,
 Tags,
@@ -1133,13 +1351,29 @@ TrainTram,
 TreasureChest,
 TriangleExclamation,
 Truck,
+Tv,
+TvAlt,
+TvAlt1,
 University,
 Upload,
+UsbFlashDrive,
+UsbFlashDriveAlt1,
 Van,
 Vihara,
 Voicemail,
 Warehouse,
 WarehouseFull,
+Watch,
+WatchAlt,
+WatchAlt1,
+WatchAlt2,
+Webcam,
+WebcamAlt,
+WebcamAlt1,
+WebcamAlt2,
+WebcamSlash,
+WebcamSlashAlt,
+Weight,
 WifiExclamation,
 Window,
 WindowFlip,
