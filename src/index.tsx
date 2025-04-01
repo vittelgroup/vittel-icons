@@ -147,6 +147,10 @@ import Ban from "./icons/Ban";
 import Bandage from "./icons/Bandage";
 import Bank from "./icons/Bank";
 import BarsProgress from "./icons/BarsProgress";
+import Baseball from "./icons/Baseball";
+import BaseballBat from "./icons/BaseballBat";
+import Basketball from "./icons/Basketball";
+import BasketballCourt from "./icons/BasketballCourt";
 import BasketShopping from "./icons/BasketShopping";
 import BasketShoppingAlt from "./icons/BasketShoppingAlt";
 import Bat from "./icons/Bat";
@@ -163,6 +167,7 @@ import Bell from "./icons/Bell";
 import BellAlt from "./icons/BellAlt";
 import BellAlt1 from "./icons/BellAlt1";
 import BellSlash from "./icons/BellSlash";
+import Bicycle from "./icons/Bicycle";
 import BitcoinCircle from "./icons/BitcoinCircle";
 import BitcoinSign from "./icons/BitcoinSign";
 import BluetoothOn from "./icons/BluetoothOn";
@@ -188,7 +193,10 @@ import BorderRight from "./icons/BorderRight";
 import BorderTop from "./icons/BorderTop";
 import BorderTopLeft from "./icons/BorderTopLeft";
 import BorderVertical from "./icons/BorderVertical";
+import BowlingBall from "./icons/BowlingBall";
+import BowlingPins from "./icons/BowlingPins";
 import BoxArchive from "./icons/BoxArchive";
+import BoxingGloves from "./icons/BoxingGloves";
 import BracketCurly from "./icons/BracketCurly";
 import BracketCurlyRight from "./icons/BracketCurlyRight";
 import BracketRound from "./icons/BracketRound";
@@ -546,6 +554,7 @@ import CreditCardArrowRightAlt from "./icons/CreditCardArrowRightAlt";
 import CreditCardMinus from "./icons/CreditCardMinus";
 import CreditCardPlus from "./icons/CreditCardPlus";
 import CreditCardScan from "./icons/CreditCardScan";
+import CricketBat from "./icons/CricketBat";
 import Crop from "./icons/Crop";
 import CropSimple from "./icons/CropSimple";
 import Crosshair from "./icons/Crosshair";
@@ -557,6 +566,7 @@ import Cube from "./icons/Cube";
 import CubeAlt from "./icons/CubeAlt";
 import CubeAlt1 from "./icons/CubeAlt1";
 import CubeAlt2 from "./icons/CubeAlt2";
+import CurlingStone from "./icons/CurlingStone";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
 import Dash from "./icons/Dash";
@@ -631,6 +641,7 @@ import DropletDegree from "./icons/DropletDegree";
 import Droplets from "./icons/Droplets";
 import DropletSlash from "./icons/DropletSlash";
 import Drum from "./icons/Drum";
+import Dumbbells from "./icons/Dumbbells";
 import Eclipse from "./icons/Eclipse";
 import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
@@ -815,7 +826,9 @@ import Fingerprint from "./icons/Fingerprint";
 import FingerprintAlt from "./icons/FingerprintAlt";
 import Fireplace from "./icons/Fireplace";
 import Firewall from "./icons/Firewall";
+import FishingRod from "./icons/FishingRod";
 import Flag from "./icons/Flag";
+import FlagPennant from "./icons/FlagPennant";
 import Flashlight from "./icons/Flashlight";
 import FlaskRoundBlank from "./icons/FlaskRoundBlank";
 import FlaskRoundPotion from "./icons/FlaskRoundPotion";
@@ -825,6 +838,7 @@ import FlipForwardEnergy from "./icons/FlipForwardEnergy";
 import FloppyDisk from "./icons/FloppyDisk";
 import FloppyDiskAlt from "./icons/FloppyDiskAlt";
 import Flute from "./icons/Flute";
+import FlyingDisc from "./icons/FlyingDisc";
 import Folder from "./icons/Folder";
 import FolderArrowDown from "./icons/FolderArrowDown";
 import FolderArrowLeft from "./icons/FolderArrowLeft";
@@ -846,6 +860,7 @@ import FolderUser from "./icons/FolderUser";
 import FolderXmark from "./icons/FolderXmark";
 import Font from "./icons/Font";
 import FontCase from "./icons/FontCase";
+import Football from "./icons/Football";
 import ForkKnife from "./icons/ForkKnife";
 import ForkSpoon from "./icons/ForkSpoon";
 import Forward from "./icons/Forward";
@@ -878,7 +893,11 @@ import Globe from "./icons/Globe";
 import GlobeAlt from "./icons/GlobeAlt";
 import GlobeDollar from "./icons/GlobeDollar";
 import GlobeStand from "./icons/GlobeStand";
+import GoalNet from "./icons/GoalNet";
 import Gold from "./icons/Gold";
+import GolfBall from "./icons/GolfBall";
+import GolfClub from "./icons/GolfClub";
+import GolfFlagHole from "./icons/GolfFlagHole";
 import GoogleChromeLogo from "./icons/GoogleChromeLogo";
 import GoogleDriveLogo from "./icons/GoogleDriveLogo";
 import GoogleLogo from "./icons/GoogleLogo";
@@ -933,6 +952,8 @@ import HexagonExclamation from "./icons/HexagonExclamation";
 import HexagonImage from "./icons/HexagonImage";
 import HighDefinition from "./icons/HighDefinition";
 import HockeyMask from "./icons/HockeyMask";
+import HockeyStick from "./icons/HockeyStick";
+import HokeyPuck from "./icons/HokeyPuck";
 import HorizontalRule from "./icons/HorizontalRule";
 import Hospital from "./icons/Hospital";
 import Hospitals from "./icons/Hospitals";
@@ -973,6 +994,7 @@ import HouseWindow from "./icons/HouseWindow";
 import Hurricane from "./icons/Hurricane";
 import HurricaneAlt from "./icons/HurricaneAlt";
 import HurricaneAlt1 from "./icons/HurricaneAlt1";
+import IceSkate from "./icons/IceSkate";
 import Icicles from "./icons/Icicles";
 import ICursor from "./icons/ICursor";
 import IdBadge from "./icons/IdBadge";
@@ -1024,6 +1046,7 @@ import KeyboardAlt1 from "./icons/KeyboardAlt1";
 import KitMedical from "./icons/KitMedical";
 import Kiwi from "./icons/Kiwi";
 import KnifeKitchen from "./icons/KnifeKitchen";
+import LacrosseStick from "./icons/LacrosseStick";
 import LampDesk from "./icons/LampDesk";
 import Landmark from "./icons/Landmark";
 import LandmarkDome from "./icons/LandmarkDome";
@@ -1159,6 +1182,7 @@ import Marker from "./icons/Marker";
 import MartiniGlass from "./icons/MartiniGlass";
 import Mask from "./icons/Mask";
 import MaskFace from "./icons/MaskFace";
+import MaskSnorkel from "./icons/MaskSnorkel";
 import MatrixLogo from "./icons/MatrixLogo";
 import Maximize from "./icons/Maximize";
 import Medal from "./icons/Medal";
@@ -1450,9 +1474,11 @@ import PrinterAlt from "./icons/PrinterAlt";
 import Projector from "./icons/Projector";
 import Pumpkin from "./icons/Pumpkin";
 import Question from "./icons/Question";
+import Racquet from "./icons/Racquet";
 import Radiation from "./icons/Radiation";
 import Radio from "./icons/Radio";
 import Rainbow from "./icons/Rainbow";
+import RankingStar from "./icons/RankingStar";
 import ReceiptAlt from "./icons/ReceiptAlt";
 import ReceiptAlt1 from "./icons/ReceiptAlt1";
 import ReceiptAlt2 from "./icons/ReceiptAlt2";
@@ -1495,6 +1521,7 @@ import RotateCw from "./icons/RotateCw";
 import RotateExclamation from "./icons/RotateExclamation";
 import Route from "./icons/Route";
 import Rss from "./icons/Rss";
+import RugbyBall from "./icons/RugbyBall";
 import Ruler from "./icons/Ruler";
 import RulerTraingle from "./icons/RulerTraingle";
 import RupeeSign from "./icons/RupeeSign";
@@ -1556,6 +1583,7 @@ import ShieldXmark from "./icons/ShieldXmark";
 import Shop from "./icons/Shop";
 import Shredder from "./icons/Shredder";
 import Shuffle from "./icons/Shuffle";
+import Shuttlecock from "./icons/Shuttlecock";
 import Sidebar from "./icons/Sidebar";
 import SidebarFlip from "./icons/SidebarFlip";
 import Sigma from "./icons/Sigma";
@@ -1577,6 +1605,7 @@ import SipderWeb from "./icons/SipderWeb";
 import Sitemap from "./icons/Sitemap";
 import Skates from "./icons/Skates";
 import SkatesAlt from "./icons/SkatesAlt";
+import SkiBoot from "./icons/SkiBoot";
 import Skull from "./icons/Skull";
 import SkullAlt from "./icons/SkullAlt";
 import SkullAlt1 from "./icons/SkullAlt1";
@@ -1597,6 +1626,7 @@ import SnowAlt1 from "./icons/SnowAlt1";
 import SnowBlowing from "./icons/SnowBlowing";
 import Snowman from "./icons/Snowman";
 import SnowmanHead from "./icons/SnowmanHead";
+import Soccer ball from "./icons/Soccer ball";
 import Sort from "./icons/Sort";
 import SortAmountDown from "./icons/SortAmountDown";
 import SortAmountUp from "./icons/SortAmountUp";
@@ -1609,6 +1639,7 @@ import SpeakerAlt1 from "./icons/SpeakerAlt1";
 import SpellCheck from "./icons/SpellCheck";
 import Spider from "./icons/Spider";
 import SpiderWidow from "./icons/SpiderWidow";
+import Sportsball from "./icons/Sportsball";
 import SpotifyLogp from "./icons/SpotifyLogp";
 import Square from "./icons/Square";
 import Square0 from "./icons/Square0";
@@ -1701,6 +1732,7 @@ import Tablet from "./icons/Tablet";
 import TabletAlt from "./icons/TabletAlt";
 import TabletAlt1 from "./icons/TabletAlt1";
 import TabletAlt2 from "./icons/TabletAlt2";
+import TableTennisPaddle from "./icons/TableTennisPaddle";
 import TableTree from "./icons/TableTree";
 import Tag from "./icons/Tag";
 import Tags from "./icons/Tags";
@@ -1720,6 +1752,7 @@ import TemperatureSnow from "./icons/TemperatureSnow";
 import TemperatureSun from "./icons/TemperatureSun";
 import Temple from "./icons/Temple";
 import TengeSign from "./icons/TengeSign";
+import TennisBall from "./icons/TennisBall";
 import Tent from "./icons/Tent";
 import TentArrowDownToLine from "./icons/TentArrowDownToLine";
 import TentArrowLeftRight from "./icons/TentArrowLeftRight";
@@ -1858,6 +1891,7 @@ import VideoSlash from "./icons/VideoSlash";
 import Vihara from "./icons/Vihara";
 import VirusCovid19 from "./icons/VirusCovid19";
 import Voicemail from "./icons/Voicemail";
+import Volleyball from "./icons/Volleyball";
 import VolumeMax from "./icons/VolumeMax";
 import VolumeMin from "./icons/VolumeMin";
 import VolumeMinus from "./icons/VolumeMinus";
@@ -1892,8 +1926,10 @@ import WebcamSlash from "./icons/WebcamSlash";
 import WebcamSlashAlt from "./icons/WebcamSlashAlt";
 import WechatLogo from "./icons/WechatLogo";
 import Weight from "./icons/Weight";
+import WeightHanging from "./icons/WeightHanging";
 import WeightScale from "./icons/WeightScale";
 import Wheat from "./icons/Wheat";
+import Whistle from "./icons/Whistle";
 import Wifi from "./icons/Wifi";
 import WifiExclamation from "./icons/WifiExclamation";
 import WifiFair from "./icons/WifiFair";
@@ -2064,6 +2100,10 @@ Ban,
 Bandage,
 Bank,
 BarsProgress,
+Baseball,
+BaseballBat,
+Basketball,
+BasketballCourt,
 BasketShopping,
 BasketShoppingAlt,
 Bat,
@@ -2080,6 +2120,7 @@ Bell,
 BellAlt,
 BellAlt1,
 BellSlash,
+Bicycle,
 BitcoinCircle,
 BitcoinSign,
 BluetoothOn,
@@ -2105,7 +2146,10 @@ BorderRight,
 BorderTop,
 BorderTopLeft,
 BorderVertical,
+BowlingBall,
+BowlingPins,
 BoxArchive,
+BoxingGloves,
 BracketCurly,
 BracketCurlyRight,
 BracketRound,
@@ -2463,6 +2507,7 @@ CreditCardArrowRightAlt,
 CreditCardMinus,
 CreditCardPlus,
 CreditCardScan,
+CricketBat,
 Crop,
 CropSimple,
 Crosshair,
@@ -2474,6 +2519,7 @@ Cube,
 CubeAlt,
 CubeAlt1,
 CubeAlt2,
+CurlingStone,
 Cursor,
 CursorAlt,
 Dash,
@@ -2548,6 +2594,7 @@ DropletDegree,
 Droplets,
 DropletSlash,
 Drum,
+Dumbbells,
 Eclipse,
 Engine,
 EngineWarning,
@@ -2732,7 +2779,9 @@ Fingerprint,
 FingerprintAlt,
 Fireplace,
 Firewall,
+FishingRod,
 Flag,
+FlagPennant,
 Flashlight,
 FlaskRoundBlank,
 FlaskRoundPotion,
@@ -2742,6 +2791,7 @@ FlipForwardEnergy,
 FloppyDisk,
 FloppyDiskAlt,
 Flute,
+FlyingDisc,
 Folder,
 FolderArrowDown,
 FolderArrowLeft,
@@ -2763,6 +2813,7 @@ FolderUser,
 FolderXmark,
 Font,
 FontCase,
+Football,
 ForkKnife,
 ForkSpoon,
 Forward,
@@ -2795,7 +2846,11 @@ Globe,
 GlobeAlt,
 GlobeDollar,
 GlobeStand,
+GoalNet,
 Gold,
+GolfBall,
+GolfClub,
+GolfFlagHole,
 GoogleChromeLogo,
 GoogleDriveLogo,
 GoogleLogo,
@@ -2850,6 +2905,8 @@ HexagonExclamation,
 HexagonImage,
 HighDefinition,
 HockeyMask,
+HockeyStick,
+HokeyPuck,
 HorizontalRule,
 Hospital,
 Hospitals,
@@ -2890,6 +2947,7 @@ HouseWindow,
 Hurricane,
 HurricaneAlt,
 HurricaneAlt1,
+IceSkate,
 Icicles,
 ICursor,
 IdBadge,
@@ -2941,6 +2999,7 @@ KeyboardAlt1,
 KitMedical,
 Kiwi,
 KnifeKitchen,
+LacrosseStick,
 LampDesk,
 Landmark,
 LandmarkDome,
@@ -3076,6 +3135,7 @@ Marker,
 MartiniGlass,
 Mask,
 MaskFace,
+MaskSnorkel,
 MatrixLogo,
 Maximize,
 Medal,
@@ -3367,9 +3427,11 @@ PrinterAlt,
 Projector,
 Pumpkin,
 Question,
+Racquet,
 Radiation,
 Radio,
 Rainbow,
+RankingStar,
 ReceiptAlt,
 ReceiptAlt1,
 ReceiptAlt2,
@@ -3412,6 +3474,7 @@ RotateCw,
 RotateExclamation,
 Route,
 Rss,
+RugbyBall,
 Ruler,
 RulerTraingle,
 RupeeSign,
@@ -3473,6 +3536,7 @@ ShieldXmark,
 Shop,
 Shredder,
 Shuffle,
+Shuttlecock,
 Sidebar,
 SidebarFlip,
 Sigma,
@@ -3494,6 +3558,7 @@ SipderWeb,
 Sitemap,
 Skates,
 SkatesAlt,
+SkiBoot,
 Skull,
 SkullAlt,
 SkullAlt1,
@@ -3514,6 +3579,7 @@ SnowAlt1,
 SnowBlowing,
 Snowman,
 SnowmanHead,
+Soccer ball,
 Sort,
 SortAmountDown,
 SortAmountUp,
@@ -3526,6 +3592,7 @@ SpeakerAlt1,
 SpellCheck,
 Spider,
 SpiderWidow,
+Sportsball,
 SpotifyLogp,
 Square,
 Square0,
@@ -3618,6 +3685,7 @@ Tablet,
 TabletAlt,
 TabletAlt1,
 TabletAlt2,
+TableTennisPaddle,
 TableTree,
 Tag,
 Tags,
@@ -3637,6 +3705,7 @@ TemperatureSnow,
 TemperatureSun,
 Temple,
 TengeSign,
+TennisBall,
 Tent,
 TentArrowDownToLine,
 TentArrowLeftRight,
@@ -3775,6 +3844,7 @@ VideoSlash,
 Vihara,
 VirusCovid19,
 Voicemail,
+Volleyball,
 VolumeMax,
 VolumeMin,
 VolumeMinus,
@@ -3809,8 +3879,10 @@ WebcamSlash,
 WebcamSlashAlt,
 WechatLogo,
 Weight,
+WeightHanging,
 WeightScale,
 Wheat,
+Whistle,
 Wifi,
 WifiExclamation,
 WifiFair,
