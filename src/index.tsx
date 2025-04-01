@@ -1302,6 +1302,37 @@ import Olive from "./icons/Olive";
 import Ornament from "./icons/Ornament";
 import OrnamentAlt from "./icons/OrnamentAlt";
 import Overline from "./icons/Overline";
+import Package from "./icons/Package";
+import PackageArrowDown from "./icons/PackageArrowDown";
+import PackageArrowDownAlt from "./icons/PackageArrowDownAlt";
+import PackageArrowLeft from "./icons/PackageArrowLeft";
+import PackageArrowRight from "./icons/PackageArrowRight";
+import PackageArrowUp from "./icons/PackageArrowUp";
+import PackageArrowUpAlt from "./icons/PackageArrowUpAlt";
+import PackageBookmark from "./icons/PackageBookmark";
+import PackageCheck from "./icons/PackageCheck";
+import PackageDollar from "./icons/PackageDollar";
+import PackageDroplet from "./icons/PackageDroplet";
+import PackageEnergy from "./icons/PackageEnergy";
+import PackageEqual from "./icons/PackageEqual";
+import PackageExclamation from "./icons/PackageExclamation";
+import PackageFire from "./icons/PackageFire";
+import PackageHeart from "./icons/PackageHeart";
+import PackageInformation from "./icons/PackageInformation";
+import PackageLink from "./icons/PackageLink";
+import PackageLocation from "./icons/PackageLocation";
+import PackageLock from "./icons/PackageLock";
+import PackageMinus from "./icons/PackageMinus";
+import PackageOpen from "./icons/PackageOpen";
+import PackagePen from "./icons/PackagePen";
+import PackagePlus from "./icons/PackagePlus";
+import PackageQuestion from "./icons/PackageQuestion";
+import PackageRefresh from "./icons/PackageRefresh";
+import PackageSearch from "./icons/PackageSearch";
+import PackageShield from "./icons/PackageShield";
+import PackageTime from "./icons/PackageTime";
+import PackageXmark from "./icons/PackageXmark";
+import PackageZ from "./icons/PackageZ";
 import PaintBrush from "./icons/PaintBrush";
 import PaintBrushAlt from "./icons/PaintBrushAlt";
 import PaintRoller from "./icons/PaintRoller";
@@ -3142,6 +3173,37 @@ Olive,
 Ornament,
 OrnamentAlt,
 Overline,
+Package,
+PackageArrowDown,
+PackageArrowDownAlt,
+PackageArrowLeft,
+PackageArrowRight,
+PackageArrowUp,
+PackageArrowUpAlt,
+PackageBookmark,
+PackageCheck,
+PackageDollar,
+PackageDroplet,
+PackageEnergy,
+PackageEqual,
+PackageExclamation,
+PackageFire,
+PackageHeart,
+PackageInformation,
+PackageLink,
+PackageLocation,
+PackageLock,
+PackageMinus,
+PackageOpen,
+PackagePen,
+PackagePlus,
+PackageQuestion,
+PackageRefresh,
+PackageSearch,
+PackageShield,
+PackageTime,
+PackageXmark,
+PackageZ,
 PaintBrush,
 PaintBrushAlt,
 PaintRoller,
