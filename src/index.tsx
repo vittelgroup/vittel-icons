@@ -107,6 +107,7 @@ import BadgePercent from "./icons/BadgePercent";
 import BagShopping from "./icons/BagShopping";
 import BagsShopping from "./icons/BagsShopping";
 import Balloon from "./icons/Balloon";
+import BallPile from "./icons/BallPile";
 import Ban from "./icons/Ban";
 import Bandage from "./icons/Bandage";
 import Bank from "./icons/Bank";
@@ -305,7 +306,9 @@ import CircleDotsHorizontal from "./icons/CircleDotsHorizontal";
 import CircleDotsVertical from "./icons/CircleDotsVertical";
 import CircleExclamation from "./icons/CircleExclamation";
 import CircleExclamationCheck from "./icons/CircleExclamationCheck";
+import CircleHalf from "./icons/CircleHalf";
 import CircleHalfStroke from "./icons/CircleHalfStroke";
+import CircleHeart from "./icons/CircleHeart";
 import CircleInformation from "./icons/CircleInformation";
 import CircleLocationArrow from "./icons/CircleLocationArrow";
 import CircleMicrophone from "./icons/CircleMicrophone";
@@ -319,9 +322,11 @@ import CirclePlug from "./icons/CirclePlug";
 import CirclePlugAlt from "./icons/CirclePlugAlt";
 import CirclePlus from "./icons/CirclePlus";
 import CircleQuarter from "./icons/CircleQuarter";
+import CircleQuarters from "./icons/CircleQuarters";
 import CircleQuestion from "./icons/CircleQuestion";
 import CircleRadiation from "./icons/CircleRadiation";
 import CircleStop from "./icons/CircleStop";
+import CircleThreeQuarters from "./icons/CircleThreeQuarters";
 import CircleUser from "./icons/CircleUser";
 import CircleVideo from "./icons/CircleVideo";
 import CircleWaterPlug from "./icons/CircleWaterPlug";
@@ -364,6 +369,7 @@ import CloudSearch from "./icons/CloudSearch";
 import CloudSlash from "./icons/CloudSlash";
 import CloudWired from "./icons/CloudWired";
 import CloudXmark from "./icons/CloudXmark";
+import Club from "./icons/Club";
 import Code from "./icons/Code";
 import CodeAlt from "./icons/CodeAlt";
 import CodeBranch from "./icons/CodeBranch";
@@ -415,11 +421,17 @@ import CreditCardScan from "./icons/CreditCardScan";
 import Crop from "./icons/Crop";
 import CropSimple from "./icons/CropSimple";
 import Crow from "./icons/Crow";
+import Crown from "./icons/Crown";
 import CruzeiroSign from "./icons/CruzeiroSign";
 import Cube from "./icons/Cube";
+import CubeAlt from "./icons/CubeAlt";
+import CubeAlt1 from "./icons/CubeAlt1";
+import CubeAlt2 from "./icons/CubeAlt2";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
 import Dash from "./icons/Dash";
+import Dazzle from "./icons/Dazzle";
+import DazzlingStar from "./icons/DazzlingStar";
 import DeleteLeft from "./icons/DeleteLeft";
 import DeleteRight from "./icons/DeleteRight";
 import DesktopComputer from "./icons/DesktopComputer";
@@ -442,8 +454,16 @@ import DialMed from "./icons/DialMed";
 import DialMedLow from "./icons/DialMedLow";
 import DialMin from "./icons/DialMin";
 import DialOff from "./icons/DialOff";
+import Diamond from "./icons/Diamond";
 import DiamondExclamation from "./icons/DiamondExclamation";
 import DiamondTurnRight from "./icons/DiamondTurnRight";
+import DiamondXmark from "./icons/DiamondXmark";
+import DiceFive from "./icons/DiceFive";
+import DiceFour from "./icons/DiceFour";
+import DiceOne from "./icons/DiceOne";
+import DiceSix from "./icons/DiceSix";
+import DiceThree from "./icons/DiceThree";
+import DiceTwo from "./icons/DiceTwo";
 import Disc from "./icons/Disc";
 import DiscAlt from "./icons/DiscAlt";
 import DiscDrive from "./icons/DiscDrive";
@@ -493,6 +513,7 @@ import FaceSmile from "./icons/FaceSmile";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
+import Figma from "./icons/Figma";
 import File from "./icons/File";
 import FileAlt from "./icons/FileAlt";
 import FileArrowDown from "./icons/FileArrowDown";
@@ -667,7 +688,12 @@ import HeadphonesAlt1 from "./icons/HeadphonesAlt1";
 import HeadphonesAlt2 from "./icons/HeadphonesAlt2";
 import Heart from "./icons/Heart";
 import HeartAlt from "./icons/HeartAlt";
+import HeartCrack from "./icons/HeartCrack";
+import HeartHalf from "./icons/HeartHalf";
+import HeartHalfStroke from "./icons/HeartHalfStroke";
 import Heat from "./icons/Heat";
+import Hexagon from "./icons/Hexagon";
+import HexagonAlt1 from "./icons/HexagonAlt1";
 import HexagonCheck from "./icons/HexagonCheck";
 import HexagonExclamation from "./icons/HexagonExclamation";
 import HexagonImage from "./icons/HexagonImage";
@@ -791,6 +817,7 @@ import LightbulbExclamationAlt from "./icons/LightbulbExclamationAlt";
 import LightEmergency from "./icons/LightEmergency";
 import LightEmergencyOn from "./icons/LightEmergencyOn";
 import LightsHoliday from "./icons/LightsHoliday";
+import LinesLeaning from "./icons/LinesLeaning";
 import Link from "./icons/Link";
 import LinkAlt from "./icons/LinkAlt";
 import LinkAlt1 from "./icons/LinkAlt1";
@@ -1010,6 +1037,7 @@ import ObjectsAlignRightAlt from "./icons/ObjectsAlignRightAlt";
 import ObjectsAlignTop from "./icons/ObjectsAlignTop";
 import ObjectsAlignTopAlt from "./icons/ObjectsAlignTopAlt";
 import ObjectsColumn from "./icons/ObjectsColumn";
+import Octagon from "./icons/Octagon";
 import OctagonExclamation from "./icons/OctagonExclamation";
 import OilWell from "./icons/OilWell";
 import Ornament from "./icons/Ornament";
@@ -1038,6 +1066,7 @@ import PenRuler from "./icons/PenRuler";
 import PenSlash from "./icons/PenSlash";
 import PenSquare from "./icons/PenSquare";
 import PenSwirl from "./icons/PenSwirl";
+import Pentagon from "./icons/Pentagon";
 import Percent from "./icons/Percent";
 import Phone from "./icons/Phone";
 import PhoneAlt from "./icons/PhoneAlt";
@@ -1106,6 +1135,8 @@ import Reciept from "./icons/Reciept";
 import RectangleCode from "./icons/RectangleCode";
 import RectanglesMixed from "./icons/RectanglesMixed";
 import RectangleTerminal from "./icons/RectangleTerminal";
+import RectangleVertical from "./icons/RectangleVertical";
+import RectangleWide from "./icons/RectangleWide";
 import RectangleXmark from "./icons/RectangleXmark";
 import RefreshCcw from "./icons/RefreshCcw";
 import RefreshCcwAlt from "./icons/RefreshCcwAlt";
@@ -1123,6 +1154,7 @@ import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
 import Reply from "./icons/Reply";
 import RestaurantMenu from "./icons/RestaurantMenu";
+import Rhombus from "./icons/Rhombus";
 import Rocket from "./icons/Rocket";
 import RockingHorse from "./icons/RockingHorse";
 import RollerCoaster from "./icons/RollerCoaster";
@@ -1153,6 +1185,7 @@ import ScreenUsers from "./icons/ScreenUsers";
 import Scribble from "./icons/Scribble";
 import Scrubber from "./icons/Scrubber";
 import Scythe from "./icons/Scythe";
+import Seal from "./icons/Seal";
 import SealExclamation from "./icons/SealExclamation";
 import SealQuestion from "./icons/SealQuestion";
 import Search from "./icons/Search";
@@ -1171,6 +1204,7 @@ import SensorFire from "./icons/SensorFire";
 import SensorOn from "./icons/SensorOn";
 import SensorTriangleExclamation from "./icons/SensorTriangleExclamation";
 import Server from "./icons/Server";
+import Shapes from "./icons/Shapes";
 import Shield from "./icons/Shield";
 import ShieldAlt from "./icons/ShieldAlt";
 import ShieldAlt1 from "./icons/ShieldAlt1";
@@ -1228,9 +1262,11 @@ import SpeakerAlt from "./icons/SpeakerAlt";
 import SpeakerAlt1 from "./icons/SpeakerAlt1";
 import Spider from "./icons/Spider";
 import SpiderWidow from "./icons/SpiderWidow";
+import Square from "./icons/Square";
 import SquareCode from "./icons/SquareCode";
 import SquareCv from "./icons/SquareCv";
 import SquareDashed from "./icons/SquareDashed";
+import SquareDazzle from "./icons/SquareDazzle";
 import SquareDollar from "./icons/SquareDollar";
 import SquareDollarChart from "./icons/SquareDollarChart";
 import SquareDots from "./icons/SquareDots";
@@ -1247,9 +1283,12 @@ import SquarePhone from "./icons/SquarePhone";
 import SquarePhoneFlip from "./icons/SquarePhoneFlip";
 import SquarePollHorizontal from "./icons/SquarePollHorizontal";
 import SquarePollVertical from "./icons/SquarePollVertical";
+import SquareQuarters from "./icons/SquareQuarters";
+import SquareRing from "./icons/SquareRing";
 import SquareRss from "./icons/SquareRss";
 import SquareSliders from "./icons/SquareSliders";
 import SquareSlidersVertical from "./icons/SquareSlidersVertical";
+import SquareSmall from "./icons/SquareSmall";
 import SquareT from "./icons/SquareT";
 import SquareTerminal from "./icons/SquareTerminal";
 import SquareUser from "./icons/SquareUser";
@@ -1258,7 +1297,13 @@ import SquareUserCheck from "./icons/SquareUserCheck";
 import SquareUserCheckAlt from "./icons/SquareUserCheckAlt";
 import StaffSnake from "./icons/StaffSnake";
 import Star from "./icons/Star";
+import StarAlt1 from "./icons/StarAlt1";
+import StarAlt2 from "./icons/StarAlt2";
+import StarAlt3 from "./icons/StarAlt3";
+import StarAlt4 from "./icons/StarAlt4";
 import StarExclamation from "./icons/StarExclamation";
+import StarHalfStroke from "./icons/StarHalfStroke";
+import Stars from "./icons/Stars";
 import StarSharp from "./icons/StarSharp";
 import StarSharpHalf from "./icons/StarSharpHalf";
 import Stocking from "./icons/Stocking";
@@ -1291,6 +1336,7 @@ import Tents from "./icons/Tents";
 import Terminal from "./icons/Terminal";
 import Thermometer from "./icons/Thermometer";
 import Thumbtack from "./icons/Thumbtack";
+import TicketSimple from "./icons/TicketSimple";
 import ToiletPaperBlank from "./icons/ToiletPaperBlank";
 import ToiletPaperDots from "./icons/ToiletPaperDots";
 import ToiletPortable from "./icons/ToiletPortable";
@@ -1338,6 +1384,7 @@ import TreeDecorated from "./icons/TreeDecorated";
 import TreeDecoratedAlt from "./icons/TreeDecoratedAlt";
 import TreeDecoratedAlt1 from "./icons/TreeDecoratedAlt1";
 import TreePlus from "./icons/TreePlus";
+import Triangle from "./icons/Triangle";
 import TriangleArrowsBolt from "./icons/TriangleArrowsBolt";
 import TriangleExclamation from "./icons/TriangleExclamation";
 import TriangleInstrument from "./icons/TriangleInstrument";
@@ -1562,6 +1609,7 @@ BadgePercent,
 BagShopping,
 BagsShopping,
 Balloon,
+BallPile,
 Ban,
 Bandage,
 Bank,
@@ -1760,7 +1808,9 @@ CircleDotsHorizontal,
 CircleDotsVertical,
 CircleExclamation,
 CircleExclamationCheck,
+CircleHalf,
 CircleHalfStroke,
+CircleHeart,
 CircleInformation,
 CircleLocationArrow,
 CircleMicrophone,
@@ -1774,9 +1824,11 @@ CirclePlug,
 CirclePlugAlt,
 CirclePlus,
 CircleQuarter,
+CircleQuarters,
 CircleQuestion,
 CircleRadiation,
 CircleStop,
+CircleThreeQuarters,
 CircleUser,
 CircleVideo,
 CircleWaterPlug,
@@ -1819,6 +1871,7 @@ CloudSearch,
 CloudSlash,
 CloudWired,
 CloudXmark,
+Club,
 Code,
 CodeAlt,
 CodeBranch,
@@ -1870,11 +1923,17 @@ CreditCardScan,
 Crop,
 CropSimple,
 Crow,
+Crown,
 CruzeiroSign,
 Cube,
+CubeAlt,
+CubeAlt1,
+CubeAlt2,
 Cursor,
 CursorAlt,
 Dash,
+Dazzle,
+DazzlingStar,
 DeleteLeft,
 DeleteRight,
 DesktopComputer,
@@ -1897,8 +1956,16 @@ DialMed,
 DialMedLow,
 DialMin,
 DialOff,
+Diamond,
 DiamondExclamation,
 DiamondTurnRight,
+DiamondXmark,
+DiceFive,
+DiceFour,
+DiceOne,
+DiceSix,
+DiceThree,
+DiceTwo,
 Disc,
 DiscAlt,
 DiscDrive,
@@ -1948,6 +2015,7 @@ FaceSmile,
 Farm,
 Fence,
 FerrisWheel,
+Figma,
 File,
 FileAlt,
 FileArrowDown,
@@ -2122,7 +2190,12 @@ HeadphonesAlt1,
 HeadphonesAlt2,
 Heart,
 HeartAlt,
+HeartCrack,
+HeartHalf,
+HeartHalfStroke,
 Heat,
+Hexagon,
+HexagonAlt1,
 HexagonCheck,
 HexagonExclamation,
 HexagonImage,
@@ -2246,6 +2319,7 @@ LightbulbExclamationAlt,
 LightEmergency,
 LightEmergencyOn,
 LightsHoliday,
+LinesLeaning,
 Link,
 LinkAlt,
 LinkAlt1,
@@ -2465,6 +2539,7 @@ ObjectsAlignRightAlt,
 ObjectsAlignTop,
 ObjectsAlignTopAlt,
 ObjectsColumn,
+Octagon,
 OctagonExclamation,
 OilWell,
 Ornament,
@@ -2493,6 +2568,7 @@ PenRuler,
 PenSlash,
 PenSquare,
 PenSwirl,
+Pentagon,
 Percent,
 Phone,
 PhoneAlt,
@@ -2561,6 +2637,8 @@ Reciept,
 RectangleCode,
 RectanglesMixed,
 RectangleTerminal,
+RectangleVertical,
+RectangleWide,
 RectangleXmark,
 RefreshCcw,
 RefreshCcwAlt,
@@ -2578,6 +2656,7 @@ RefreshCwAlt4,
 RepeatAlt,
 Reply,
 RestaurantMenu,
+Rhombus,
 Rocket,
 RockingHorse,
 RollerCoaster,
@@ -2608,6 +2687,7 @@ ScreenUsers,
 Scribble,
 Scrubber,
 Scythe,
+Seal,
 SealExclamation,
 SealQuestion,
 Search,
@@ -2626,6 +2706,7 @@ SensorFire,
 SensorOn,
 SensorTriangleExclamation,
 Server,
+Shapes,
 Shield,
 ShieldAlt,
 ShieldAlt1,
@@ -2683,9 +2764,11 @@ SpeakerAlt,
 SpeakerAlt1,
 Spider,
 SpiderWidow,
+Square,
 SquareCode,
 SquareCv,
 SquareDashed,
+SquareDazzle,
 SquareDollar,
 SquareDollarChart,
 SquareDots,
@@ -2702,9 +2785,12 @@ SquarePhone,
 SquarePhoneFlip,
 SquarePollHorizontal,
 SquarePollVertical,
+SquareQuarters,
+SquareRing,
 SquareRss,
 SquareSliders,
 SquareSlidersVertical,
+SquareSmall,
 SquareT,
 SquareTerminal,
 SquareUser,
@@ -2713,7 +2799,13 @@ SquareUserCheck,
 SquareUserCheckAlt,
 StaffSnake,
 Star,
+StarAlt1,
+StarAlt2,
+StarAlt3,
+StarAlt4,
 StarExclamation,
+StarHalfStroke,
+Stars,
 StarSharp,
 StarSharpHalf,
 Stocking,
@@ -2746,6 +2838,7 @@ Tents,
 Terminal,
 Thermometer,
 Thumbtack,
+TicketSimple,
 ToiletPaperBlank,
 ToiletPaperDots,
 ToiletPortable,
@@ -2793,6 +2886,7 @@ TreeDecorated,
 TreeDecoratedAlt,
 TreeDecoratedAlt1,
 TreePlus,
+Triangle,
 TriangleArrowsBolt,
 TriangleExclamation,
 TriangleInstrument,
