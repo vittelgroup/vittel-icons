@@ -347,6 +347,7 @@ import CircleExclamationCheck from "./icons/CircleExclamationCheck";
 import CircleHalf from "./icons/CircleHalf";
 import CircleHalfStroke from "./icons/CircleHalfStroke";
 import CircleHeart from "./icons/CircleHeart";
+import CircleHeat from "./icons/CircleHeat";
 import CircleInformation from "./icons/CircleInformation";
 import CircleLocationArrow from "./icons/CircleLocationArrow";
 import CircleMicrophone from "./icons/CircleMicrophone";
@@ -428,17 +429,34 @@ import ClockTwoThirty from "./icons/ClockTwoThirty";
 import ClockXmark from "./icons/ClockXmark";
 import Clone from "./icons/Clone";
 import ClosedCaptioning from "./icons/ClosedCaptioning";
+import Cloud from "./icons/Cloud";
+import CloudArrowDown from "./icons/CloudArrowDown";
 import CloudArrowDownAlt from "./icons/CloudArrowDownAlt";
 import CloudArrowUp from "./icons/CloudArrowUp";
+import CloudBolt from "./icons/CloudBolt";
 import CloudCheck from "./icons/CloudCheck";
 import CloudExclamation from "./icons/CloudExclamation";
+import CloudFog from "./icons/CloudFog";
 import CloudLock from "./icons/CloudLock";
 import CloudMinus from "./icons/CloudMinus";
+import CloudMoon from "./icons/CloudMoon";
 import CloudMusic from "./icons/CloudMusic";
 import CloudPlus from "./icons/CloudPlus";
 import CloudQuestion from "./icons/CloudQuestion";
+import CloudRain from "./icons/CloudRain";
+import CloudRainAlt from "./icons/CloudRainAlt";
+import CloudRainAlt1 from "./icons/CloudRainAlt1";
+import CloudRainbow from "./icons/CloudRainbow";
+import Clouds from "./icons/Clouds";
 import CloudSearch from "./icons/CloudSearch";
+import CloudShowers from "./icons/CloudShowers";
 import CloudSlash from "./icons/CloudSlash";
+import CloudSleet from "./icons/CloudSleet";
+import CloudSnow from "./icons/CloudSnow";
+import CloudSnowAlt from "./icons/CloudSnowAlt";
+import CloudSun from "./icons/CloudSun";
+import CloudSunAlt from "./icons/CloudSunAlt";
+import CloudUpArrow from "./icons/CloudUpArrow";
 import CloudWired from "./icons/CloudWired";
 import CloudXmark from "./icons/CloudXmark";
 import Club from "./icons/Club";
@@ -569,7 +587,13 @@ import DrawingTablet from "./icons/DrawingTablet";
 import DrawSquare from "./icons/DrawSquare";
 import DrawSquareT from "./icons/DrawSquareT";
 import Drone from "./icons/Drone";
+import Droplet from "./icons/Droplet";
+import DropletAlt from "./icons/DropletAlt";
+import DropletDegree from "./icons/DropletDegree";
+import Droplets from "./icons/Droplets";
+import DropletSlash from "./icons/DropletSlash";
 import Drum from "./icons/Drum";
+import Eclipse from "./icons/Eclipse";
 import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
 import EnglishToChinese from "./icons/EnglishToChinese";
@@ -788,6 +812,7 @@ import HeartCrack from "./icons/HeartCrack";
 import HeartHalf from "./icons/HeartHalf";
 import HeartHalfStroke from "./icons/HeartHalfStroke";
 import Heat from "./icons/Heat";
+import HeatAlt from "./icons/HeatAlt";
 import Hexagon from "./icons/Hexagon";
 import HexagonAlt1 from "./icons/HexagonAlt1";
 import HexagonCheck from "./icons/HexagonCheck";
@@ -832,6 +857,10 @@ import HouseUser from "./icons/HouseUser";
 import HouseWater from "./icons/HouseWater";
 import HouseWifi from "./icons/HouseWifi";
 import HouseWindow from "./icons/HouseWindow";
+import Hurricane from "./icons/Hurricane";
+import HurricaneAlt from "./icons/HurricaneAlt";
+import HurricaneAlt1 from "./icons/HurricaneAlt1";
+import Icicles from "./icons/Icicles";
 import ICursor from "./icons/ICursor";
 import IdBadge from "./icons/IdBadge";
 import IdCard from "./icons/IdCard";
@@ -1125,6 +1154,8 @@ import MonitorSun from "./icons/MonitorSun";
 import MonitorWater from "./icons/MonitorWater";
 import Monument from "./icons/Monument";
 import Moon from "./icons/Moon";
+import MoonCloud from "./icons/MoonCloud";
+import MoonStars from "./icons/MoonStars";
 import Moped from "./icons/Moped";
 import Motorcycle from "./icons/Motorcycle";
 import MountainCity from "./icons/MountainCity";
@@ -1257,6 +1288,7 @@ import Projector from "./icons/Projector";
 import Question from "./icons/Question";
 import Radiation from "./icons/Radiation";
 import Radio from "./icons/Radio";
+import Rainbow from "./icons/Rainbow";
 import ReceiptAlt from "./icons/ReceiptAlt";
 import ReceiptAlt1 from "./icons/ReceiptAlt1";
 import ReceiptAlt2 from "./icons/ReceiptAlt2";
@@ -1389,6 +1421,10 @@ import Sliders from "./icons/Sliders";
 import SlidersSimple from "./icons/SlidersSimple";
 import SlidersUp from "./icons/SlidersUp";
 import Snooze from "./icons/Snooze";
+import Snow from "./icons/Snow";
+import SnowAlt from "./icons/SnowAlt";
+import SnowAlt1 from "./icons/SnowAlt1";
+import SnowBlowing from "./icons/SnowBlowing";
 import Snowman from "./icons/Snowman";
 import SnowmanHead from "./icons/SnowmanHead";
 import Sort from "./icons/Sort";
@@ -1461,6 +1497,10 @@ import Suitcase from "./icons/Suitcase";
 import SuitcaseMedical from "./icons/SuitcaseMedical";
 import Sun from "./icons/Sun";
 import SunAlt from "./icons/SunAlt";
+import SunDust from "./icons/SunDust";
+import SunHaze from "./icons/SunHaze";
+import Sunrise from "./icons/Sunrise";
+import Sunset from "./icons/Sunset";
 import Superscript from "./icons/Superscript";
 import Swatchbook from "./icons/Swatchbook";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
@@ -1483,6 +1523,17 @@ import Tag from "./icons/Tag";
 import Tags from "./icons/Tags";
 import Tally from "./icons/Tally";
 import TeddyBear from "./icons/TeddyBear";
+import TemperatureArrowDown from "./icons/TemperatureArrowDown";
+import TemperatureArrowUp from "./icons/TemperatureArrowUp";
+import TemperatureEmpty from "./icons/TemperatureEmpty";
+import TemperatureFull from "./icons/TemperatureFull";
+import TemperatureHalf from "./icons/TemperatureHalf";
+import TemperatureHigh from "./icons/TemperatureHigh";
+import TemperatureList from "./icons/TemperatureList";
+import TemperatureLow from "./icons/TemperatureLow";
+import TemperatureQuarter from "./icons/TemperatureQuarter";
+import TemperatureSnow from "./icons/TemperatureSnow";
+import TemperatureSun from "./icons/TemperatureSun";
 import Temple from "./icons/Temple";
 import TengeSign from "./icons/TengeSign";
 import Tent from "./icons/Tent";
@@ -1559,6 +1610,7 @@ import TurnOff from "./icons/TurnOff";
 import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
 import TvAlt1 from "./icons/TvAlt1";
+import Umbrella from "./icons/Umbrella";
 import Underline from "./icons/Underline";
 import University from "./icons/University";
 import Unlock from "./icons/Unlock";
@@ -1638,6 +1690,9 @@ import Watch from "./icons/Watch";
 import WatchAlt from "./icons/WatchAlt";
 import WatchAlt1 from "./icons/WatchAlt1";
 import WatchAlt2 from "./icons/WatchAlt2";
+import Water from "./icons/Water";
+import WaterArrowDown from "./icons/WaterArrowDown";
+import WaterArrowUp from "./icons/WaterArrowUp";
 import WavePulse from "./icons/WavePulse";
 import Webcam from "./icons/Webcam";
 import WebcamAlt from "./icons/WebcamAlt";
@@ -2014,6 +2069,7 @@ CircleExclamationCheck,
 CircleHalf,
 CircleHalfStroke,
 CircleHeart,
+CircleHeat,
 CircleInformation,
 CircleLocationArrow,
 CircleMicrophone,
@@ -2095,17 +2151,34 @@ ClockTwoThirty,
 ClockXmark,
 Clone,
 ClosedCaptioning,
+Cloud,
+CloudArrowDown,
 CloudArrowDownAlt,
 CloudArrowUp,
+CloudBolt,
 CloudCheck,
 CloudExclamation,
+CloudFog,
 CloudLock,
 CloudMinus,
+CloudMoon,
 CloudMusic,
 CloudPlus,
 CloudQuestion,
+CloudRain,
+CloudRainAlt,
+CloudRainAlt1,
+CloudRainbow,
+Clouds,
 CloudSearch,
+CloudShowers,
 CloudSlash,
+CloudSleet,
+CloudSnow,
+CloudSnowAlt,
+CloudSun,
+CloudSunAlt,
+CloudUpArrow,
 CloudWired,
 CloudXmark,
 Club,
@@ -2236,7 +2309,13 @@ DrawingTablet,
 DrawSquare,
 DrawSquareT,
 Drone,
+Droplet,
+DropletAlt,
+DropletDegree,
+Droplets,
+DropletSlash,
 Drum,
+Eclipse,
 Engine,
 EngineWarning,
 EnglishToChinese,
@@ -2455,6 +2534,7 @@ HeartCrack,
 HeartHalf,
 HeartHalfStroke,
 Heat,
+HeatAlt,
 Hexagon,
 HexagonAlt1,
 HexagonCheck,
@@ -2499,6 +2579,10 @@ HouseUser,
 HouseWater,
 HouseWifi,
 HouseWindow,
+Hurricane,
+HurricaneAlt,
+HurricaneAlt1,
+Icicles,
 ICursor,
 IdBadge,
 IdCard,
@@ -2792,6 +2876,8 @@ MonitorSun,
 MonitorWater,
 Monument,
 Moon,
+MoonCloud,
+MoonStars,
 Moped,
 Motorcycle,
 MountainCity,
@@ -2924,6 +3010,7 @@ Projector,
 Question,
 Radiation,
 Radio,
+Rainbow,
 ReceiptAlt,
 ReceiptAlt1,
 ReceiptAlt2,
@@ -3056,6 +3143,10 @@ Sliders,
 SlidersSimple,
 SlidersUp,
 Snooze,
+Snow,
+SnowAlt,
+SnowAlt1,
+SnowBlowing,
 Snowman,
 SnowmanHead,
 Sort,
@@ -3128,6 +3219,10 @@ Suitcase,
 SuitcaseMedical,
 Sun,
 SunAlt,
+SunDust,
+SunHaze,
+Sunrise,
+Sunset,
 Superscript,
 Swatchbook,
 SwitchHorizontal,
@@ -3150,6 +3245,17 @@ Tag,
 Tags,
 Tally,
 TeddyBear,
+TemperatureArrowDown,
+TemperatureArrowUp,
+TemperatureEmpty,
+TemperatureFull,
+TemperatureHalf,
+TemperatureHigh,
+TemperatureList,
+TemperatureLow,
+TemperatureQuarter,
+TemperatureSnow,
+TemperatureSun,
 Temple,
 TengeSign,
 Tent,
@@ -3226,6 +3332,7 @@ TurnOff,
 Tv,
 TvAlt,
 TvAlt1,
+Umbrella,
 Underline,
 University,
 Unlock,
@@ -3305,6 +3412,9 @@ Watch,
 WatchAlt,
 WatchAlt1,
 WatchAlt2,
+Water,
+WaterArrowDown,
+WaterArrowUp,
 WavePulse,
 Webcam,
 WebcamAlt,
