@@ -33,11 +33,15 @@ import AlignLeftJustify from "./icons/AlignLeftJustify";
 import AlignLetterRight from "./icons/AlignLetterRight";
 import AlignRight from "./icons/AlignRight";
 import AlignRightJustify from "./icons/AlignRightJustify";
+import AmazonLogo from "./icons/AmazonLogo";
 import Anchor from "./icons/Anchor";
+import AndroidLogo from "./icons/AndroidLogo";
 import Angel from "./icons/Angel";
 import Annotation from "./icons/Annotation";
 import AnnotationUser from "./icons/AnnotationUser";
 import Aperture from "./icons/Aperture";
+import AppleLogo from "./icons/AppleLogo";
+import AppStoreLogo from "./icons/AppStoreLogo";
 import Archway from "./icons/Archway";
 import ArrowCircleDown from "./icons/ArrowCircleDown";
 import ArrowCircleDownLeft from "./icons/ArrowCircleDownLeft";
@@ -488,6 +492,7 @@ import CloudWired from "./icons/CloudWired";
 import CloudXmark from "./icons/CloudXmark";
 import Club from "./icons/Club";
 import Coconut from "./icons/Coconut";
+import CodaLogo from "./icons/CodaLogo";
 import Code from "./icons/Code";
 import CodeAlt from "./icons/CodeAlt";
 import CodeBranch from "./icons/CodeBranch";
@@ -495,8 +500,10 @@ import CodeCommit from "./icons/CodeCommit";
 import CodeCompare from "./icons/CodeCompare";
 import CodeFork from "./icons/CodeFork";
 import CodeMerge from "./icons/CodeMerge";
+import CodepenLogo from "./icons/CodepenLogo";
 import CodePullRequest from "./icons/CodePullRequest";
 import CodePullRequestClosed from "./icons/CodePullRequestClosed";
+import CodesandboxLogo from "./icons/CodesandboxLogo";
 import Coffin from "./icons/Coffin";
 import CoffinCross from "./icons/CoffinCross";
 import CoffinOpen from "./icons/CoffinOpen";
@@ -592,6 +599,7 @@ import DiceTwo from "./icons/DiceTwo";
 import Disc from "./icons/Disc";
 import DiscAlt from "./icons/DiscAlt";
 import DiscDrive from "./icons/DiscDrive";
+import DiscordLogo from "./icons/DiscordLogo";
 import DistributeSpacingHorizontal from "./icons/DistributeSpacingHorizontal";
 import DistributeSpacingHorizontalAlt from "./icons/DistributeSpacingHorizontalAlt";
 import DistributeSpacingVertical from "./icons/DistributeSpacingVertical";
@@ -614,7 +622,9 @@ import Download from "./icons/Download";
 import DrawingTablet from "./icons/DrawingTablet";
 import DrawSquare from "./icons/DrawSquare";
 import DrawSquareT from "./icons/DrawSquareT";
+import DribbbleLogo from "./icons/DribbbleLogo";
 import Drone from "./icons/Drone";
+import DropboxLogo from "./icons/DropboxLogo";
 import Droplet from "./icons/Droplet";
 import DropletAlt from "./icons/DropletAlt";
 import DropletDegree from "./icons/DropletDegree";
@@ -644,6 +654,7 @@ import EyeSlash from "./icons/EyeSlash";
 import EyeSlashAlt from "./icons/EyeSlashAlt";
 import FaceAngry from "./icons/FaceAngry";
 import FaceAstonished from "./icons/FaceAstonished";
+import FacebookLogo from "./icons/FacebookLogo";
 import FaceConfounded from "./icons/FaceConfounded";
 import FaceConfused from "./icons/FaceConfused";
 import FaceDiagonalMouth from "./icons/FaceDiagonalMouth";
@@ -715,6 +726,7 @@ import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
 import Figma from "./icons/Figma";
+import FigmaLogo from "./icons/FigmaLogo";
 import File from "./icons/File";
 import FileAlt from "./icons/FileAlt";
 import FileArrowDown from "./icons/FileArrowDown";
@@ -839,6 +851,7 @@ import ForkSpoon from "./icons/ForkSpoon";
 import Forward from "./icons/Forward";
 import ForwardStep from "./icons/ForwardStep";
 import Frame from "./icons/Frame";
+import FramerLogo from "./icons/FramerLogo";
 import Frankenstein from "./icons/Frankenstein";
 import GalleryThumbnails from "./icons/GalleryThumbnails";
 import GamingPad from "./icons/GamingPad";
@@ -859,12 +872,18 @@ import GhostSmile from "./icons/GhostSmile";
 import Gift from "./icons/Gift";
 import GiftAlt from "./icons/GiftAlt";
 import GiftCard from "./icons/GiftCard";
+import GithubLogo from "./icons/GithubLogo";
 import Glasses from "./icons/Glasses";
 import Globe from "./icons/Globe";
 import GlobeAlt from "./icons/GlobeAlt";
 import GlobeDollar from "./icons/GlobeDollar";
 import GlobeStand from "./icons/GlobeStand";
 import Gold from "./icons/Gold";
+import GoogleChromeLogo from "./icons/GoogleChromeLogo";
+import GoogleDriveLogo from "./icons/GoogleDriveLogo";
+import GoogleLogo from "./icons/GoogleLogo";
+import GooglePhotosLogo from "./icons/GooglePhotosLogo";
+import GooglePlayLogo from "./icons/GooglePlayLogo";
 import GraduationHat from "./icons/GraduationHat";
 import GraduationHatAlt from "./icons/GraduationHatAlt";
 import GraduationHatAlt1 from "./icons/GraduationHatAlt1";
@@ -993,6 +1012,7 @@ import IndustryWindows from "./icons/IndustryWindows";
 import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
 import InformationAlt from "./icons/InformationAlt";
+import InstagramLogo from "./icons/InstagramLogo";
 import Italic from "./icons/Italic";
 import JackOLantern from "./icons/JackOLantern";
 import Kerning from "./icons/Kerning";
@@ -1059,6 +1079,8 @@ import LinesLeaning from "./icons/LinesLeaning";
 import Link from "./icons/Link";
 import LinkAlt from "./icons/LinkAlt";
 import LinkAlt1 from "./icons/LinkAlt1";
+import LinkedinLogo from "./icons/LinkedinLogo";
+import LinkentreeLogo from "./icons/LinkentreeLogo";
 import LinkSlash from "./icons/LinkSlash";
 import LinkSlashAlt from "./icons/LinkSlashAlt";
 import LiraSign from "./icons/LiraSign";
@@ -1137,9 +1159,11 @@ import Marker from "./icons/Marker";
 import MartiniGlass from "./icons/MartiniGlass";
 import Mask from "./icons/Mask";
 import MaskFace from "./icons/MaskFace";
+import MatrixLogo from "./icons/MatrixLogo";
 import Maximize from "./icons/Maximize";
 import Medal from "./icons/Medal";
 import MedalAlt from "./icons/MedalAlt";
+import MediumLogo from "./icons/MediumLogo";
 import Melon from "./icons/Melon";
 import MelonSlice from "./icons/MelonSlice";
 import Memo from "./icons/Memo";
@@ -1202,6 +1226,8 @@ import MessageSquareRefresh from "./icons/MessageSquareRefresh";
 import MessageSquareSearch from "./icons/MessageSquareSearch";
 import MessageSquareShield from "./icons/MessageSquareShield";
 import MessageSquareXmark from "./icons/MessageSquareXmark";
+import MessengerLogo from "./icons/MessengerLogo";
+import MetaLogo from "./icons/MetaLogo";
 import Microchip from "./icons/Microchip";
 import Microphone from "./icons/Microphone";
 import MicrophoneAlt from "./icons/MicrophoneAlt";
@@ -1282,6 +1308,7 @@ import Notebook from "./icons/Notebook";
 import NoteMedical from "./icons/NoteMedical";
 import Notes from "./icons/Notes";
 import NoteSticky from "./icons/NoteSticky";
+import NotionLogo from "./icons/NotionLogo";
 import ObjectsAlignBottom from "./icons/ObjectsAlignBottom";
 import ObjectsAlignBottomAlt from "./icons/ObjectsAlignBottomAlt";
 import ObjectsAlignCenterHorizontal from "./icons/ObjectsAlignCenterHorizontal";
@@ -1345,6 +1372,7 @@ import Paragraph from "./icons/Paragraph";
 import PartyBell from "./icons/PartyBell";
 import PartyHorn from "./icons/PartyHorn";
 import Pause from "./icons/Pause";
+import PaypalLogo from "./icons/PaypalLogo";
 import Pen from "./icons/Pen";
 import Pencil from "./icons/Pencil";
 import PencilSlash from "./icons/PencilSlash";
@@ -1390,6 +1418,8 @@ import PhoneSlashAlt from "./icons/PhoneSlashAlt";
 import PhoneXmark from "./icons/PhoneXmark";
 import PhoneXmarkAlt from "./icons/PhoneXmarkAlt";
 import Piano from "./icons/Piano";
+import PinterestLogo from "./icons/PinterestLogo";
+import PixLogo from "./icons/PixLogo";
 import PlaceOfWorship from "./icons/PlaceOfWorship";
 import Play from "./icons/Play";
 import PlayPause from "./icons/PlayPause";
@@ -1449,6 +1479,7 @@ import RefreshCwAlt2 from "./icons/RefreshCwAlt2";
 import RefreshCwAlt3 from "./icons/RefreshCwAlt3";
 import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
+import ReplitLogo from "./icons/ReplitLogo";
 import Reply from "./icons/Reply";
 import ResizeHandle from "./icons/ResizeHandle";
 import RestaurantMenu from "./icons/RestaurantMenu";
@@ -1550,12 +1581,15 @@ import Skull from "./icons/Skull";
 import SkullAlt from "./icons/SkullAlt";
 import SkullAlt1 from "./icons/SkullAlt1";
 import SkullCrossbones from "./icons/SkullCrossbones";
+import SkypeLogo from "./icons/SkypeLogo";
+import SlackLogo from "./icons/SlackLogo";
 import Slash from "./icons/Slash";
 import SlashFlip from "./icons/SlashFlip";
 import Sleigh from "./icons/Sleigh";
 import Sliders from "./icons/Sliders";
 import SlidersSimple from "./icons/SlidersSimple";
 import SlidersUp from "./icons/SlidersUp";
+import SnapchatLogo from "./icons/SnapchatLogo";
 import Snooze from "./icons/Snooze";
 import Snow from "./icons/Snow";
 import SnowAlt from "./icons/SnowAlt";
@@ -1575,6 +1609,7 @@ import SpeakerAlt1 from "./icons/SpeakerAlt1";
 import SpellCheck from "./icons/SpellCheck";
 import Spider from "./icons/Spider";
 import SpiderWidow from "./icons/SpiderWidow";
+import SpotifyLogp from "./icons/SpotifyLogp";
 import Square from "./icons/Square";
 import Square0 from "./icons/Square0";
 import Square1 from "./icons/Square1";
@@ -1632,6 +1667,7 @@ import StarHalfStroke from "./icons/StarHalfStroke";
 import Stars from "./icons/Stars";
 import StarSharp from "./icons/StarSharp";
 import StarSharpHalf from "./icons/StarSharpHalf";
+import SteamLogo from "./icons/SteamLogo";
 import Stocking from "./icons/Stocking";
 import Stopwatch from "./icons/Stopwatch";
 import Stopwatch10 from "./icons/Stopwatch10";
@@ -1670,6 +1706,7 @@ import Tag from "./icons/Tag";
 import Tags from "./icons/Tags";
 import Tally from "./icons/Tally";
 import TeddyBear from "./icons/TeddyBear";
+import TelegramLogo from "./icons/TelegramLogo";
 import TemperatureArrowDown from "./icons/TemperatureArrowDown";
 import TemperatureArrowUp from "./icons/TemperatureArrowUp";
 import TemperatureEmpty from "./icons/TemperatureEmpty";
@@ -1697,6 +1734,8 @@ import TextWidth from "./icons/TextWidth";
 import Thermometer from "./icons/Thermometer";
 import Thumbtack from "./icons/Thumbtack";
 import TicketSimple from "./icons/TicketSimple";
+import TidelLogo from "./icons/TidelLogo";
+import TiktokLogo from "./icons/TiktokLogo";
 import Timer from "./icons/Timer";
 import ToiletPaperBlank from "./icons/ToiletPaperBlank";
 import ToiletPaperDots from "./icons/ToiletPaperDots";
@@ -1752,11 +1791,14 @@ import TriangleInstrument from "./icons/TriangleInstrument";
 import Trophy from "./icons/Trophy";
 import Truck from "./icons/Truck";
 import TughrikSign from "./icons/TughrikSign";
+import TumblrLogo from "./icons/TumblrLogo";
 import TurkishLiraSign from "./icons/TurkishLiraSign";
 import TurnOff from "./icons/TurnOff";
 import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
 import TvAlt1 from "./icons/TvAlt1";
+import TwitchLogo from "./icons/TwitchLogo";
+import TwitterLogo from "./icons/TwitterLogo";
 import Umbrella from "./icons/Umbrella";
 import Underline from "./icons/Underline";
 import University from "./icons/University";
@@ -1848,6 +1890,7 @@ import WebcamAlt1 from "./icons/WebcamAlt1";
 import WebcamAlt2 from "./icons/WebcamAlt2";
 import WebcamSlash from "./icons/WebcamSlash";
 import WebcamSlashAlt from "./icons/WebcamSlashAlt";
+import WechatLogo from "./icons/WechatLogo";
 import Weight from "./icons/Weight";
 import WeightScale from "./icons/WeightScale";
 import Wheat from "./icons/Wheat";
@@ -1860,13 +1903,16 @@ import WifiWeak from "./icons/WifiWeak";
 import Wind from "./icons/Wind";
 import Window from "./icons/Window";
 import WindowFlip from "./icons/WindowFlip";
+import WindowsLogo from "./icons/WindowsLogo";
 import WindWarning from "./icons/WindWarning";
 import WineGlass from "./icons/WineGlass";
 import WonSign from "./icons/WonSign";
 import Wreath from "./icons/Wreath";
+import XLogo from "./icons/XLogo";
 import Xmark from "./icons/Xmark";
 import XmarkLarge from "./icons/XmarkLarge";
 import YenSign from "./icons/YenSign";
+import YoutubeLogo from "./icons/YoutubeLogo";
 
 export {
 0,
@@ -1904,11 +1950,15 @@ AlignLeftJustify,
 AlignLetterRight,
 AlignRight,
 AlignRightJustify,
+AmazonLogo,
 Anchor,
+AndroidLogo,
 Angel,
 Annotation,
 AnnotationUser,
 Aperture,
+AppleLogo,
+AppStoreLogo,
 Archway,
 ArrowCircleDown,
 ArrowCircleDownLeft,
@@ -2359,6 +2409,7 @@ CloudWired,
 CloudXmark,
 Club,
 Coconut,
+CodaLogo,
 Code,
 CodeAlt,
 CodeBranch,
@@ -2366,8 +2417,10 @@ CodeCommit,
 CodeCompare,
 CodeFork,
 CodeMerge,
+CodepenLogo,
 CodePullRequest,
 CodePullRequestClosed,
+CodesandboxLogo,
 Coffin,
 CoffinCross,
 CoffinOpen,
@@ -2463,6 +2516,7 @@ DiceTwo,
 Disc,
 DiscAlt,
 DiscDrive,
+DiscordLogo,
 DistributeSpacingHorizontal,
 DistributeSpacingHorizontalAlt,
 DistributeSpacingVertical,
@@ -2485,7 +2539,9 @@ Download,
 DrawingTablet,
 DrawSquare,
 DrawSquareT,
+DribbbleLogo,
 Drone,
+DropboxLogo,
 Droplet,
 DropletAlt,
 DropletDegree,
@@ -2515,6 +2571,7 @@ EyeSlash,
 EyeSlashAlt,
 FaceAngry,
 FaceAstonished,
+FacebookLogo,
 FaceConfounded,
 FaceConfused,
 FaceDiagonalMouth,
@@ -2586,6 +2643,7 @@ Farm,
 Fence,
 FerrisWheel,
 Figma,
+FigmaLogo,
 File,
 FileAlt,
 FileArrowDown,
@@ -2710,6 +2768,7 @@ ForkSpoon,
 Forward,
 ForwardStep,
 Frame,
+FramerLogo,
 Frankenstein,
 GalleryThumbnails,
 GamingPad,
@@ -2730,12 +2789,18 @@ GhostSmile,
 Gift,
 GiftAlt,
 GiftCard,
+GithubLogo,
 Glasses,
 Globe,
 GlobeAlt,
 GlobeDollar,
 GlobeStand,
 Gold,
+GoogleChromeLogo,
+GoogleDriveLogo,
+GoogleLogo,
+GooglePhotosLogo,
+GooglePlayLogo,
 GraduationHat,
 GraduationHatAlt,
 GraduationHatAlt1,
@@ -2864,6 +2929,7 @@ IndustryWindows,
 Infinity,
 Information,
 InformationAlt,
+InstagramLogo,
 Italic,
 JackOLantern,
 Kerning,
@@ -2930,6 +2996,8 @@ LinesLeaning,
 Link,
 LinkAlt,
 LinkAlt1,
+LinkedinLogo,
+LinkentreeLogo,
 LinkSlash,
 LinkSlashAlt,
 LiraSign,
@@ -3008,9 +3076,11 @@ Marker,
 MartiniGlass,
 Mask,
 MaskFace,
+MatrixLogo,
 Maximize,
 Medal,
 MedalAlt,
+MediumLogo,
 Melon,
 MelonSlice,
 Memo,
@@ -3073,6 +3143,8 @@ MessageSquareRefresh,
 MessageSquareSearch,
 MessageSquareShield,
 MessageSquareXmark,
+MessengerLogo,
+MetaLogo,
 Microchip,
 Microphone,
 MicrophoneAlt,
@@ -3153,6 +3225,7 @@ Notebook,
 NoteMedical,
 Notes,
 NoteSticky,
+NotionLogo,
 ObjectsAlignBottom,
 ObjectsAlignBottomAlt,
 ObjectsAlignCenterHorizontal,
@@ -3216,6 +3289,7 @@ Paragraph,
 PartyBell,
 PartyHorn,
 Pause,
+PaypalLogo,
 Pen,
 Pencil,
 PencilSlash,
@@ -3261,6 +3335,8 @@ PhoneSlashAlt,
 PhoneXmark,
 PhoneXmarkAlt,
 Piano,
+PinterestLogo,
+PixLogo,
 PlaceOfWorship,
 Play,
 PlayPause,
@@ -3320,6 +3396,7 @@ RefreshCwAlt2,
 RefreshCwAlt3,
 RefreshCwAlt4,
 RepeatAlt,
+ReplitLogo,
 Reply,
 ResizeHandle,
 RestaurantMenu,
@@ -3421,12 +3498,15 @@ Skull,
 SkullAlt,
 SkullAlt1,
 SkullCrossbones,
+SkypeLogo,
+SlackLogo,
 Slash,
 SlashFlip,
 Sleigh,
 Sliders,
 SlidersSimple,
 SlidersUp,
+SnapchatLogo,
 Snooze,
 Snow,
 SnowAlt,
@@ -3446,6 +3526,7 @@ SpeakerAlt1,
 SpellCheck,
 Spider,
 SpiderWidow,
+SpotifyLogp,
 Square,
 Square0,
 Square1,
@@ -3503,6 +3584,7 @@ StarHalfStroke,
 Stars,
 StarSharp,
 StarSharpHalf,
+SteamLogo,
 Stocking,
 Stopwatch,
 Stopwatch10,
@@ -3541,6 +3623,7 @@ Tag,
 Tags,
 Tally,
 TeddyBear,
+TelegramLogo,
 TemperatureArrowDown,
 TemperatureArrowUp,
 TemperatureEmpty,
@@ -3568,6 +3651,8 @@ TextWidth,
 Thermometer,
 Thumbtack,
 TicketSimple,
+TidelLogo,
+TiktokLogo,
 Timer,
 ToiletPaperBlank,
 ToiletPaperDots,
@@ -3623,11 +3708,14 @@ TriangleInstrument,
 Trophy,
 Truck,
 TughrikSign,
+TumblrLogo,
 TurkishLiraSign,
 TurnOff,
 Tv,
 TvAlt,
 TvAlt1,
+TwitchLogo,
+TwitterLogo,
 Umbrella,
 Underline,
 University,
@@ -3719,6 +3807,7 @@ WebcamAlt1,
 WebcamAlt2,
 WebcamSlash,
 WebcamSlashAlt,
+WechatLogo,
 Weight,
 WeightScale,
 Wheat,
@@ -3731,11 +3820,14 @@ WifiWeak,
 Wind,
 Window,
 WindowFlip,
+WindowsLogo,
 WindWarning,
 WineGlass,
 WonSign,
 Wreath,
+XLogo,
 Xmark,
 XmarkLarge,
-YenSign
+YenSign,
+YoutubeLogo
 }
