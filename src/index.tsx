@@ -274,6 +274,7 @@ import CaretLeftToLine from "./icons/CaretLeftToLine";
 import CaretRight from "./icons/CaretRight";
 import CaretRightToLine from "./icons/CaretRightToLine";
 import CaretUp from "./icons/CaretUp";
+import Carrot from "./icons/Carrot";
 import CarSide from "./icons/CarSide";
 import CartArrowDown from "./icons/CartArrowDown";
 import CartArrowUp from "./icons/CartArrowUp";
@@ -320,6 +321,7 @@ import ChartUserSquare from "./icons/ChartUserSquare";
 import ChartWaterfall from "./icons/ChartWaterfall";
 import Check from "./icons/Check";
 import CheckDouble from "./icons/CheckDouble";
+import Chesnut from "./icons/Chesnut";
 import ChevronDown from "./icons/ChevronDown";
 import ChevronDownDot from "./icons/ChevronDownDot";
 import ChevronDownDouble from "./icons/ChevronDownDouble";
@@ -396,6 +398,8 @@ import CircleWaveformLines from "./icons/CircleWaveformLines";
 import CircleXmark from "./icons/CircleXmark";
 import CircleYen from "./icons/CircleYen";
 import Circuit from "./icons/Circuit";
+import Citrus from "./icons/Citrus";
+import CitrusSlice from "./icons/CitrusSlice";
 import City from "./icons/City";
 import Clapperboard from "./icons/Clapperboard";
 import ClapperboardPlay from "./icons/ClapperboardPlay";
@@ -482,6 +486,7 @@ import CloudUpArrow from "./icons/CloudUpArrow";
 import CloudWired from "./icons/CloudWired";
 import CloudXmark from "./icons/CloudXmark";
 import Club from "./icons/Club";
+import Coconut from "./icons/Coconut";
 import Code from "./icons/Code";
 import CodeAlt from "./icons/CodeAlt";
 import CodeBranch from "./icons/CodeBranch";
@@ -930,6 +935,7 @@ import Keyboard from "./icons/Keyboard";
 import KeyboardAlt from "./icons/KeyboardAlt";
 import KeyboardAlt1 from "./icons/KeyboardAlt1";
 import KitMedical from "./icons/KitMedical";
+import Kiwi from "./icons/Kiwi";
 import KnifeKitchen from "./icons/KnifeKitchen";
 import LampDesk from "./icons/LampDesk";
 import Landmark from "./icons/Landmark";
@@ -965,8 +971,10 @@ import LaptopXmarkAlt from "./icons/LaptopXmarkAlt";
 import Lasso from "./icons/Lasso";
 import LassoSparkles from "./icons/LassoSparkles";
 import LayerGroup from "./icons/LayerGroup";
+import Leaf from "./icons/Leaf";
 import LeftIndent from "./icons/LeftIndent";
 import LeftToRightTextDirection from "./icons/LeftToRightTextDirection";
+import Lemon from "./icons/Lemon";
 import LetterChineseA from "./icons/LetterChineseA";
 import LetterEnglishA from "./icons/LetterEnglishA";
 import LetterJapaneseA from "./icons/LetterJapaneseA";
@@ -1065,6 +1073,8 @@ import MaskFace from "./icons/MaskFace";
 import Maximize from "./icons/Maximize";
 import Medal from "./icons/Medal";
 import MedalAlt from "./icons/MedalAlt";
+import Melon from "./icons/Melon";
+import MelonSlice from "./icons/MelonSlice";
 import Memo from "./icons/Memo";
 import MemoCheck from "./icons/MemoCheck";
 import MemoPencil from "./icons/MemoPencil";
@@ -1194,6 +1204,7 @@ import MoveLeft from "./icons/MoveLeft";
 import MoveRight from "./icons/MoveRight";
 import Mp3Player from "./icons/Mp3Player";
 import MugSauser from "./icons/MugSauser";
+import Mushroom from "./icons/Mushroom";
 import Music from "./icons/Music";
 import MusicNote from "./icons/MusicNote";
 import MusicNoteSlash from "./icons/MusicNoteSlash";
@@ -1220,6 +1231,7 @@ import ObjectsColumn from "./icons/ObjectsColumn";
 import Octagon from "./icons/Octagon";
 import OctagonExclamation from "./icons/OctagonExclamation";
 import OilWell from "./icons/OilWell";
+import Olive from "./icons/Olive";
 import Ornament from "./icons/Ornament";
 import OrnamentAlt from "./icons/OrnamentAlt";
 import Overline from "./icons/Overline";
@@ -1291,6 +1303,7 @@ import Podcast from "./icons/Podcast";
 import Podium from "./icons/Podium";
 import PollPeople from "./icons/PollPeople";
 import PortraitUser from "./icons/PortraitUser";
+import Potato from "./icons/Potato";
 import Potion from "./icons/Potion";
 import PoundCircle from "./icons/PoundCircle";
 import PoundSign from "./icons/PoundSign";
@@ -1307,6 +1320,7 @@ import PresentationScreen from "./icons/PresentationScreen";
 import Printer from "./icons/Printer";
 import PrinterAlt from "./icons/PrinterAlt";
 import Projector from "./icons/Projector";
+import Pumpkin from "./icons/Pumpkin";
 import Question from "./icons/Question";
 import Radiation from "./icons/Radiation";
 import Radio from "./icons/Radio";
@@ -1355,6 +1369,7 @@ import Rss from "./icons/Rss";
 import Ruler from "./icons/Ruler";
 import RulerTraingle from "./icons/RulerTraingle";
 import RupeeSign from "./icons/RupeeSign";
+import Salad from "./icons/Salad";
 import SantaClaus from "./icons/SantaClaus";
 import SantaGlove from "./icons/SantaGlove";
 import SantaHat from "./icons/SantaHat";
@@ -1382,6 +1397,7 @@ import SearchAlt1 from "./icons/SearchAlt1";
 import SearchAlt2 from "./icons/SearchAlt2";
 import SearchMinus from "./icons/SearchMinus";
 import SearchPlus from "./icons/SearchPlus";
+import Seedling from "./icons/Seedling";
 import Send from "./icons/Send";
 import SendAlt from "./icons/SendAlt";
 import SendAlt1 from "./icons/SendAlt1";
@@ -1521,6 +1537,7 @@ import StarSharpHalf from "./icons/StarSharpHalf";
 import Stocking from "./icons/Stocking";
 import Stopwatch from "./icons/Stopwatch";
 import Stopwatch10 from "./icons/Stopwatch10";
+import Strawberry from "./icons/Strawberry";
 import Strikethrough from "./icons/Strikethrough";
 import Style=Monochrome from "./icons/Style=Monochrome";
 import Subdirectory from "./icons/Subdirectory";
@@ -1725,6 +1742,7 @@ import WatchAlt2 from "./icons/WatchAlt2";
 import Water from "./icons/Water";
 import WaterArrowDown from "./icons/WaterArrowDown";
 import WaterArrowUp from "./icons/WaterArrowUp";
+import WatermelonSlice from "./icons/WatermelonSlice";
 import WavePulse from "./icons/WavePulse";
 import Webcam from "./icons/Webcam";
 import WebcamAlt from "./icons/WebcamAlt";
@@ -1734,6 +1752,7 @@ import WebcamSlash from "./icons/WebcamSlash";
 import WebcamSlashAlt from "./icons/WebcamSlashAlt";
 import Weight from "./icons/Weight";
 import WeightScale from "./icons/WeightScale";
+import Wheat from "./icons/Wheat";
 import Wifi from "./icons/Wifi";
 import WifiExclamation from "./icons/WifiExclamation";
 import WifiFair from "./icons/WifiFair";
@@ -2028,6 +2047,7 @@ CaretLeftToLine,
 CaretRight,
 CaretRightToLine,
 CaretUp,
+Carrot,
 CarSide,
 CartArrowDown,
 CartArrowUp,
@@ -2074,6 +2094,7 @@ ChartUserSquare,
 ChartWaterfall,
 Check,
 CheckDouble,
+Chesnut,
 ChevronDown,
 ChevronDownDot,
 ChevronDownDouble,
@@ -2150,6 +2171,8 @@ CircleWaveformLines,
 CircleXmark,
 CircleYen,
 Circuit,
+Citrus,
+CitrusSlice,
 City,
 Clapperboard,
 ClapperboardPlay,
@@ -2236,6 +2259,7 @@ CloudUpArrow,
 CloudWired,
 CloudXmark,
 Club,
+Coconut,
 Code,
 CodeAlt,
 CodeBranch,
@@ -2684,6 +2708,7 @@ Keyboard,
 KeyboardAlt,
 KeyboardAlt1,
 KitMedical,
+Kiwi,
 KnifeKitchen,
 LampDesk,
 Landmark,
@@ -2719,8 +2744,10 @@ LaptopXmarkAlt,
 Lasso,
 LassoSparkles,
 LayerGroup,
+Leaf,
 LeftIndent,
 LeftToRightTextDirection,
+Lemon,
 LetterChineseA,
 LetterEnglishA,
 LetterJapaneseA,
@@ -2819,6 +2846,8 @@ MaskFace,
 Maximize,
 Medal,
 MedalAlt,
+Melon,
+MelonSlice,
 Memo,
 MemoCheck,
 MemoPencil,
@@ -2948,6 +2977,7 @@ MoveLeft,
 MoveRight,
 Mp3Player,
 MugSauser,
+Mushroom,
 Music,
 MusicNote,
 MusicNoteSlash,
@@ -2974,6 +3004,7 @@ ObjectsColumn,
 Octagon,
 OctagonExclamation,
 OilWell,
+Olive,
 Ornament,
 OrnamentAlt,
 Overline,
@@ -3045,6 +3076,7 @@ Podcast,
 Podium,
 PollPeople,
 PortraitUser,
+Potato,
 Potion,
 PoundCircle,
 PoundSign,
@@ -3061,6 +3093,7 @@ PresentationScreen,
 Printer,
 PrinterAlt,
 Projector,
+Pumpkin,
 Question,
 Radiation,
 Radio,
@@ -3109,6 +3142,7 @@ Rss,
 Ruler,
 RulerTraingle,
 RupeeSign,
+Salad,
 SantaClaus,
 SantaGlove,
 SantaHat,
@@ -3136,6 +3170,7 @@ SearchAlt1,
 SearchAlt2,
 SearchMinus,
 SearchPlus,
+Seedling,
 Send,
 SendAlt,
 SendAlt1,
@@ -3275,6 +3310,7 @@ StarSharpHalf,
 Stocking,
 Stopwatch,
 Stopwatch10,
+Strawberry,
 Strikethrough,
 Style=Monochrome,
 Subdirectory,
@@ -3479,6 +3515,7 @@ WatchAlt2,
 Water,
 WaterArrowDown,
 WaterArrowUp,
+WatermelonSlice,
 WavePulse,
 Webcam,
 WebcamAlt,
@@ -3488,6 +3525,7 @@ WebcamSlash,
 WebcamSlashAlt,
 Weight,
 WeightScale,
+Wheat,
 Wifi,
 WifiExclamation,
 WifiFair,
