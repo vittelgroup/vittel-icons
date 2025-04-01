@@ -23,6 +23,7 @@ import AlarmPlus from "./icons/AlarmPlus";
 import AlarmSnooze from "./icons/AlarmSnooze";
 import Album from "./icons/Album";
 import AlbumCollection from "./icons/AlbumCollection";
+import Alien8bit from "./icons/Alien8bit";
 import AlignAlt from "./icons/AlignAlt";
 import AlignCenter from "./icons/AlignCenter";
 import AlignCenterAlt from "./icons/AlignCenterAlt";
@@ -130,6 +131,7 @@ import AudioDescriptionSlasg from "./icons/AudioDescriptionSlasg";
 import AustralSign from "./icons/AustralSign";
 import Award from "./icons/Award";
 import AwardAlt from "./icons/AwardAlt";
+import AxeBattle from "./icons/AxeBattle";
 import Backpack from "./icons/Backpack";
 import BackpackAlt from "./icons/BackpackAlt";
 import Backward from "./icons/Backward";
@@ -170,6 +172,9 @@ import BellSlash from "./icons/BellSlash";
 import Bicycle from "./icons/Bicycle";
 import BitcoinCircle from "./icons/BitcoinCircle";
 import BitcoinSign from "./icons/BitcoinSign";
+import Block from "./icons/Block";
+import BlockBrick from "./icons/BlockBrick";
+import BlockQuestion from "./icons/BlockQuestion";
 import BluetoothOn from "./icons/BluetoothOn";
 import BluetoothSignal from "./icons/BluetoothSignal";
 import BluetoothSlash from "./icons/BluetoothSlash";
@@ -180,6 +185,7 @@ import Book from "./icons/Book";
 import Bookmark from "./icons/Bookmark";
 import BookOpen from "./icons/BookOpen";
 import BookSection from "./icons/BookSection";
+import BookSkull from "./icons/BookSkull";
 import BookSparkles from "./icons/BookSparkles";
 import BookUser from "./icons/BookUser";
 import Boombox from "./icons/Boombox";
@@ -193,6 +199,7 @@ import BorderRight from "./icons/BorderRight";
 import BorderTop from "./icons/BorderTop";
 import BorderTopLeft from "./icons/BorderTopLeft";
 import BorderVertical from "./icons/BorderVertical";
+import BowArrow from "./icons/BowArrow";
 import BowlingBall from "./icons/BowlingBall";
 import BowlingPins from "./icons/BowlingPins";
 import BoxArchive from "./icons/BoxArchive";
@@ -271,6 +278,7 @@ import CameraAlt from "./icons/CameraAlt";
 import CameraAlt1 from "./icons/CameraAlt1";
 import CameraAlt2 from "./icons/CameraAlt2";
 import CameraSlash from "./icons/CameraSlash";
+import Campfire from "./icons/Campfire";
 import Campground from "./icons/Campground";
 import CandleHolder from "./icons/CandleHolder";
 import CandleStand from "./icons/CandleStand";
@@ -281,6 +289,12 @@ import CandyCorn from "./icons/CandyCorn";
 import Capsule from "./icons/Capsule";
 import Car from "./icons/Car";
 import CarBattery from "./icons/CarBattery";
+import CardClub from "./icons/CardClub";
+import CardDiamond from "./icons/CardDiamond";
+import CardHeart from "./icons/CardHeart";
+import Cards from "./icons/Cards";
+import CardsBlank from "./icons/CardsBlank";
+import CardSpade from "./icons/CardSpade";
 import CaretDown from "./icons/CaretDown";
 import CaretLeft from "./icons/CaretLeft";
 import CaretLeftToLine from "./icons/CaretLeftToLine";
@@ -335,6 +349,16 @@ import ChartWaterfall from "./icons/ChartWaterfall";
 import Check from "./icons/Check";
 import CheckDouble from "./icons/CheckDouble";
 import Chesnut from "./icons/Chesnut";
+import Chess from "./icons/Chess";
+import ChessBishop from "./icons/ChessBishop";
+import ChessBoard from "./icons/ChessBoard";
+import ChessClock from "./icons/ChessClock";
+import ChessClockFlip from "./icons/ChessClockFlip";
+import ChessKing from "./icons/ChessKing";
+import ChessKnight from "./icons/ChessKnight";
+import ChessPawn from "./icons/ChessPawn";
+import ChessQueen from "./icons/ChessQueen";
+import ChessRook from "./icons/ChessRook";
 import ChevronDown from "./icons/ChevronDown";
 import ChevronDownDot from "./icons/ChevronDownDot";
 import ChevronDownDouble from "./icons/ChevronDownDouble";
@@ -562,6 +586,7 @@ import CrosshairSimple from "./icons/CrosshairSimple";
 import Crow from "./icons/Crow";
 import Crown from "./icons/Crown";
 import CruzeiroSign from "./icons/CruzeiroSign";
+import CrystalBall from "./icons/CrystalBall";
 import Cube from "./icons/Cube";
 import CubeAlt from "./icons/CubeAlt";
 import CubeAlt1 from "./icons/CubeAlt1";
@@ -569,6 +594,7 @@ import CubeAlt2 from "./icons/CubeAlt2";
 import CurlingStone from "./icons/CurlingStone";
 import Cursor from "./icons/Cursor";
 import CursorAlt from "./icons/CursorAlt";
+import Dagger from "./icons/Dagger";
 import Dash from "./icons/Dash";
 import Dazzle from "./icons/Dazzle";
 import DazzlingStar from "./icons/DazzlingStar";
@@ -600,9 +626,16 @@ import Diamond from "./icons/Diamond";
 import DiamondExclamation from "./icons/DiamondExclamation";
 import DiamondTurnRight from "./icons/DiamondTurnRight";
 import DiamondXmark from "./icons/DiamondXmark";
+import DiceD10 from "./icons/DiceD10";
+import DiceD12 from "./icons/DiceD12";
+import DiceD20 from "./icons/DiceD20";
+import DiceD4 from "./icons/DiceD4";
+import DiceD6 from "./icons/DiceD6";
+import DiceD8 from "./icons/DiceD8";
 import DiceFive from "./icons/DiceFive";
 import DiceFour from "./icons/DiceFour";
 import DiceOne from "./icons/DiceOne";
+import Dices from "./icons/Dices";
 import DiceSix from "./icons/DiceSix";
 import DiceThree from "./icons/DiceThree";
 import DiceTwo from "./icons/DiceTwo";
@@ -632,6 +665,7 @@ import Download from "./icons/Download";
 import DrawingTablet from "./icons/DrawingTablet";
 import DrawSquare from "./icons/DrawSquare";
 import DrawSquareT from "./icons/DrawSquareT";
+import Dreidel from "./icons/Dreidel";
 import DribbbleLogo from "./icons/DribbbleLogo";
 import Drone from "./icons/Drone";
 import DropboxLogo from "./icons/DropboxLogo";
@@ -642,6 +676,7 @@ import Droplets from "./icons/Droplets";
 import DropletSlash from "./icons/DropletSlash";
 import Drum from "./icons/Drum";
 import Dumbbells from "./icons/Dumbbells";
+import Dungeon from "./icons/Dungeon";
 import Eclipse from "./icons/Eclipse";
 import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
@@ -824,6 +859,7 @@ import FilterSlash from "./icons/FilterSlash";
 import FilterXmark from "./icons/FilterXmark";
 import Fingerprint from "./icons/Fingerprint";
 import FingerprintAlt from "./icons/FingerprintAlt";
+import FireFlame from "./icons/FireFlame";
 import Fireplace from "./icons/Fireplace";
 import Firewall from "./icons/Firewall";
 import FishingRod from "./icons/FishingRod";
@@ -869,6 +905,8 @@ import Frame from "./icons/Frame";
 import FramerLogo from "./icons/FramerLogo";
 import Frankenstein from "./icons/Frankenstein";
 import GalleryThumbnails from "./icons/GalleryThumbnails";
+import GameBoard from "./icons/GameBoard";
+import GameConsoleHandheld from "./icons/GameConsoleHandheld";
 import GamingPad from "./icons/GamingPad";
 import GamingPadAlt from "./icons/GamingPadAlt";
 import GamingPadAlt1 from "./icons/GamingPadAlt1";
@@ -926,6 +964,9 @@ import HalloweenCalendarBat from "./icons/HalloweenCalendarBat";
 import HalloweenDecorations from "./icons/HalloweenDecorations";
 import HalloweenMail from "./icons/HalloweenMail";
 import HalloweenMailAlt from "./icons/HalloweenMailAlt";
+import HammerWar from "./icons/HammerWar";
+import HandFist from "./icons/HandFist";
+import HandHoldingMagic from "./icons/HandHoldingMagic";
 import Handshake from "./icons/Handshake";
 import HardDrive from "./icons/HardDrive";
 import Hashtag from "./icons/Hashtag";
@@ -945,6 +986,7 @@ import HeartHalf from "./icons/HeartHalf";
 import HeartHalfStroke from "./icons/HeartHalfStroke";
 import Heat from "./icons/Heat";
 import HeatAlt from "./icons/HeatAlt";
+import HelmetBattle from "./icons/HelmetBattle";
 import Hexagon from "./icons/Hexagon";
 import HexagonAlt1 from "./icons/HexagonAlt1";
 import HexagonCheck from "./icons/HexagonCheck";
@@ -954,6 +996,7 @@ import HighDefinition from "./icons/HighDefinition";
 import HockeyMask from "./icons/HockeyMask";
 import HockeyStick from "./icons/HockeyStick";
 import HokeyPuck from "./icons/HokeyPuck";
+import HoodCloak from "./icons/HoodCloak";
 import HorizontalRule from "./icons/HorizontalRule";
 import Hospital from "./icons/Hospital";
 import Hospitals from "./icons/Hospitals";
@@ -1037,6 +1080,7 @@ import InformationAlt from "./icons/InformationAlt";
 import InstagramLogo from "./icons/InstagramLogo";
 import Italic from "./icons/Italic";
 import JackOLantern from "./icons/JackOLantern";
+import Joystick from "./icons/Joystick";
 import Kerning from "./icons/Kerning";
 import Key from "./icons/Key";
 import KeyAlt from "./icons/KeyAlt";
@@ -1137,6 +1181,7 @@ import LockSlash from "./icons/LockSlash";
 import Lollipop from "./icons/Lollipop";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
+import Mace from "./icons/Mace";
 import Magnet from "./icons/Magnet";
 import Mail from "./icons/Mail";
 import MailAlt from "./icons/MailAlt";
@@ -1413,6 +1458,8 @@ import PenSquare from "./icons/PenSquare";
 import PenSwirl from "./icons/PenSwirl";
 import Pentagon from "./icons/Pentagon";
 import Percent from "./icons/Percent";
+import PersonDressFairy from "./icons/PersonDressFairy";
+import PersonFairy from "./icons/PersonFairy";
 import Phone from "./icons/Phone";
 import PhoneAlt from "./icons/PhoneAlt";
 import PhoneBlock from "./icons/PhoneBlock";
@@ -1442,6 +1489,9 @@ import PhoneSlashAlt from "./icons/PhoneSlashAlt";
 import PhoneXmark from "./icons/PhoneXmark";
 import PhoneXmarkAlt from "./icons/PhoneXmarkAlt";
 import Piano from "./icons/Piano";
+import Pickaxe from "./icons/Pickaxe";
+import Pinata from "./icons/Pinata";
+import Pinball from "./icons/Pinball";
 import PinterestLogo from "./icons/PinterestLogo";
 import PixLogo from "./icons/PixLogo";
 import PlaceOfWorship from "./icons/PlaceOfWorship";
@@ -1473,6 +1523,8 @@ import Printer from "./icons/Printer";
 import PrinterAlt from "./icons/PrinterAlt";
 import Projector from "./icons/Projector";
 import Pumpkin from "./icons/Pumpkin";
+import Puzzle from "./icons/Puzzle";
+import PuzzlePiece from "./icons/PuzzlePiece";
 import Question from "./icons/Question";
 import Racquet from "./icons/Racquet";
 import Radiation from "./icons/Radiation";
@@ -1512,6 +1564,7 @@ import RestaurantMenu from "./icons/RestaurantMenu";
 import Rhombus from "./icons/Rhombus";
 import RightIndent from "./icons/RightIndent";
 import RightToLeftTextDirection from "./icons/RightToLeftTextDirection";
+import Ring from "./icons/Ring";
 import Rocket from "./icons/Rocket";
 import RockingHorse from "./icons/RockingHorse";
 import RollerCoaster from "./icons/RollerCoaster";
@@ -1542,6 +1595,8 @@ import Scissors from "./icons/Scissors";
 import Screencast from "./icons/Screencast";
 import ScreenUsers from "./icons/ScreenUsers";
 import Scribble from "./icons/Scribble";
+import Scroll from "./icons/Scroll";
+import ScrollOld from "./icons/ScrollOld";
 import Scrubber from "./icons/Scrubber";
 import Scythe from "./icons/Scythe";
 import Seal from "./icons/Seal";
@@ -1719,6 +1774,7 @@ import Superscript from "./icons/Superscript";
 import Swatchbook from "./icons/Swatchbook";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
+import Sword from "./icons/Sword";
 import Table from "./icons/Table";
 import TableAlt from "./icons/TableAlt";
 import TableCells from "./icons/TableCells";
@@ -1976,6 +2032,7 @@ AlarmPlus,
 AlarmSnooze,
 Album,
 AlbumCollection,
+Alien8bit,
 AlignAlt,
 AlignCenter,
 AlignCenterAlt,
@@ -2083,6 +2140,7 @@ AudioDescriptionSlasg,
 AustralSign,
 Award,
 AwardAlt,
+AxeBattle,
 Backpack,
 BackpackAlt,
 Backward,
@@ -2123,6 +2181,9 @@ BellSlash,
 Bicycle,
 BitcoinCircle,
 BitcoinSign,
+Block,
+BlockBrick,
+BlockQuestion,
 BluetoothOn,
 BluetoothSignal,
 BluetoothSlash,
@@ -2133,6 +2194,7 @@ Book,
 Bookmark,
 BookOpen,
 BookSection,
+BookSkull,
 BookSparkles,
 BookUser,
 Boombox,
@@ -2146,6 +2208,7 @@ BorderRight,
 BorderTop,
 BorderTopLeft,
 BorderVertical,
+BowArrow,
 BowlingBall,
 BowlingPins,
 BoxArchive,
@@ -2224,6 +2287,7 @@ CameraAlt,
 CameraAlt1,
 CameraAlt2,
 CameraSlash,
+Campfire,
 Campground,
 CandleHolder,
 CandleStand,
@@ -2234,6 +2298,12 @@ CandyCorn,
 Capsule,
 Car,
 CarBattery,
+CardClub,
+CardDiamond,
+CardHeart,
+Cards,
+CardsBlank,
+CardSpade,
 CaretDown,
 CaretLeft,
 CaretLeftToLine,
@@ -2288,6 +2358,16 @@ ChartWaterfall,
 Check,
 CheckDouble,
 Chesnut,
+Chess,
+ChessBishop,
+ChessBoard,
+ChessClock,
+ChessClockFlip,
+ChessKing,
+ChessKnight,
+ChessPawn,
+ChessQueen,
+ChessRook,
 ChevronDown,
 ChevronDownDot,
 ChevronDownDouble,
@@ -2515,6 +2595,7 @@ CrosshairSimple,
 Crow,
 Crown,
 CruzeiroSign,
+CrystalBall,
 Cube,
 CubeAlt,
 CubeAlt1,
@@ -2522,6 +2603,7 @@ CubeAlt2,
 CurlingStone,
 Cursor,
 CursorAlt,
+Dagger,
 Dash,
 Dazzle,
 DazzlingStar,
@@ -2553,9 +2635,16 @@ Diamond,
 DiamondExclamation,
 DiamondTurnRight,
 DiamondXmark,
+DiceD10,
+DiceD12,
+DiceD20,
+DiceD4,
+DiceD6,
+DiceD8,
 DiceFive,
 DiceFour,
 DiceOne,
+Dices,
 DiceSix,
 DiceThree,
 DiceTwo,
@@ -2585,6 +2674,7 @@ Download,
 DrawingTablet,
 DrawSquare,
 DrawSquareT,
+Dreidel,
 DribbbleLogo,
 Drone,
 DropboxLogo,
@@ -2595,6 +2685,7 @@ Droplets,
 DropletSlash,
 Drum,
 Dumbbells,
+Dungeon,
 Eclipse,
 Engine,
 EngineWarning,
@@ -2777,6 +2868,7 @@ FilterSlash,
 FilterXmark,
 Fingerprint,
 FingerprintAlt,
+FireFlame,
 Fireplace,
 Firewall,
 FishingRod,
@@ -2822,6 +2914,8 @@ Frame,
 FramerLogo,
 Frankenstein,
 GalleryThumbnails,
+GameBoard,
+GameConsoleHandheld,
 GamingPad,
 GamingPadAlt,
 GamingPadAlt1,
@@ -2879,6 +2973,9 @@ HalloweenCalendarBat,
 HalloweenDecorations,
 HalloweenMail,
 HalloweenMailAlt,
+HammerWar,
+HandFist,
+HandHoldingMagic,
 Handshake,
 HardDrive,
 Hashtag,
@@ -2898,6 +2995,7 @@ HeartHalf,
 HeartHalfStroke,
 Heat,
 HeatAlt,
+HelmetBattle,
 Hexagon,
 HexagonAlt1,
 HexagonCheck,
@@ -2907,6 +3005,7 @@ HighDefinition,
 HockeyMask,
 HockeyStick,
 HokeyPuck,
+HoodCloak,
 HorizontalRule,
 Hospital,
 Hospitals,
@@ -2990,6 +3089,7 @@ InformationAlt,
 InstagramLogo,
 Italic,
 JackOLantern,
+Joystick,
 Kerning,
 Key,
 KeyAlt,
@@ -3090,6 +3190,7 @@ LockSlash,
 Lollipop,
 Loop,
 LoopVertical,
+Mace,
 Magnet,
 Mail,
 MailAlt,
@@ -3366,6 +3467,8 @@ PenSquare,
 PenSwirl,
 Pentagon,
 Percent,
+PersonDressFairy,
+PersonFairy,
 Phone,
 PhoneAlt,
 PhoneBlock,
@@ -3395,6 +3498,9 @@ PhoneSlashAlt,
 PhoneXmark,
 PhoneXmarkAlt,
 Piano,
+Pickaxe,
+Pinata,
+Pinball,
 PinterestLogo,
 PixLogo,
 PlaceOfWorship,
@@ -3426,6 +3532,8 @@ Printer,
 PrinterAlt,
 Projector,
 Pumpkin,
+Puzzle,
+PuzzlePiece,
 Question,
 Racquet,
 Radiation,
@@ -3465,6 +3573,7 @@ RestaurantMenu,
 Rhombus,
 RightIndent,
 RightToLeftTextDirection,
+Ring,
 Rocket,
 RockingHorse,
 RollerCoaster,
@@ -3495,6 +3604,8 @@ Scissors,
 Screencast,
 ScreenUsers,
 Scribble,
+Scroll,
+ScrollOld,
 Scrubber,
 Scythe,
 Seal,
@@ -3672,6 +3783,7 @@ Superscript,
 Swatchbook,
 SwitchHorizontal,
 SwitchVertical,
+Sword,
 Table,
 TableAlt,
 TableCells,
