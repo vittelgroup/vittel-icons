@@ -3,6 +3,11 @@ import AddressCard from "./icons/AddressCard";
 import Airplay from "./icons/Airplay";
 import Airpods from "./icons/Airpods";
 import AirpodsAlt from "./icons/AirpodsAlt";
+import AlarmClock from "./icons/AlarmClock";
+import AlarmClockAlt from "./icons/AlarmClockAlt";
+import AlarmExclamation from "./icons/AlarmExclamation";
+import AlarmPlus from "./icons/AlarmPlus";
+import AlarmSnooze from "./icons/AlarmSnooze";
 import Album from "./icons/Album";
 import AlbumCollection from "./icons/AlbumCollection";
 import AlignAlt from "./icons/AlignAlt";
@@ -137,6 +142,10 @@ import BatteryLow from "./icons/BatteryLow";
 import BatteryMid from "./icons/BatteryMid";
 import BatterySlash from "./icons/BatterySlash";
 import Bed from "./icons/Bed";
+import Bell from "./icons/Bell";
+import BellAlt from "./icons/BellAlt";
+import BellAlt1 from "./icons/BellAlt1";
+import BellSlash from "./icons/BellSlash";
 import BitcoinCircle from "./icons/BitcoinCircle";
 import BitcoinSign from "./icons/BitcoinSign";
 import BluetoothOn from "./icons/BluetoothOn";
@@ -384,6 +393,39 @@ import ClipboardTextAlt from "./icons/ClipboardTextAlt";
 import ClipboardUser from "./icons/ClipboardUser";
 import ClipboardXmark from "./icons/ClipboardXmark";
 import Cloche from "./icons/Cloche";
+import Clock from "./icons/Clock";
+import ClockCheck from "./icons/ClockCheck";
+import ClockDesk from "./icons/ClockDesk";
+import ClockEight from "./icons/ClockEight";
+import ClockEightThirty from "./icons/ClockEightThirty";
+import ClockEleven from "./icons/ClockEleven";
+import ClockElevenThirty from "./icons/ClockElevenThirty";
+import ClockExclamation from "./icons/ClockExclamation";
+import ClockFive from "./icons/ClockFive";
+import ClockFiveThirty from "./icons/ClockFiveThirty";
+import ClockFourThirty from "./icons/ClockFourThirty";
+import ClockLines from "./icons/ClockLines";
+import ClockMinus from "./icons/ClockMinus";
+import ClockNine from "./icons/ClockNine";
+import ClockNineThirty from "./icons/ClockNineThirty";
+import ClockOne from "./icons/ClockOne";
+import ClockOneThirty from "./icons/ClockOneThirty";
+import ClockPlus from "./icons/ClockPlus";
+import ClockSeven from "./icons/ClockSeven";
+import ClockSevenThirty from "./icons/ClockSevenThirty";
+import ClockSix from "./icons/ClockSix";
+import ClockSixThirty from "./icons/ClockSixThirty";
+import ClockSlash from "./icons/ClockSlash";
+import ClockSnooze from "./icons/ClockSnooze";
+import ClockTen from "./icons/ClockTen";
+import ClockTenThirty from "./icons/ClockTenThirty";
+import ClockThree from "./icons/ClockThree";
+import ClockThreeThirty from "./icons/ClockThreeThirty";
+import ClockTwelve from "./icons/ClockTwelve";
+import ClockTwelveThirty from "./icons/ClockTwelveThirty";
+import ClockTwo from "./icons/ClockTwo";
+import ClockTwoThirty from "./icons/ClockTwoThirty";
+import ClockXmark from "./icons/ClockXmark";
 import Clone from "./icons/Clone";
 import ClosedCaptioning from "./icons/ClosedCaptioning";
 import CloudArrowDownAlt from "./icons/CloudArrowDownAlt";
@@ -758,6 +800,10 @@ import Hospital from "./icons/Hospital";
 import Hospitals from "./icons/Hospitals";
 import HospitalUser from "./icons/HospitalUser";
 import Hotel from "./icons/Hotel";
+import Hourglass from "./icons/Hourglass";
+import HourglassEnd from "./icons/HourglassEnd";
+import HourglassHalf from "./icons/HourglassHalf";
+import HourglassStart from "./icons/HourglassStart";
 import HouseBolt from "./icons/HouseBolt";
 import HouseBoltAlt from "./icons/HouseBoltAlt";
 import HouseBuilding from "./icons/HouseBuilding";
@@ -1228,6 +1274,7 @@ import RefreshCcwAlt1 from "./icons/RefreshCcwAlt1";
 import RefreshCcwAlt2 from "./icons/RefreshCcwAlt2";
 import RefreshCcwAlt3 from "./icons/RefreshCcwAlt3";
 import RefreshCcwAlt4 from "./icons/RefreshCcwAlt4";
+import RefreshCcwClock from "./icons/RefreshCcwClock";
 import RefreshCw from "./icons/RefreshCw";
 import RefreshCwAlt from "./icons/RefreshCwAlt";
 import RefreshCwAlt1 from "./icons/RefreshCwAlt1";
@@ -1341,6 +1388,7 @@ import Sleigh from "./icons/Sleigh";
 import Sliders from "./icons/Sliders";
 import SlidersSimple from "./icons/SlidersSimple";
 import SlidersUp from "./icons/SlidersUp";
+import Snooze from "./icons/Snooze";
 import Snowman from "./icons/Snowman";
 import SnowmanHead from "./icons/SnowmanHead";
 import Sort from "./icons/Sort";
@@ -1403,6 +1451,8 @@ import Stars from "./icons/Stars";
 import StarSharp from "./icons/StarSharp";
 import StarSharpHalf from "./icons/StarSharpHalf";
 import Stocking from "./icons/Stocking";
+import Stopwatch from "./icons/Stopwatch";
+import Stopwatch10 from "./icons/Stopwatch10";
 import Strikethrough from "./icons/Strikethrough";
 import Style=Monochrome from "./icons/Style=Monochrome";
 import Subdirectory from "./icons/Subdirectory";
@@ -1449,6 +1499,7 @@ import TextWidth from "./icons/TextWidth";
 import Thermometer from "./icons/Thermometer";
 import Thumbtack from "./icons/Thumbtack";
 import TicketSimple from "./icons/TicketSimple";
+import Timer from "./icons/Timer";
 import ToiletPaperBlank from "./icons/ToiletPaperBlank";
 import ToiletPaperDots from "./icons/ToiletPaperDots";
 import ToiletPortable from "./icons/ToiletPortable";
@@ -1619,6 +1670,11 @@ AddressCard,
 Airplay,
 Airpods,
 AirpodsAlt,
+AlarmClock,
+AlarmClockAlt,
+AlarmExclamation,
+AlarmPlus,
+AlarmSnooze,
 Album,
 AlbumCollection,
 AlignAlt,
@@ -1753,6 +1809,10 @@ BatteryLow,
 BatteryMid,
 BatterySlash,
 Bed,
+Bell,
+BellAlt,
+BellAlt1,
+BellSlash,
 BitcoinCircle,
 BitcoinSign,
 BluetoothOn,
@@ -2000,6 +2060,39 @@ ClipboardTextAlt,
 ClipboardUser,
 ClipboardXmark,
 Cloche,
+Clock,
+ClockCheck,
+ClockDesk,
+ClockEight,
+ClockEightThirty,
+ClockEleven,
+ClockElevenThirty,
+ClockExclamation,
+ClockFive,
+ClockFiveThirty,
+ClockFourThirty,
+ClockLines,
+ClockMinus,
+ClockNine,
+ClockNineThirty,
+ClockOne,
+ClockOneThirty,
+ClockPlus,
+ClockSeven,
+ClockSevenThirty,
+ClockSix,
+ClockSixThirty,
+ClockSlash,
+ClockSnooze,
+ClockTen,
+ClockTenThirty,
+ClockThree,
+ClockThreeThirty,
+ClockTwelve,
+ClockTwelveThirty,
+ClockTwo,
+ClockTwoThirty,
+ClockXmark,
 Clone,
 ClosedCaptioning,
 CloudArrowDownAlt,
@@ -2374,6 +2467,10 @@ Hospital,
 Hospitals,
 HospitalUser,
 Hotel,
+Hourglass,
+HourglassEnd,
+HourglassHalf,
+HourglassStart,
 HouseBolt,
 HouseBoltAlt,
 HouseBuilding,
@@ -2844,6 +2941,7 @@ RefreshCcwAlt1,
 RefreshCcwAlt2,
 RefreshCcwAlt3,
 RefreshCcwAlt4,
+RefreshCcwClock,
 RefreshCw,
 RefreshCwAlt,
 RefreshCwAlt1,
@@ -2957,6 +3055,7 @@ Sleigh,
 Sliders,
 SlidersSimple,
 SlidersUp,
+Snooze,
 Snowman,
 SnowmanHead,
 Sort,
@@ -3019,6 +3118,8 @@ Stars,
 StarSharp,
 StarSharpHalf,
 Stocking,
+Stopwatch,
+Stopwatch10,
 Strikethrough,
 Style=Monochrome,
 Subdirectory,
@@ -3065,6 +3166,7 @@ TextWidth,
 Thermometer,
 Thumbtack,
 TicketSimple,
+Timer,
 ToiletPaperBlank,
 ToiletPaperDots,
 ToiletPortable,

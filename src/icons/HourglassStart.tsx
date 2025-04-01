@@ -1,0 +1,45 @@
+import React from "react";
+
+interface IconsProps extends React.SVGProps<SVGSVGElement> {
+  variant?: 'linear' | 'solid' | 'duotone' | 'monochrome';
+}
+
+const HourglassStart: React.FC<IconsProps> = ({ variant = 'linear', ...props }) => {
+  switch (variant) {
+    
+    case 'linear':
+      return (        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path d="M15 6H9M20 21H19M19 21H5M19 21C19 18.4898 17.7877 16.1341 15.7451 14.675L12 12M5 21H4M5 21C5 18.4898 6.21228 16.1341 8.25493 14.675L12 12M20 3H19M19 3H5M19 3C19 5.51022 17.7877 7.86592 15.7451 9.32495L12 12M5 3H4M5 3C5 5.51022 6.21228 7.86592 8.25493 9.32495L12 12" stroke="currentColor" strokeWidth="2" strokeLinecap="round" stroke-linejoin="round"/>
+</svg>
+        )
+    
+    case 'solid':
+      return (        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 21C3 21.5523 3.44772 22 4 22H20C20.5523 22 21 21.5523 21 21C21 20.4477 20.5523 20 20 20H19.9429C19.662 17.55 18.3581 15.3126 16.3263 13.8613L13.7205 12L16.3263 10.1387C18.3581 8.68738 19.662 6.45003 19.9429 4H20C20.5523 4 21 3.55228 21 3C21 2.44772 20.5523 2 20 2H4C3.44772 2 3 2.44772 3 3C3 3.55228 3.44772 4 4 4H4.0571C4.33798 6.45003 5.64187 8.68738 7.6737 10.1387L10.2795 12L7.6737 13.8613C5.64187 15.3126 4.33798 17.55 4.0571 20H4C3.44772 20 3 20.4477 3 21ZM6.07415 20C6.34303 18.1982 7.33081 16.564 8.83617 15.4888L12 13.2289L15.1638 15.4888C16.6692 16.564 17.657 18.1982 17.9258 20H6.07415Z" fill="currentColor"/>
+</svg>
+        )
+    
+    case 'duotone':
+      return (        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path opacity="0.14" d="M5 3H19C19 5.51022 17.7877 7.86592 15.7451 9.32495L12 12L8.25493 9.32495C6.21228 7.86592 5 5.51022 5 3Z" fill="currentColor"/>
+<path d="M15 6H9M20 21H19M19 21H5M19 21C19 18.4898 17.7877 16.1341 15.7451 14.675L12 12M5 21H4M5 21C5 18.4898 6.21228 16.1341 8.25493 14.675L12 12M20 3H19M19 3H5M19 3C19 5.51022 17.7877 7.86592 15.7451 9.32495L12 12M5 3H4M5 3C5 5.51022 6.21228 7.86592 8.25493 9.32495L12 12" stroke="currentColor" strokeWidth="2" strokeLinecap="round" stroke-linejoin="round"/>
+</svg>
+        )
+    
+    case 'monochrome':
+      return (        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path d="M4 22C3.44772 22 3 21.5523 3 21C3 20.4477 3.44772 20 4 20H20C20.5523 20 21 20.4477 21 21C21 21.5523 20.5523 22 20 22H4Z" fill="currentColor"/>
+<path d="M4 4C3.44772 4 3 3.55228 3 3C3 2.44772 3.44772 2 4 2H20C20.5523 2 21 2.44772 21 3C21 3.55228 20.5523 4 20 4H17.9259C17.657 5.80181 16.6693 7.43598 15.1639 8.51124L12.0001 10.7711L8.83624 8.51124C7.33088 7.43598 6.34309 5.80183 6.07422 4.00002L4 4Z" fill="currentColor"/>
+<path opacity="0.3" d="M4.05664 20C4.33753 17.55 5.64141 15.3126 7.67324 13.8613L10.2791 12L7.67324 10.1387C5.64141 8.68738 4.33753 6.45003 4.05664 4H6.07369C6.34257 5.80181 7.33035 7.43596 8.83571 8.51122L11.9995 10.7711L15.1634 8.51122C16.6687 7.43596 17.6565 5.80181 17.9254 4H19.9424C19.6616 6.45003 18.3577 8.68738 16.3258 10.1387L13.72 12L16.3258 13.8613C18.3577 15.3126 19.6616 17.55 19.9424 20H17.9254C17.6565 18.1982 16.6687 16.564 15.1634 15.4888L11.9995 13.2289L8.83571 15.4888C7.33035 16.564 6.34257 18.1982 6.07369 20H4.05664Z" fill="currentColor"/>
+</svg>
+        )
+    
+    default:
+      return (        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path d="M15 6H9M20 21H19M19 21H5M19 21C19 18.4898 17.7877 16.1341 15.7451 14.675L12 12M5 21H4M5 21C5 18.4898 6.21228 16.1341 8.25493 14.675L12 12M20 3H19M19 3H5M19 3C19 5.51022 17.7877 7.86592 15.7451 9.32495L12 12M5 3H4M5 3C5 5.51022 6.21228 7.86592 8.25493 9.32495L12 12" stroke="currentColor" strokeWidth="2" strokeLinecap="round" stroke-linejoin="round"/>
+</svg>
+        )
+  }
+};
+
+export default HourglassStart;
