@@ -107,6 +107,7 @@ import BadgePercent from "./icons/BadgePercent";
 import BagShopping from "./icons/BagShopping";
 import BagsShopping from "./icons/BagsShopping";
 import Balloon from "./icons/Balloon";
+import Ban from "./icons/Ban";
 import Bandage from "./icons/Bandage";
 import Bank from "./icons/Bank";
 import BarsProgress from "./icons/BarsProgress";
@@ -132,6 +133,7 @@ import Bones from "./icons/Bones";
 import Book from "./icons/Book";
 import Bookmark from "./icons/Bookmark";
 import BookOpen from "./icons/BookOpen";
+import BookSection from "./icons/BookSection";
 import BookSparkles from "./icons/BookSparkles";
 import BookUser from "./icons/BookUser";
 import Boombox from "./icons/Boombox";
@@ -159,6 +161,8 @@ import BriefcasePlus from "./icons/BriefcasePlus";
 import Broom from "./icons/Broom";
 import Browser from "./icons/Browser";
 import Brush from "./icons/Brush";
+import Bug from "./icons/Bug";
+import BugSlash from "./icons/BugSlash";
 import Building from "./icons/Building";
 import BuildingArrowRight from "./icons/BuildingArrowRight";
 import BuildingCar from "./icons/BuildingCar";
@@ -438,6 +442,7 @@ import DialMed from "./icons/DialMed";
 import DialMedLow from "./icons/DialMedLow";
 import DialMin from "./icons/DialMin";
 import DialOff from "./icons/DialOff";
+import DiamondExclamation from "./icons/DiamondExclamation";
 import DiamondTurnRight from "./icons/DiamondTurnRight";
 import Disc from "./icons/Disc";
 import DiscAlt from "./icons/DiscAlt";
@@ -450,6 +455,9 @@ import Dna from "./icons/Dna";
 import DollarCircleList from "./icons/DollarCircleList";
 import DollarSign from "./icons/DollarSign";
 import DongSign from "./icons/DongSign";
+import DoNotEnter from "./icons/DoNotEnter";
+import DoorClosed from "./icons/DoorClosed";
+import DoorOpen from "./icons/DoorOpen";
 import DotsHorizontal from "./icons/DotsHorizontal";
 import DotsHorizontalAlt from "./icons/DotsHorizontalAlt";
 import DotsVertical from "./icons/DotsVertical";
@@ -480,6 +488,7 @@ import EyeDropperHalf from "./icons/EyeDropperHalf";
 import EyeSlash from "./icons/EyeSlash";
 import EyeSlashAlt from "./icons/EyeSlashAlt";
 import FaceFrown from "./icons/FaceFrown";
+import FaceId from "./icons/FaceId";
 import FaceSmile from "./icons/FaceSmile";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
@@ -506,6 +515,7 @@ import FileCheck from "./icons/FileCheck";
 import FileCheckAlt from "./icons/FileCheckAlt";
 import FileCheckAlt1 from "./icons/FileCheckAlt1";
 import FileCode from "./icons/FileCode";
+import FileContract from "./icons/FileContract";
 import FileCopy from "./icons/FileCopy";
 import FileCv from "./icons/FileCv";
 import FileDashedLine from "./icons/FileDashedLine";
@@ -524,6 +534,9 @@ import FileInfo from "./icons/FileInfo";
 import FileInfoAlt from "./icons/FileInfoAlt";
 import FileInfoAlt1 from "./icons/FileInfoAlt1";
 import FileLink from "./icons/FileLink";
+import FileLock from "./icons/FileLock";
+import FileLockAlt from "./icons/FileLockAlt";
+import FileLockAlt1 from "./icons/FileLockAlt1";
 import FileMinus from "./icons/FileMinus";
 import FileMinusAlt from "./icons/FileMinusAlt";
 import FileMinusAlt1 from "./icons/FileMinusAlt1";
@@ -546,6 +559,9 @@ import FilesAlt2 from "./icons/FilesAlt2";
 import FileSearch from "./icons/FileSearch";
 import FileSearchAlt from "./icons/FileSearchAlt";
 import FileSearchAlt1 from "./icons/FileSearchAlt1";
+import FileShield from "./icons/FileShield";
+import FileShieldAlt from "./icons/FileShieldAlt";
+import FileShieldAlt1 from "./icons/FileShieldAlt1";
 import FileShredder from "./icons/FileShredder";
 import FileSlash from "./icons/FileSlash";
 import FileUser from "./icons/FileUser";
@@ -557,7 +573,10 @@ import FileZipper from "./icons/FileZipper";
 import Film from "./icons/Film";
 import FilmAlt from "./icons/FilmAlt";
 import FilmSlash from "./icons/FilmSlash";
+import Fingerprint from "./icons/Fingerprint";
+import FingerprintAlt from "./icons/FingerprintAlt";
 import Fireplace from "./icons/Fireplace";
+import Firewall from "./icons/Firewall";
 import Flag from "./icons/Flag";
 import Flashlight from "./icons/Flashlight";
 import FlaskRoundBlank from "./icons/FlaskRoundBlank";
@@ -686,6 +705,8 @@ import HouseUser from "./icons/HouseUser";
 import HouseWater from "./icons/HouseWater";
 import HouseWifi from "./icons/HouseWifi";
 import HouseWindow from "./icons/HouseWindow";
+import IdBadge from "./icons/IdBadge";
+import IdCard from "./icons/IdCard";
 import IdCardClip from "./icons/IdCardClip";
 import Image from "./icons/Image";
 import ImageCircle from "./icons/ImageCircle";
@@ -721,6 +742,8 @@ import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
 import InformationAlt from "./icons/InformationAlt";
 import JackOLantern from "./icons/JackOLantern";
+import Key from "./icons/Key";
+import KeyAlt from "./icons/KeyAlt";
 import Keyboard from "./icons/Keyboard";
 import KeyboardAlt from "./icons/KeyboardAlt";
 import KeyboardAlt1 from "./icons/KeyboardAlt1";
@@ -765,6 +788,8 @@ import Lightbulb from "./icons/Lightbulb";
 import LightbulbAlt from "./icons/LightbulbAlt";
 import LightbulbExclamation from "./icons/LightbulbExclamation";
 import LightbulbExclamationAlt from "./icons/LightbulbExclamationAlt";
+import LightEmergency from "./icons/LightEmergency";
+import LightEmergencyOn from "./icons/LightEmergencyOn";
 import LightsHoliday from "./icons/LightsHoliday";
 import Link from "./icons/Link";
 import LinkAlt from "./icons/LinkAlt";
@@ -787,6 +812,9 @@ import LocationPinLock from "./icons/LocationPinLock";
 import LocationPinSlash from "./icons/LocationPinSlash";
 import LocationPlus from "./icons/LocationPlus";
 import LocationXmark from "./icons/LocationXmark";
+import Lock from "./icons/Lock";
+import LockAlt from "./icons/LockAlt";
+import LockSlash from "./icons/LockSlash";
 import Lollipop from "./icons/Lollipop";
 import Loop from "./icons/Loop";
 import LoopVertical from "./icons/LoopVertical";
@@ -1115,6 +1143,7 @@ import SatelliteDish from "./icons/SatelliteDish";
 import ScaleBalanced from "./icons/ScaleBalanced";
 import ScaleUnbalanced from "./icons/ScaleUnbalanced";
 import ScaleUnbalancedFlip from "./icons/ScaleUnbalancedFlip";
+import Scan from "./icons/Scan";
 import Scarecrow from "./icons/Scarecrow";
 import School from "./icons/School";
 import SchoolFlag from "./icons/SchoolFlag";
@@ -1142,7 +1171,21 @@ import SensorFire from "./icons/SensorFire";
 import SensorOn from "./icons/SensorOn";
 import SensorTriangleExclamation from "./icons/SensorTriangleExclamation";
 import Server from "./icons/Server";
+import Shield from "./icons/Shield";
+import ShieldAlt from "./icons/ShieldAlt";
+import ShieldAlt1 from "./icons/ShieldAlt1";
 import ShieldBolt from "./icons/ShieldBolt";
+import ShieldCheck from "./icons/ShieldCheck";
+import ShieldDollar from "./icons/ShieldDollar";
+import ShieldExclamation from "./icons/ShieldExclamation";
+import ShieldHeart from "./icons/ShieldHeart";
+import ShieldKeyhole from "./icons/ShieldKeyhole";
+import ShieldMinus from "./icons/ShieldMinus";
+import ShieldPlus from "./icons/ShieldPlus";
+import ShieldSlash from "./icons/ShieldSlash";
+import ShieldSlashAlt from "./icons/ShieldSlashAlt";
+import ShieldSlashAlt1 from "./icons/ShieldSlashAlt1";
+import ShieldXmark from "./icons/ShieldXmark";
 import Shop from "./icons/Shop";
 import Shredder from "./icons/Shredder";
 import Shuffle from "./icons/Shuffle";
@@ -1219,6 +1262,7 @@ import StarExclamation from "./icons/StarExclamation";
 import StarSharp from "./icons/StarSharp";
 import StarSharpHalf from "./icons/StarSharpHalf";
 import Stocking from "./icons/Stocking";
+import Style=Monochrome from "./icons/Style=Monochrome";
 import Subdirectory from "./icons/Subdirectory";
 import Suitcase from "./icons/Suitcase";
 import SuitcaseMedical from "./icons/SuitcaseMedical";
@@ -1305,6 +1349,8 @@ import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
 import TvAlt1 from "./icons/TvAlt1";
 import University from "./icons/University";
+import Unlock from "./icons/Unlock";
+import UnlockAlt from "./icons/UnlockAlt";
 import Upload from "./icons/Upload";
 import UsbFlashDrive from "./icons/UsbFlashDrive";
 import UsbFlashDriveAlt1 from "./icons/UsbFlashDriveAlt1";
@@ -1320,6 +1366,9 @@ import UserCheckAlt1 from "./icons/UserCheckAlt1";
 import UserHeart from "./icons/UserHeart";
 import UserHeartAlt from "./icons/UserHeartAlt";
 import UserHeartAlt1 from "./icons/UserHeartAlt1";
+import UserLock from "./icons/UserLock";
+import UserLockAlt from "./icons/UserLockAlt";
+import UserLockAlt1 from "./icons/UserLockAlt1";
 import UserMinus from "./icons/UserMinus";
 import UserMinusAlt from "./icons/UserMinusAlt";
 import UserMinusAlt1 from "./icons/UserMinusAlt1";
@@ -1513,6 +1562,7 @@ BadgePercent,
 BagShopping,
 BagsShopping,
 Balloon,
+Ban,
 Bandage,
 Bank,
 BarsProgress,
@@ -1538,6 +1588,7 @@ Bones,
 Book,
 Bookmark,
 BookOpen,
+BookSection,
 BookSparkles,
 BookUser,
 Boombox,
@@ -1565,6 +1616,8 @@ BriefcasePlus,
 Broom,
 Browser,
 Brush,
+Bug,
+BugSlash,
 Building,
 BuildingArrowRight,
 BuildingCar,
@@ -1844,6 +1897,7 @@ DialMed,
 DialMedLow,
 DialMin,
 DialOff,
+DiamondExclamation,
 DiamondTurnRight,
 Disc,
 DiscAlt,
@@ -1856,6 +1910,9 @@ Dna,
 DollarCircleList,
 DollarSign,
 DongSign,
+DoNotEnter,
+DoorClosed,
+DoorOpen,
 DotsHorizontal,
 DotsHorizontalAlt,
 DotsVertical,
@@ -1886,6 +1943,7 @@ EyeDropperHalf,
 EyeSlash,
 EyeSlashAlt,
 FaceFrown,
+FaceId,
 FaceSmile,
 Farm,
 Fence,
@@ -1912,6 +1970,7 @@ FileCheck,
 FileCheckAlt,
 FileCheckAlt1,
 FileCode,
+FileContract,
 FileCopy,
 FileCv,
 FileDashedLine,
@@ -1930,6 +1989,9 @@ FileInfo,
 FileInfoAlt,
 FileInfoAlt1,
 FileLink,
+FileLock,
+FileLockAlt,
+FileLockAlt1,
 FileMinus,
 FileMinusAlt,
 FileMinusAlt1,
@@ -1952,6 +2014,9 @@ FilesAlt2,
 FileSearch,
 FileSearchAlt,
 FileSearchAlt1,
+FileShield,
+FileShieldAlt,
+FileShieldAlt1,
 FileShredder,
 FileSlash,
 FileUser,
@@ -1963,7 +2028,10 @@ FileZipper,
 Film,
 FilmAlt,
 FilmSlash,
+Fingerprint,
+FingerprintAlt,
 Fireplace,
+Firewall,
 Flag,
 Flashlight,
 FlaskRoundBlank,
@@ -2092,6 +2160,8 @@ HouseUser,
 HouseWater,
 HouseWifi,
 HouseWindow,
+IdBadge,
+IdCard,
 IdCardClip,
 Image,
 ImageCircle,
@@ -2127,6 +2197,8 @@ Infinity,
 Information,
 InformationAlt,
 JackOLantern,
+Key,
+KeyAlt,
 Keyboard,
 KeyboardAlt,
 KeyboardAlt1,
@@ -2171,6 +2243,8 @@ Lightbulb,
 LightbulbAlt,
 LightbulbExclamation,
 LightbulbExclamationAlt,
+LightEmergency,
+LightEmergencyOn,
 LightsHoliday,
 Link,
 LinkAlt,
@@ -2193,6 +2267,9 @@ LocationPinLock,
 LocationPinSlash,
 LocationPlus,
 LocationXmark,
+Lock,
+LockAlt,
+LockSlash,
 Lollipop,
 Loop,
 LoopVertical,
@@ -2521,6 +2598,7 @@ SatelliteDish,
 ScaleBalanced,
 ScaleUnbalanced,
 ScaleUnbalancedFlip,
+Scan,
 Scarecrow,
 School,
 SchoolFlag,
@@ -2548,7 +2626,21 @@ SensorFire,
 SensorOn,
 SensorTriangleExclamation,
 Server,
+Shield,
+ShieldAlt,
+ShieldAlt1,
 ShieldBolt,
+ShieldCheck,
+ShieldDollar,
+ShieldExclamation,
+ShieldHeart,
+ShieldKeyhole,
+ShieldMinus,
+ShieldPlus,
+ShieldSlash,
+ShieldSlashAlt,
+ShieldSlashAlt1,
+ShieldXmark,
 Shop,
 Shredder,
 Shuffle,
@@ -2625,6 +2717,7 @@ StarExclamation,
 StarSharp,
 StarSharpHalf,
 Stocking,
+Style=Monochrome,
 Subdirectory,
 Suitcase,
 SuitcaseMedical,
@@ -2711,6 +2804,8 @@ Tv,
 TvAlt,
 TvAlt1,
 University,
+Unlock,
+UnlockAlt,
 Upload,
 UsbFlashDrive,
 UsbFlashDriveAlt1,
@@ -2726,6 +2821,9 @@ UserCheckAlt1,
 UserHeart,
 UserHeartAlt,
 UserHeartAlt1,
+UserLock,
+UserLockAlt,
+UserLockAlt1,
 UserMinus,
 UserMinusAlt,
 UserMinusAlt1,
