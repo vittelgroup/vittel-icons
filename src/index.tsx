@@ -1,3 +1,15 @@
+import 0 from "./icons/0";
+import 00 from "./icons/00";
+import 1 from "./icons/1";
+import 100 from "./icons/100";
+import 2 from "./icons/2";
+import 3 from "./icons/3";
+import 4 from "./icons/4";
+import 5 from "./icons/5";
+import 6 from "./icons/6";
+import 7 from "./icons/7";
+import 8 from "./icons/8";
+import 9 from "./icons/9";
 import AddressBook from "./icons/AddressBook";
 import AddressCard from "./icons/AddressCard";
 import Airplay from "./icons/Airplay";
@@ -335,6 +347,16 @@ import ChristmasCandle from "./icons/ChristmasCandle";
 import ChristmasStar from "./icons/ChristmasStar";
 import Church from "./icons/Church";
 import Circle from "./icons/Circle";
+import Circle0 from "./icons/Circle0";
+import Circle1 from "./icons/Circle1";
+import Circle2 from "./icons/Circle2";
+import Circle3 from "./icons/Circle3";
+import Circle4 from "./icons/Circle4";
+import Circle5 from "./icons/Circle5";
+import Circle6 from "./icons/Circle6";
+import Circle7 from "./icons/Circle7";
+import Circle8 from "./icons/Circle8";
+import Circle9 from "./icons/Circle9";
 import CircleBolt from "./icons/CircleBolt";
 import CircleCheck from "./icons/CircleCheck";
 import CircleDashed from "./icons/CircleDashed";
@@ -1440,6 +1462,16 @@ import SpellCheck from "./icons/SpellCheck";
 import Spider from "./icons/Spider";
 import SpiderWidow from "./icons/SpiderWidow";
 import Square from "./icons/Square";
+import Square0 from "./icons/Square0";
+import Square1 from "./icons/Square1";
+import Square2 from "./icons/Square2";
+import Square3 from "./icons/Square3";
+import Square4 from "./icons/Square4";
+import Square5 from "./icons/Square5";
+import Square6 from "./icons/Square6";
+import Square7 from "./icons/Square7";
+import Square8 from "./icons/Square8";
+import Square9 from "./icons/Square9";
 import SquareALock from "./icons/SquareALock";
 import SquareCheck from "./icons/SquareCheck";
 import SquareCode from "./icons/SquareCode";
@@ -1720,6 +1752,18 @@ import XmarkLarge from "./icons/XmarkLarge";
 import YenSign from "./icons/YenSign";
 
 export {
+0,
+00,
+1,
+100,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
 AddressBook,
 AddressCard,
 Airplay,
@@ -2057,6 +2101,16 @@ ChristmasCandle,
 ChristmasStar,
 Church,
 Circle,
+Circle0,
+Circle1,
+Circle2,
+Circle3,
+Circle4,
+Circle5,
+Circle6,
+Circle7,
+Circle8,
+Circle9,
 CircleBolt,
 CircleCheck,
 CircleDashed,
@@ -3162,6 +3216,16 @@ SpellCheck,
 Spider,
 SpiderWidow,
 Square,
+Square0,
+Square1,
+Square2,
+Square3,
+Square4,
+Square5,
+Square6,
+Square7,
+Square8,
+Square9,
 SquareALock,
 SquareCheck,
 SquareCode,
