@@ -65,6 +65,7 @@ import ArrowSmDown from "./icons/ArrowSmDown";
 import ArrowSmLeft from "./icons/ArrowSmLeft";
 import ArrowSmRight from "./icons/ArrowSmRight";
 import ArrowSmUp from "./icons/ArrowSmUp";
+import ArrowSpin from "./icons/ArrowSpin";
 import ArrowSquareDown from "./icons/ArrowSquareDown";
 import ArrowSquareDownLeft from "./icons/ArrowSquareDownLeft";
 import ArrowSquareDownRight from "./icons/ArrowSquareDownRight";
@@ -89,6 +90,7 @@ import ArrowUpShortWide from "./icons/ArrowUpShortWide";
 import ArrowUpSmallBig from "./icons/ArrowUpSmallBig";
 import ArrowUpWideShort from "./icons/ArrowUpWideShort";
 import ArrowUpZA from "./icons/ArrowUpZA";
+import Asterisk from "./icons/Asterisk";
 import Atom from "./icons/Atom";
 import AtSign from "./icons/AtSign";
 import AudioDescription from "./icons/AudioDescription";
@@ -101,6 +103,7 @@ import BackpackAlt from "./icons/BackpackAlt";
 import Backward from "./icons/Backward";
 import BackwardFast from "./icons/BackwardFast";
 import BackwardStep from "./icons/BackwardStep";
+import Badge from "./icons/Badge";
 import BadgeCheck from "./icons/BadgeCheck";
 import BadgeDollar from "./icons/BadgeDollar";
 import BadgePercent from "./icons/BadgePercent";
@@ -246,6 +249,8 @@ import Cauldron from "./icons/Cauldron";
 import Cctv from "./icons/Cctv";
 import CediSign from "./icons/CediSign";
 import CentSign from "./icons/CentSign";
+import Certificate from "./icons/Certificate";
+import CertificateCheck from "./icons/CertificateCheck";
 import ChartArea from "./icons/ChartArea";
 import ChartBar from "./icons/ChartBar";
 import ChartBullet from "./icons/ChartBullet";
@@ -313,6 +318,7 @@ import CircleInformation from "./icons/CircleInformation";
 import CircleLocationArrow from "./icons/CircleLocationArrow";
 import CircleMicrophone from "./icons/CircleMicrophone";
 import CircleMinus from "./icons/CircleMinus";
+import CircleNotch from "./icons/CircleNotch";
 import CircleParking from "./icons/CircleParking";
 import CircleParkingSplash from "./icons/CircleParkingSplash";
 import CirclePause from "./icons/CirclePause";
@@ -392,6 +398,7 @@ import ColonSign from "./icons/ColonSign";
 import Colors from "./icons/Colors";
 import Command from "./icons/Command";
 import CompactDisc from "./icons/CompactDisc";
+import Compass from "./icons/Compass";
 import CompassDrafting from "./icons/CompassDrafting";
 import Compress from "./icons/Compress";
 import CompressAlt from "./icons/CompressAlt";
@@ -420,6 +427,8 @@ import CreditCardPlus from "./icons/CreditCardPlus";
 import CreditCardScan from "./icons/CreditCardScan";
 import Crop from "./icons/Crop";
 import CropSimple from "./icons/CropSimple";
+import Crosshair from "./icons/Crosshair";
+import CrosshairSimple from "./icons/CrosshairSimple";
 import Crow from "./icons/Crow";
 import Crown from "./icons/Crown";
 import CruzeiroSign from "./icons/CruzeiroSign";
@@ -643,6 +652,8 @@ import Gauge from "./icons/Gauge";
 import GaugeHigh from "./icons/GaugeHigh";
 import GaugeLow from "./icons/GaugeLow";
 import GaugeMax from "./icons/GaugeMax";
+import Gear from "./icons/Gear";
+import GearAlt from "./icons/GearAlt";
 import Gem from "./icons/Gem";
 import GemAlt from "./icons/GemAlt";
 import Ghost from "./icons/Ghost";
@@ -825,6 +836,7 @@ import LinkSlash from "./icons/LinkSlash";
 import LinkSlashAlt from "./icons/LinkSlashAlt";
 import LiraSign from "./icons/LiraSign";
 import ListMusic from "./icons/ListMusic";
+import Loader from "./icons/Loader";
 import LocationArrow from "./icons/LocationArrow";
 import LocationArrowAlt from "./icons/LocationArrowAlt";
 import LocationCheck from "./icons/LocationCheck";
@@ -1045,6 +1057,7 @@ import OrnamentAlt from "./icons/OrnamentAlt";
 import PaintBrush from "./icons/PaintBrush";
 import PaintBrushAlt from "./icons/PaintBrushAlt";
 import PaintRoller from "./icons/PaintRoller";
+import Palette from "./icons/Palette";
 import Paperclip from "./icons/Paperclip";
 import PaperclipAlt from "./icons/PaperclipAlt";
 import PaperclipSlash from "./icons/PaperclipSlash";
@@ -1247,6 +1260,8 @@ import Skull from "./icons/Skull";
 import SkullAlt from "./icons/SkullAlt";
 import SkullAlt1 from "./icons/SkullAlt1";
 import SkullCrossbones from "./icons/SkullCrossbones";
+import Slash from "./icons/Slash";
+import SlashFlip from "./icons/SlashFlip";
 import Sleigh from "./icons/Sleigh";
 import Sliders from "./icons/Sliders";
 import SlidersSimple from "./icons/SlidersSimple";
@@ -1392,6 +1407,7 @@ import Trophy from "./icons/Trophy";
 import Truck from "./icons/Truck";
 import TughrikSign from "./icons/TughrikSign";
 import TurkishLiraSign from "./icons/TurkishLiraSign";
+import TurnOff from "./icons/TurnOff";
 import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
 import TvAlt1 from "./icons/TvAlt1";
@@ -1567,6 +1583,7 @@ ArrowSmDown,
 ArrowSmLeft,
 ArrowSmRight,
 ArrowSmUp,
+ArrowSpin,
 ArrowSquareDown,
 ArrowSquareDownLeft,
 ArrowSquareDownRight,
@@ -1591,6 +1608,7 @@ ArrowUpShortWide,
 ArrowUpSmallBig,
 ArrowUpWideShort,
 ArrowUpZA,
+Asterisk,
 Atom,
 AtSign,
 AudioDescription,
@@ -1603,6 +1621,7 @@ BackpackAlt,
 Backward,
 BackwardFast,
 BackwardStep,
+Badge,
 BadgeCheck,
 BadgeDollar,
 BadgePercent,
@@ -1748,6 +1767,8 @@ Cauldron,
 Cctv,
 CediSign,
 CentSign,
+Certificate,
+CertificateCheck,
 ChartArea,
 ChartBar,
 ChartBullet,
@@ -1815,6 +1836,7 @@ CircleInformation,
 CircleLocationArrow,
 CircleMicrophone,
 CircleMinus,
+CircleNotch,
 CircleParking,
 CircleParkingSplash,
 CirclePause,
@@ -1894,6 +1916,7 @@ ColonSign,
 Colors,
 Command,
 CompactDisc,
+Compass,
 CompassDrafting,
 Compress,
 CompressAlt,
@@ -1922,6 +1945,8 @@ CreditCardPlus,
 CreditCardScan,
 Crop,
 CropSimple,
+Crosshair,
+CrosshairSimple,
 Crow,
 Crown,
 CruzeiroSign,
@@ -2145,6 +2170,8 @@ Gauge,
 GaugeHigh,
 GaugeLow,
 GaugeMax,
+Gear,
+GearAlt,
 Gem,
 GemAlt,
 Ghost,
@@ -2327,6 +2354,7 @@ LinkSlash,
 LinkSlashAlt,
 LiraSign,
 ListMusic,
+Loader,
 LocationArrow,
 LocationArrowAlt,
 LocationCheck,
@@ -2547,6 +2575,7 @@ OrnamentAlt,
 PaintBrush,
 PaintBrushAlt,
 PaintRoller,
+Palette,
 Paperclip,
 PaperclipAlt,
 PaperclipSlash,
@@ -2749,6 +2778,8 @@ Skull,
 SkullAlt,
 SkullAlt1,
 SkullCrossbones,
+Slash,
+SlashFlip,
 Sleigh,
 Sliders,
 SlidersSimple,
@@ -2894,6 +2925,7 @@ Trophy,
 Truck,
 TughrikSign,
 TurkishLiraSign,
+TurnOff,
 Tv,
 TvAlt,
 TvAlt1,
