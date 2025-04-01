@@ -10,6 +10,7 @@ import 6 from "./icons/6";
 import 7 from "./icons/7";
 import 8 from "./icons/8";
 import 9 from "./icons/9";
+import AceSmileTear from "./icons/AceSmileTear";
 import AddressBook from "./icons/AddressBook";
 import AddressCard from "./icons/AddressCard";
 import Airplay from "./icons/Airplay";
@@ -641,9 +642,75 @@ import EyeDropperFull from "./icons/EyeDropperFull";
 import EyeDropperHalf from "./icons/EyeDropperHalf";
 import EyeSlash from "./icons/EyeSlash";
 import EyeSlashAlt from "./icons/EyeSlashAlt";
+import FaceAngry from "./icons/FaceAngry";
+import FaceAstonished from "./icons/FaceAstonished";
+import FaceConfounded from "./icons/FaceConfounded";
+import FaceConfused from "./icons/FaceConfused";
+import FaceDiagonalMouth from "./icons/FaceDiagonalMouth";
+import FaceDisappointed from "./icons/FaceDisappointed";
+import FaceDizzy from "./icons/FaceDizzy";
+import FaceDotted from "./icons/FaceDotted";
+import FaceDowncastSweat from "./icons/FaceDowncastSweat";
+import FaceDrooling from "./icons/FaceDrooling";
+import FaceExpressionless from "./icons/FaceExpressionless";
+import FaceEyesXmarks from "./icons/FaceEyesXmarks";
 import FaceFrown from "./icons/FaceFrown";
+import FaceFrownOpen from "./icons/FaceFrownOpen";
+import FaceFrownSlight from "./icons/FaceFrownSlight";
+import FaceGlasses from "./icons/FaceGlasses";
+import FaceGrimace from "./icons/FaceGrimace";
+import FaceGrin from "./icons/FaceGrin";
+import FaceGrinBeam from "./icons/FaceGrinBeam";
+import FaceGrinBeamSweat from "./icons/FaceGrinBeamSweat";
+import FaceGrinHearts from "./icons/FaceGrinHearts";
+import FaceGrinSquint from "./icons/FaceGrinSquint";
+import FaceGrinStars from "./icons/FaceGrinStars";
+import FaceGrinTongue from "./icons/FaceGrinTongue";
+import FaceGrinTongueSquint from "./icons/FaceGrinTongueSquint";
+import FaceGrinTongueWink from "./icons/FaceGrinTongueWink";
+import FaceGrinWide from "./icons/FaceGrinWide";
+import FaceGrinWink from "./icons/FaceGrinWink";
+import FaceHushed from "./icons/FaceHushed";
 import FaceId from "./icons/FaceId";
+import FaceKiss from "./icons/FaceKiss";
+import FaceKissBeam from "./icons/FaceKissBeam";
+import FaceKissClosedEyes from "./icons/FaceKissClosedEyes";
+import FaceKissWinkHeart from "./icons/FaceKissWinkHeart";
+import FaceLaugh from "./icons/FaceLaugh";
+import FaceLaughBeam from "./icons/FaceLaughBeam";
+import FaceLaughSquint from "./icons/FaceLaughSquint";
+import FaceLaughWink from "./icons/FaceLaughWink";
+import FaceLying from "./icons/FaceLying";
+import FaceMask from "./icons/FaceMask";
+import FaceMeh from "./icons/FaceMeh";
+import FaceMehBlank from "./icons/FaceMehBlank";
+import FaceMelting from "./icons/FaceMelting";
+import FaceNauseated from "./icons/FaceNauseated";
+import FacePensive from "./icons/FacePensive";
+import FacePersevering from "./icons/FacePersevering";
+import FacePouting from "./icons/FacePouting";
+import FaceRaisedEyebrow from "./icons/FaceRaisedEyebrow";
+import FaceRelieved from "./icons/FaceRelieved";
+import FaceRollingEyes from "./icons/FaceRollingEyes";
+import FaceSadCry from "./icons/FaceSadCry";
+import FaceSleeping from "./icons/FaceSleeping";
 import FaceSmile from "./icons/FaceSmile";
+import FaceSmileBeam from "./icons/FaceSmileBeam";
+import FaceSmileHalo from "./icons/FaceSmileHalo";
+import FaceSmileRelaxed from "./icons/FaceSmileRelaxed";
+import FaceSmileTongue from "./icons/FaceSmileTongue";
+import FaceSmileUpsideDown from "./icons/FaceSmileUpsideDown";
+import FaceSmileWink from "./icons/FaceSmileWink";
+import FaceSmirking from "./icons/FaceSmirking";
+import FaceSunglasses from "./icons/FaceSunglasses";
+import FaceSurprise from "./icons/FaceSurprise";
+import FaceTired from "./icons/FaceTired";
+import FaceUnamused from "./icons/FaceUnamused";
+import FaceVomit from "./icons/FaceVomit";
+import FaceWeary from "./icons/FaceWeary";
+import FaceWoozy from "./icons/FaceWoozy";
+import FaceWorried from "./icons/FaceWorried";
+import FaceZipper from "./icons/FaceZipper";
 import Farm from "./icons/Farm";
 import Fence from "./icons/Fence";
 import FerrisWheel from "./icons/FerrisWheel";
@@ -1783,6 +1850,7 @@ export {
 7,
 8,
 9,
+AceSmileTear,
 AddressBook,
 AddressCard,
 Airplay,
@@ -2414,9 +2482,75 @@ EyeDropperFull,
 EyeDropperHalf,
 EyeSlash,
 EyeSlashAlt,
+FaceAngry,
+FaceAstonished,
+FaceConfounded,
+FaceConfused,
+FaceDiagonalMouth,
+FaceDisappointed,
+FaceDizzy,
+FaceDotted,
+FaceDowncastSweat,
+FaceDrooling,
+FaceExpressionless,
+FaceEyesXmarks,
 FaceFrown,
+FaceFrownOpen,
+FaceFrownSlight,
+FaceGlasses,
+FaceGrimace,
+FaceGrin,
+FaceGrinBeam,
+FaceGrinBeamSweat,
+FaceGrinHearts,
+FaceGrinSquint,
+FaceGrinStars,
+FaceGrinTongue,
+FaceGrinTongueSquint,
+FaceGrinTongueWink,
+FaceGrinWide,
+FaceGrinWink,
+FaceHushed,
 FaceId,
+FaceKiss,
+FaceKissBeam,
+FaceKissClosedEyes,
+FaceKissWinkHeart,
+FaceLaugh,
+FaceLaughBeam,
+FaceLaughSquint,
+FaceLaughWink,
+FaceLying,
+FaceMask,
+FaceMeh,
+FaceMehBlank,
+FaceMelting,
+FaceNauseated,
+FacePensive,
+FacePersevering,
+FacePouting,
+FaceRaisedEyebrow,
+FaceRelieved,
+FaceRollingEyes,
+FaceSadCry,
+FaceSleeping,
 FaceSmile,
+FaceSmileBeam,
+FaceSmileHalo,
+FaceSmileRelaxed,
+FaceSmileTongue,
+FaceSmileUpsideDown,
+FaceSmileWink,
+FaceSmirking,
+FaceSunglasses,
+FaceSurprise,
+FaceTired,
+FaceUnamused,
+FaceVomit,
+FaceWeary,
+FaceWoozy,
+FaceWorried,
+FaceZipper,
 Farm,
 Fence,
 FerrisWheel,
