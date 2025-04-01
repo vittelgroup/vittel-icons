@@ -5,6 +5,16 @@ import Airpods from "./icons/Airpods";
 import AirpodsAlt from "./icons/AirpodsAlt";
 import Album from "./icons/Album";
 import AlbumCollection from "./icons/AlbumCollection";
+import AlignAlt from "./icons/AlignAlt";
+import AlignCenter from "./icons/AlignCenter";
+import AlignCenterAlt from "./icons/AlignCenterAlt";
+import AlignCenterJustify from "./icons/AlignCenterJustify";
+import AlignJustify from "./icons/AlignJustify";
+import AlignLeft from "./icons/AlignLeft";
+import AlignLeftJustify from "./icons/AlignLeftJustify";
+import AlignLetterRight from "./icons/AlignLetterRight";
+import AlignRight from "./icons/AlignRight";
+import AlignRightJustify from "./icons/AlignRightJustify";
 import Anchor from "./icons/Anchor";
 import Angel from "./icons/Angel";
 import Annotation from "./icons/Annotation";
@@ -132,6 +142,7 @@ import BitcoinSign from "./icons/BitcoinSign";
 import BluetoothOn from "./icons/BluetoothOn";
 import BluetoothSignal from "./icons/BluetoothSignal";
 import BluetoothSlash from "./icons/BluetoothSlash";
+import Bold from "./icons/Bold";
 import Bolt from "./icons/Bolt";
 import Bones from "./icons/Bones";
 import Book from "./icons/Book";
@@ -141,6 +152,16 @@ import BookSection from "./icons/BookSection";
 import BookSparkles from "./icons/BookSparkles";
 import BookUser from "./icons/BookUser";
 import Boombox from "./icons/Boombox";
+import BorderBottom from "./icons/BorderBottom";
+import BorderClear from "./icons/BorderClear";
+import BorderHorizontal from "./icons/BorderHorizontal";
+import BorderInner from "./icons/BorderInner";
+import BorderLeft from "./icons/BorderLeft";
+import BorderOuter from "./icons/BorderOuter";
+import BorderRight from "./icons/BorderRight";
+import BorderTop from "./icons/BorderTop";
+import BorderTopLeft from "./icons/BorderTopLeft";
+import BorderVertical from "./icons/BorderVertical";
 import BoxArchive from "./icons/BoxArchive";
 import BracketCurly from "./icons/BracketCurly";
 import BracketCurlyRight from "./icons/BracketCurlyRight";
@@ -276,6 +297,8 @@ import ChartSimpleHorizontal from "./icons/ChartSimpleHorizontal";
 import ChartTreeMap from "./icons/ChartTreeMap";
 import ChartUserSquare from "./icons/ChartUserSquare";
 import ChartWaterfall from "./icons/ChartWaterfall";
+import Check from "./icons/Check";
+import CheckDouble from "./icons/CheckDouble";
 import ChevronDown from "./icons/ChevronDown";
 import ChevronDownDot from "./icons/ChevronDownDot";
 import ChevronDownDouble from "./icons/ChevronDownDouble";
@@ -304,6 +327,7 @@ import ChristmasStar from "./icons/ChristmasStar";
 import Church from "./icons/Church";
 import Circle from "./icons/Circle";
 import CircleBolt from "./icons/CircleBolt";
+import CircleCheck from "./icons/CircleCheck";
 import CircleDashed from "./icons/CircleDashed";
 import CircleDollar from "./icons/CircleDollar";
 import CircleDollarToSlot from "./icons/CircleDollarToSlot";
@@ -396,6 +420,8 @@ import CoinsAlt from "./icons/CoinsAlt";
 import CoinVertical from "./icons/CoinVertical";
 import ColonSign from "./icons/ColonSign";
 import Colors from "./icons/Colors";
+import Columns2 from "./icons/Columns2";
+import Columns3 from "./icons/Columns3";
 import Command from "./icons/Command";
 import CompactDisc from "./icons/CompactDisc";
 import Compass from "./icons/Compass";
@@ -463,6 +489,8 @@ import DialMed from "./icons/DialMed";
 import DialMedLow from "./icons/DialMedLow";
 import DialMin from "./icons/DialMin";
 import DialOff from "./icons/DialOff";
+import DialpadCircle from "./icons/DialpadCircle";
+import DialpadSquare from "./icons/DialpadSquare";
 import Diamond from "./icons/Diamond";
 import DiamondExclamation from "./icons/DiamondExclamation";
 import DiamondTurnRight from "./icons/DiamondTurnRight";
@@ -481,6 +509,9 @@ import DistributeSpacingHorizontalAlt from "./icons/DistributeSpacingHorizontalA
 import DistributeSpacingVertical from "./icons/DistributeSpacingVertical";
 import DistributeSpacingVerticalAlt from "./icons/DistributeSpacingVerticalAlt";
 import Dna from "./icons/Dna";
+import DocumentLayoutCenter from "./icons/DocumentLayoutCenter";
+import DocumentLayoutLeft from "./icons/DocumentLayoutLeft";
+import DocumentLayoutRight from "./icons/DocumentLayoutRight";
 import DollarCircleList from "./icons/DollarCircleList";
 import DollarSign from "./icons/DollarSign";
 import DongSign from "./icons/DongSign";
@@ -499,6 +530,7 @@ import Drone from "./icons/Drone";
 import Drum from "./icons/Drum";
 import Engine from "./icons/Engine";
 import EngineWarning from "./icons/EngineWarning";
+import EnglishToChinese from "./icons/EnglishToChinese";
 import Enter from "./icons/Enter";
 import EuroCircle from "./icons/EuroCircle";
 import EuroSign from "./icons/EuroSign";
@@ -603,6 +635,10 @@ import FileZipper from "./icons/FileZipper";
 import Film from "./icons/Film";
 import FilmAlt from "./icons/FilmAlt";
 import FilmSlash from "./icons/FilmSlash";
+import Filter from "./icons/Filter";
+import FilterList from "./icons/FilterList";
+import FilterSlash from "./icons/FilterSlash";
+import FilterXmark from "./icons/FilterXmark";
 import Fingerprint from "./icons/Fingerprint";
 import FingerprintAlt from "./icons/FingerprintAlt";
 import Fireplace from "./icons/Fireplace";
@@ -636,6 +672,8 @@ import FolderSearch from "./icons/FolderSearch";
 import FolderShield from "./icons/FolderShield";
 import FolderUser from "./icons/FolderUser";
 import FolderXmark from "./icons/FolderXmark";
+import Font from "./icons/Font";
+import FontCase from "./icons/FontCase";
 import ForkKnife from "./icons/ForkKnife";
 import ForkSpoon from "./icons/ForkSpoon";
 import Forward from "./icons/Forward";
@@ -682,6 +720,8 @@ import GripDots from "./icons/GripDots";
 import GripDotsVertical from "./icons/GripDotsVertical";
 import GripLines from "./icons/GripLines";
 import GripLinesVertical from "./icons/GripLinesVertical";
+import H1 from "./icons/H1";
+import H2 from "./icons/H2";
 import HalloweenCalendar from "./icons/HalloweenCalendar";
 import HalloweenCalendarAlt from "./icons/HalloweenCalendarAlt";
 import HalloweenCalendarBat from "./icons/HalloweenCalendarBat";
@@ -690,9 +730,12 @@ import HalloweenMail from "./icons/HalloweenMail";
 import HalloweenMailAlt from "./icons/HalloweenMailAlt";
 import Handshake from "./icons/Handshake";
 import HardDrive from "./icons/HardDrive";
+import Hashtag from "./icons/Hashtag";
+import HashtagLock from "./icons/HashtagLock";
 import HatWitch from "./icons/HatWitch";
 import HatWizard from "./icons/HatWizard";
 import HatWizardAlt from "./icons/HatWizardAlt";
+import Heading from "./icons/Heading";
 import Headphones from "./icons/Headphones";
 import HeadphonesAlt from "./icons/HeadphonesAlt";
 import HeadphonesAlt1 from "./icons/HeadphonesAlt1";
@@ -710,6 +753,7 @@ import HexagonExclamation from "./icons/HexagonExclamation";
 import HexagonImage from "./icons/HexagonImage";
 import HighDefinition from "./icons/HighDefinition";
 import HockeyMask from "./icons/HockeyMask";
+import HorizontalRule from "./icons/HorizontalRule";
 import Hospital from "./icons/Hospital";
 import Hospitals from "./icons/Hospitals";
 import HospitalUser from "./icons/HospitalUser";
@@ -742,6 +786,7 @@ import HouseUser from "./icons/HouseUser";
 import HouseWater from "./icons/HouseWater";
 import HouseWifi from "./icons/HouseWifi";
 import HouseWindow from "./icons/HouseWindow";
+import ICursor from "./icons/ICursor";
 import IdBadge from "./icons/IdBadge";
 import IdCard from "./icons/IdCard";
 import IdCardClip from "./icons/IdCardClip";
@@ -773,12 +818,15 @@ import InboxMinus from "./icons/InboxMinus";
 import InboxPlus from "./icons/InboxPlus";
 import InboxStar from "./icons/InboxStar";
 import InboxXmark from "./icons/InboxXmark";
+import Indent from "./icons/Indent";
 import Industry from "./icons/Industry";
 import IndustryWindows from "./icons/IndustryWindows";
 import Infinity from "./icons/Infinity";
 import Information from "./icons/Information";
 import InformationAlt from "./icons/InformationAlt";
+import Italic from "./icons/Italic";
 import JackOLantern from "./icons/JackOLantern";
+import Kerning from "./icons/Kerning";
 import Key from "./icons/Key";
 import KeyAlt from "./icons/KeyAlt";
 import Keyboard from "./icons/Keyboard";
@@ -820,6 +868,11 @@ import LaptopXmarkAlt from "./icons/LaptopXmarkAlt";
 import Lasso from "./icons/Lasso";
 import LassoSparkles from "./icons/LassoSparkles";
 import LayerGroup from "./icons/LayerGroup";
+import LeftIndent from "./icons/LeftIndent";
+import LeftToRightTextDirection from "./icons/LeftToRightTextDirection";
+import LetterChineseA from "./icons/LetterChineseA";
+import LetterEnglishA from "./icons/LetterEnglishA";
+import LetterJapaneseA from "./icons/LetterJapaneseA";
 import LifeRing from "./icons/LifeRing";
 import Lightbulb from "./icons/Lightbulb";
 import LightbulbAlt from "./icons/LightbulbAlt";
@@ -828,6 +881,8 @@ import LightbulbExclamationAlt from "./icons/LightbulbExclamationAlt";
 import LightEmergency from "./icons/LightEmergency";
 import LightEmergencyOn from "./icons/LightEmergencyOn";
 import LightsHoliday from "./icons/LightsHoliday";
+import LineColumns from "./icons/LineColumns";
+import LineHeight from "./icons/LineHeight";
 import LinesLeaning from "./icons/LinesLeaning";
 import Link from "./icons/Link";
 import LinkAlt from "./icons/LinkAlt";
@@ -835,7 +890,13 @@ import LinkAlt1 from "./icons/LinkAlt1";
 import LinkSlash from "./icons/LinkSlash";
 import LinkSlashAlt from "./icons/LinkSlashAlt";
 import LiraSign from "./icons/LiraSign";
+import List from "./icons/List";
+import ListCheck from "./icons/ListCheck";
 import ListMusic from "./icons/ListMusic";
+import ListOl from "./icons/ListOl";
+import ListUl from "./icons/ListUl";
+import ListUlAlt from "./icons/ListUlAlt";
+import ListUlAlt1 from "./icons/ListUlAlt1";
 import Loader from "./icons/Loader";
 import LocationArrow from "./icons/LocationArrow";
 import LocationArrowAlt from "./icons/LocationArrowAlt";
@@ -852,7 +913,9 @@ import LocationPinSlash from "./icons/LocationPinSlash";
 import LocationPlus from "./icons/LocationPlus";
 import LocationXmark from "./icons/LocationXmark";
 import Lock from "./icons/Lock";
+import LockA from "./icons/LockA";
 import LockAlt from "./icons/LockAlt";
+import LockHashtag from "./icons/LockHashtag";
 import LockSlash from "./icons/LockSlash";
 import Lollipop from "./icons/Lollipop";
 import Loop from "./icons/Loop";
@@ -911,6 +974,10 @@ import MemoPencil from "./icons/MemoPencil";
 import Menorah from "./icons/Menorah";
 import MenorahAlt from "./icons/MenorahAlt";
 import MenorahAlt1 from "./icons/MenorahAlt1";
+import Menu from "./icons/Menu";
+import MenuAlt from "./icons/MenuAlt";
+import MenuAlt1 from "./icons/MenuAlt1";
+import MenuAlt2 from "./icons/MenuAlt2";
 import MessageCircle from "./icons/MessageCircle";
 import MessageCircleArrowDown from "./icons/MessageCircleArrowDown";
 import MessageCircleArrowUp from "./icons/MessageCircleArrowUp";
@@ -1024,6 +1091,8 @@ import MouseAlt4 from "./icons/MouseAlt4";
 import MouseAlt5 from "./icons/MouseAlt5";
 import Move from "./icons/Move";
 import MoveAlt from "./icons/MoveAlt";
+import MoveLeft from "./icons/MoveLeft";
+import MoveRight from "./icons/MoveRight";
 import Mp3Player from "./icons/Mp3Player";
 import MugSauser from "./icons/MugSauser";
 import Music from "./icons/Music";
@@ -1054,6 +1123,7 @@ import OctagonExclamation from "./icons/OctagonExclamation";
 import OilWell from "./icons/OilWell";
 import Ornament from "./icons/Ornament";
 import OrnamentAlt from "./icons/OrnamentAlt";
+import Overline from "./icons/Overline";
 import PaintBrush from "./icons/PaintBrush";
 import PaintBrushAlt from "./icons/PaintBrushAlt";
 import PaintRoller from "./icons/PaintRoller";
@@ -1062,6 +1132,7 @@ import Paperclip from "./icons/Paperclip";
 import PaperclipAlt from "./icons/PaperclipAlt";
 import PaperclipSlash from "./icons/PaperclipSlash";
 import PaperclipSlashAlt from "./icons/PaperclipSlashAlt";
+import Paragraph from "./icons/Paragraph";
 import PartyBell from "./icons/PartyBell";
 import PartyHorn from "./icons/PartyHorn";
 import Pause from "./icons/Pause";
@@ -1166,8 +1237,11 @@ import RefreshCwAlt3 from "./icons/RefreshCwAlt3";
 import RefreshCwAlt4 from "./icons/RefreshCwAlt4";
 import RepeatAlt from "./icons/RepeatAlt";
 import Reply from "./icons/Reply";
+import ResizeHandle from "./icons/ResizeHandle";
 import RestaurantMenu from "./icons/RestaurantMenu";
 import Rhombus from "./icons/Rhombus";
+import RightIndent from "./icons/RightIndent";
+import RightToLeftTextDirection from "./icons/RightToLeftTextDirection";
 import Rocket from "./icons/Rocket";
 import RockingHorse from "./icons/RockingHorse";
 import RollerCoaster from "./icons/RollerCoaster";
@@ -1238,6 +1312,7 @@ import Shredder from "./icons/Shredder";
 import Shuffle from "./icons/Shuffle";
 import Sidebar from "./icons/Sidebar";
 import SidebarFlip from "./icons/SidebarFlip";
+import Sigma from "./icons/Sigma";
 import Signal from "./icons/Signal";
 import SignalFair from "./icons/SignalFair";
 import SignalGood from "./icons/SignalGood";
@@ -1269,15 +1344,20 @@ import SlidersUp from "./icons/SlidersUp";
 import Snowman from "./icons/Snowman";
 import SnowmanHead from "./icons/SnowmanHead";
 import Sort from "./icons/Sort";
+import SortAmountDown from "./icons/SortAmountDown";
+import SortAmountUp from "./icons/SortAmountUp";
 import SortDown from "./icons/SortDown";
 import SortUp from "./icons/SortUp";
 import Sparkles from "./icons/Sparkles";
 import Speaker from "./icons/Speaker";
 import SpeakerAlt from "./icons/SpeakerAlt";
 import SpeakerAlt1 from "./icons/SpeakerAlt1";
+import SpellCheck from "./icons/SpellCheck";
 import Spider from "./icons/Spider";
 import SpiderWidow from "./icons/SpiderWidow";
 import Square from "./icons/Square";
+import SquareALock from "./icons/SquareALock";
+import SquareCheck from "./icons/SquareCheck";
 import SquareCode from "./icons/SquareCode";
 import SquareCv from "./icons/SquareCv";
 import SquareDashed from "./icons/SquareDashed";
@@ -1289,6 +1369,7 @@ import SquareDotsVertical from "./icons/SquareDotsVertical";
 import SquareExclamation from "./icons/SquareExclamation";
 import SquareH from "./icons/SquareH";
 import SquareKanban from "./icons/SquareKanban";
+import SquareList from "./icons/SquareList";
 import SquareMedical from "./icons/SquareMedical";
 import SquareMinus from "./icons/SquareMinus";
 import SquareParking from "./icons/SquareParking";
@@ -1322,15 +1403,27 @@ import Stars from "./icons/Stars";
 import StarSharp from "./icons/StarSharp";
 import StarSharpHalf from "./icons/StarSharpHalf";
 import Stocking from "./icons/Stocking";
+import Strikethrough from "./icons/Strikethrough";
 import Style=Monochrome from "./icons/Style=Monochrome";
 import Subdirectory from "./icons/Subdirectory";
+import Subscript from "./icons/Subscript";
 import Suitcase from "./icons/Suitcase";
 import SuitcaseMedical from "./icons/SuitcaseMedical";
 import Sun from "./icons/Sun";
 import SunAlt from "./icons/SunAlt";
+import Superscript from "./icons/Superscript";
 import Swatchbook from "./icons/Swatchbook";
 import SwitchHorizontal from "./icons/SwitchHorizontal";
 import SwitchVertical from "./icons/SwitchVertical";
+import Table from "./icons/Table";
+import TableAlt from "./icons/TableAlt";
+import TableCells from "./icons/TableCells";
+import TableCellsLarge from "./icons/TableCellsLarge";
+import TableColumns from "./icons/TableColumns";
+import TableLayout from "./icons/TableLayout";
+import TableList from "./icons/TableList";
+import TableListAlt from "./icons/TableListAlt";
+import TableRows from "./icons/TableRows";
 import Tablet from "./icons/Tablet";
 import TabletAlt from "./icons/TabletAlt";
 import TabletAlt1 from "./icons/TabletAlt1";
@@ -1349,6 +1442,10 @@ import TentArrowsDown from "./icons/TentArrowsDown";
 import TentArrowTurnLeft from "./icons/TentArrowTurnLeft";
 import Tents from "./icons/Tents";
 import Terminal from "./icons/Terminal";
+import Text from "./icons/Text";
+import TextHeight from "./icons/TextHeight";
+import TextSize from "./icons/TextSize";
+import TextWidth from "./icons/TextWidth";
 import Thermometer from "./icons/Thermometer";
 import Thumbtack from "./icons/Thumbtack";
 import TicketSimple from "./icons/TicketSimple";
@@ -1411,6 +1508,7 @@ import TurnOff from "./icons/TurnOff";
 import Tv from "./icons/Tv";
 import TvAlt from "./icons/TvAlt";
 import TvAlt1 from "./icons/TvAlt1";
+import Underline from "./icons/Underline";
 import University from "./icons/University";
 import Unlock from "./icons/Unlock";
 import UnlockAlt from "./icons/UnlockAlt";
@@ -1523,6 +1621,16 @@ Airpods,
 AirpodsAlt,
 Album,
 AlbumCollection,
+AlignAlt,
+AlignCenter,
+AlignCenterAlt,
+AlignCenterJustify,
+AlignJustify,
+AlignLeft,
+AlignLeftJustify,
+AlignLetterRight,
+AlignRight,
+AlignRightJustify,
 Anchor,
 Angel,
 Annotation,
@@ -1650,6 +1758,7 @@ BitcoinSign,
 BluetoothOn,
 BluetoothSignal,
 BluetoothSlash,
+Bold,
 Bolt,
 Bones,
 Book,
@@ -1659,6 +1768,16 @@ BookSection,
 BookSparkles,
 BookUser,
 Boombox,
+BorderBottom,
+BorderClear,
+BorderHorizontal,
+BorderInner,
+BorderLeft,
+BorderOuter,
+BorderRight,
+BorderTop,
+BorderTopLeft,
+BorderVertical,
 BoxArchive,
 BracketCurly,
 BracketCurlyRight,
@@ -1794,6 +1913,8 @@ ChartSimpleHorizontal,
 ChartTreeMap,
 ChartUserSquare,
 ChartWaterfall,
+Check,
+CheckDouble,
 ChevronDown,
 ChevronDownDot,
 ChevronDownDouble,
@@ -1822,6 +1943,7 @@ ChristmasStar,
 Church,
 Circle,
 CircleBolt,
+CircleCheck,
 CircleDashed,
 CircleDollar,
 CircleDollarToSlot,
@@ -1914,6 +2036,8 @@ CoinsAlt,
 CoinVertical,
 ColonSign,
 Colors,
+Columns2,
+Columns3,
 Command,
 CompactDisc,
 Compass,
@@ -1981,6 +2105,8 @@ DialMed,
 DialMedLow,
 DialMin,
 DialOff,
+DialpadCircle,
+DialpadSquare,
 Diamond,
 DiamondExclamation,
 DiamondTurnRight,
@@ -1999,6 +2125,9 @@ DistributeSpacingHorizontalAlt,
 DistributeSpacingVertical,
 DistributeSpacingVerticalAlt,
 Dna,
+DocumentLayoutCenter,
+DocumentLayoutLeft,
+DocumentLayoutRight,
 DollarCircleList,
 DollarSign,
 DongSign,
@@ -2017,6 +2146,7 @@ Drone,
 Drum,
 Engine,
 EngineWarning,
+EnglishToChinese,
 Enter,
 EuroCircle,
 EuroSign,
@@ -2121,6 +2251,10 @@ FileZipper,
 Film,
 FilmAlt,
 FilmSlash,
+Filter,
+FilterList,
+FilterSlash,
+FilterXmark,
 Fingerprint,
 FingerprintAlt,
 Fireplace,
@@ -2154,6 +2288,8 @@ FolderSearch,
 FolderShield,
 FolderUser,
 FolderXmark,
+Font,
+FontCase,
 ForkKnife,
 ForkSpoon,
 Forward,
@@ -2200,6 +2336,8 @@ GripDots,
 GripDotsVertical,
 GripLines,
 GripLinesVertical,
+H1,
+H2,
 HalloweenCalendar,
 HalloweenCalendarAlt,
 HalloweenCalendarBat,
@@ -2208,9 +2346,12 @@ HalloweenMail,
 HalloweenMailAlt,
 Handshake,
 HardDrive,
+Hashtag,
+HashtagLock,
 HatWitch,
 HatWizard,
 HatWizardAlt,
+Heading,
 Headphones,
 HeadphonesAlt,
 HeadphonesAlt1,
@@ -2228,6 +2369,7 @@ HexagonExclamation,
 HexagonImage,
 HighDefinition,
 HockeyMask,
+HorizontalRule,
 Hospital,
 Hospitals,
 HospitalUser,
@@ -2260,6 +2402,7 @@ HouseUser,
 HouseWater,
 HouseWifi,
 HouseWindow,
+ICursor,
 IdBadge,
 IdCard,
 IdCardClip,
@@ -2291,12 +2434,15 @@ InboxMinus,
 InboxPlus,
 InboxStar,
 InboxXmark,
+Indent,
 Industry,
 IndustryWindows,
 Infinity,
 Information,
 InformationAlt,
+Italic,
 JackOLantern,
+Kerning,
 Key,
 KeyAlt,
 Keyboard,
@@ -2338,6 +2484,11 @@ LaptopXmarkAlt,
 Lasso,
 LassoSparkles,
 LayerGroup,
+LeftIndent,
+LeftToRightTextDirection,
+LetterChineseA,
+LetterEnglishA,
+LetterJapaneseA,
 LifeRing,
 Lightbulb,
 LightbulbAlt,
@@ -2346,6 +2497,8 @@ LightbulbExclamationAlt,
 LightEmergency,
 LightEmergencyOn,
 LightsHoliday,
+LineColumns,
+LineHeight,
 LinesLeaning,
 Link,
 LinkAlt,
@@ -2353,7 +2506,13 @@ LinkAlt1,
 LinkSlash,
 LinkSlashAlt,
 LiraSign,
+List,
+ListCheck,
 ListMusic,
+ListOl,
+ListUl,
+ListUlAlt,
+ListUlAlt1,
 Loader,
 LocationArrow,
 LocationArrowAlt,
@@ -2370,7 +2529,9 @@ LocationPinSlash,
 LocationPlus,
 LocationXmark,
 Lock,
+LockA,
 LockAlt,
+LockHashtag,
 LockSlash,
 Lollipop,
 Loop,
@@ -2429,6 +2590,10 @@ MemoPencil,
 Menorah,
 MenorahAlt,
 MenorahAlt1,
+Menu,
+MenuAlt,
+MenuAlt1,
+MenuAlt2,
 MessageCircle,
 MessageCircleArrowDown,
 MessageCircleArrowUp,
@@ -2542,6 +2707,8 @@ MouseAlt4,
 MouseAlt5,
 Move,
 MoveAlt,
+MoveLeft,
+MoveRight,
 Mp3Player,
 MugSauser,
 Music,
@@ -2572,6 +2739,7 @@ OctagonExclamation,
 OilWell,
 Ornament,
 OrnamentAlt,
+Overline,
 PaintBrush,
 PaintBrushAlt,
 PaintRoller,
@@ -2580,6 +2748,7 @@ Paperclip,
 PaperclipAlt,
 PaperclipSlash,
 PaperclipSlashAlt,
+Paragraph,
 PartyBell,
 PartyHorn,
 Pause,
@@ -2684,8 +2853,11 @@ RefreshCwAlt3,
 RefreshCwAlt4,
 RepeatAlt,
 Reply,
+ResizeHandle,
 RestaurantMenu,
 Rhombus,
+RightIndent,
+RightToLeftTextDirection,
 Rocket,
 RockingHorse,
 RollerCoaster,
@@ -2756,6 +2928,7 @@ Shredder,
 Shuffle,
 Sidebar,
 SidebarFlip,
+Sigma,
 Signal,
 SignalFair,
 SignalGood,
@@ -2787,15 +2960,20 @@ SlidersUp,
 Snowman,
 SnowmanHead,
 Sort,
+SortAmountDown,
+SortAmountUp,
 SortDown,
 SortUp,
 Sparkles,
 Speaker,
 SpeakerAlt,
 SpeakerAlt1,
+SpellCheck,
 Spider,
 SpiderWidow,
 Square,
+SquareALock,
+SquareCheck,
 SquareCode,
 SquareCv,
 SquareDashed,
@@ -2807,6 +2985,7 @@ SquareDotsVertical,
 SquareExclamation,
 SquareH,
 SquareKanban,
+SquareList,
 SquareMedical,
 SquareMinus,
 SquareParking,
@@ -2840,15 +3019,27 @@ Stars,
 StarSharp,
 StarSharpHalf,
 Stocking,
+Strikethrough,
 Style=Monochrome,
 Subdirectory,
+Subscript,
 Suitcase,
 SuitcaseMedical,
 Sun,
 SunAlt,
+Superscript,
 Swatchbook,
 SwitchHorizontal,
 SwitchVertical,
+Table,
+TableAlt,
+TableCells,
+TableCellsLarge,
+TableColumns,
+TableLayout,
+TableList,
+TableListAlt,
+TableRows,
 Tablet,
 TabletAlt,
 TabletAlt1,
@@ -2867,6 +3058,10 @@ TentArrowsDown,
 TentArrowTurnLeft,
 Tents,
 Terminal,
+Text,
+TextHeight,
+TextSize,
+TextWidth,
 Thermometer,
 Thumbtack,
 TicketSimple,
@@ -2929,6 +3124,7 @@ TurnOff,
 Tv,
 TvAlt,
 TvAlt1,
+Underline,
 University,
 Unlock,
 UnlockAlt,
