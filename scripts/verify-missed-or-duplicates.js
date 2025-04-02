@@ -2,53 +2,62 @@ const fs = require("fs");
 const path = require("path");
 
 const iconsPath = path.join(__dirname, "../src/icons-svg");
-const outputPath = path.join(__dirname, "../src/icons");
-const indexPath = path.join(__dirname, "../src/index.tsx");
+const variants = ["linear", "solid", "duotone", "monochrome"];
 
 function groupIconsByName() {
-    const iconGroups = [];
-  
-    // Nomes das subpastas com as variantes
-    const variants = ["linear", "solid", "duotone", "monochrome"];
-  
-    // Percorre cada subpasta de variante
+  const iconGroups = {};
+
+  if (!fs.existsSync(iconsPath)) {
+    console.error("Diretório de ícones não encontrado:", iconsPath);
+    return iconGroups;
+  }
+
+  const categories = fs.readdirSync(iconsPath).filter((category) =>
+    fs.statSync(path.join(iconsPath, category)).isDirectory()
+  );
+
+  categories.forEach((category) => {
+    const categoryPath = path.join(iconsPath, category);
+
     variants.forEach((variant) => {
-      const variantPath = path.join(iconsPath, variant);
-  
+      const variantPath = path.join(categoryPath, variant);
+
       if (fs.existsSync(variantPath)) {
         const files = fs.readdirSync(variantPath).filter((file) => file.endsWith(".svg"));
-  
+
         files.forEach((file) => {
           const componentName = file.replace(".svg", "");
-  
-          // Verifica se já existe um grupo para esse ícone
-          let iconGroup = iconGroups.find(group => group[componentName]);
-  
-          // Se não existir, cria um novo grupo
-          if (!iconGroup) {
-            iconGroup = {
-              [componentName]: []
-            };
-            iconGroups.push(iconGroup);
+
+          if (!iconGroups[componentName]) {
+            iconGroups[componentName] = new Set();
           }
-  
-          // Adiciona a variante ao grupo
-          const iconVariant = {
-            variant,
-            svg: fs.readFileSync(path.join(variantPath, file), "utf8")
-          };
-  
-          iconGroup[componentName].push(iconVariant);
+
+          iconGroups[componentName].add(variant);
         });
       }
     });
-  
-    return iconGroups;
+  });
+
+  return iconGroups;
 }
 
-const groupedIcons = groupIconsByName()
-groupedIcons.map((groupSvgWithVariants, i) => {
-  if(groupSvgWithVariants[Object.keys(groupSvgWithVariants)[0]].length != 4){
-    console.log(groupSvgWithVariants)
+function verifyMissedAndDuplicates(iconGroups) {
+  const missingOrDuplicated = [];
+
+  for (const [iconName, variantSet] of Object.entries(iconGroups)) {
+    if (variantSet.size !== 4) {
+      missingOrDuplicated.push({ iconName, variants: Array.from(variantSet) });
+    }
   }
-})
+
+  return missingOrDuplicated;
+}
+
+const iconGroups = groupIconsByName();
+const issues = verifyMissedAndDuplicates(iconGroups);
+
+if (issues.length > 0) {
+  console.log("Ícones com variantes faltando ou duplicadas:", issues);
+} else {
+  console.log("Todos os ícones possuem exatamente 4 variantes.");
+}

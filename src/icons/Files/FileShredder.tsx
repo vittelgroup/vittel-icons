@@ -1,0 +1,52 @@
+import React from "react";
+
+interface IconsProps extends React.SVGProps<SVGSVGElement> {
+  variant?: 'linear' | 'solid' | 'duotone' | 'monochrome';
+}
+
+const FileShredder: React.FC<IconsProps> = ({ variant = 'linear', ...props }) => {
+  switch (variant) {
+    
+    case 'linear':
+      return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path d="M13 3V7.4C13 7.96005 13 8.24008 13.109 8.45399C13.2049 8.64215 13.3578 8.79513 13.546 8.89101C13.7599 9 14.0399 9 14.6 9H19M13 3H8.2C7.07989 3 6.51984 3 6.09202 3.21799C5.71569 3.40973 5.40973 3.71569 5.21799 4.09202C5 4.51984 5 5.0799 5 6.2V13M13 3L19 9M19 9V13M3 13H21M6 19V17M10 21V17M14 21V17M18 19V17" stroke="currentColor" strokeWidth="2" strokeLinecap="round" stroke-linejoin="round"/>
+</svg>
+)
+    case 'solid':
+      return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path d="M8.8 2H13V5.8C13 6.9201 13 7.48016 13.218 7.90798C13.4097 8.28431 13.7157 8.59027 14.092 8.78201C14.5198 9 15.0799 9 16.2 9H20V12H21C21.5523 12 22 12.4477 22 13C22 13.5523 21.5523 14 21 14H3C2.44772 14 2 13.5523 2 13C2 12.4477 2.44772 12 3 12H4V6.8C4 5.11984 4 4.27976 4.32698 3.63803C4.6146 3.07354 5.07354 2.6146 5.63803 2.32698C6.27976 2 7.11984 2 8.8 2Z" fill="currentColor"/>
+<path d="M19.8204 7.00005C19.7221 6.78408 19.5852 6.58528 19.4142 6.41426L15.5858 2.58583C15.4148 2.41482 15.216 2.27797 15 2.17969V6.50005C15 6.77619 15.2239 7.00005 15.5 7.00005H19.8204Z" fill="currentColor"/>
+<path d="M5 17C5 16.4477 5.44772 16 6 16C6.55228 16 7 16.4477 7 17V19C7 19.5523 6.55228 20 6 20C5.44772 20 5 19.5523 5 19V17Z" fill="currentColor"/>
+<path d="M17 17C17 16.4477 17.4477 16 18 16C18.5523 16 19 16.4477 19 17V19C19 19.5523 18.5523 20 18 20C17.4477 20 17 19.5523 17 19V17Z" fill="currentColor"/>
+<path d="M10 16C9.44771 16 9 16.4477 9 17V21C9 21.5523 9.44771 22 10 22C10.5523 22 11 21.5523 11 21V17C11 16.4477 10.5523 16 10 16Z" fill="currentColor"/>
+<path d="M13 17C13 16.4477 13.4477 16 14 16C14.5523 16 15 16.4477 15 17V21C15 21.5523 14.5523 22 14 22C13.4477 22 13 21.5523 13 21V17Z" fill="currentColor"/>
+</svg>
+)
+    case 'duotone':
+      return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path opacity="0.14" d="M5 13V6.2C5 5.0799 5 4.51984 5.21799 4.09202C5.40973 3.71569 5.71569 3.40973 6.09202 3.21799C6.51984 3 7.07989 3 8.2 3H13L19 9V13H5Z" fill="currentColor"/>
+<path d="M13 3V7.4C13 7.96005 13 8.24008 13.109 8.45399C13.2049 8.64215 13.3578 8.79513 13.546 8.89101C13.7599 9 14.0399 9 14.6 9H19M13 3H8.2C7.07989 3 6.51984 3 6.09202 3.21799C5.71569 3.40973 5.40973 3.71569 5.21799 4.09202C5 4.51984 5 5.0799 5 6.2V13M13 3L19 9M19 9V13M3 13H21M6 19V17M10 21V17M14 21V17M18 19V17" stroke="currentColor" strokeWidth="2" strokeLinecap="round" stroke-linejoin="round"/>
+</svg>
+)
+    case 'monochrome':
+      return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<g opacity="0.3">
+<path d="M8.8 2H14L20 8V12H4V6.8C4 5.11984 4 4.27976 4.32698 3.63803C4.6146 3.07354 5.07354 2.6146 5.63803 2.32698C6.27976 2 7.11984 2 8.8 2Z" fill="currentColor"/>
+<path d="M6 16C5.44772 16 5 16.4477 5 17V19C5 19.5523 5.44772 20 6 20C6.55228 20 7 19.5523 7 19V17C7 16.4477 6.55228 16 6 16Z" fill="currentColor"/>
+<path d="M17 17C17 16.4477 17.4477 16 18 16C18.5523 16 19 16.4477 19 17V19C19 19.5523 18.5523 20 18 20C17.4477 20 17 19.5523 17 19V17Z" fill="currentColor"/>
+<path d="M10 16C9.44771 16 9 16.4477 9 17V21C9 21.5523 9.44771 22 10 22C10.5523 22 11 21.5523 11 21V17C11 16.4477 10.5523 16 10 16Z" fill="currentColor"/>
+<path d="M13 17C13 16.4477 13.4477 16 14 16C14.5523 16 15 16.4477 15 17V21C15 21.5523 14.5523 22 14 22C13.4477 22 13 21.5523 13 21V17Z" fill="currentColor"/>
+</g>
+<path d="M14 2V7.2C14 7.48003 14 7.62004 14.0545 7.727C14.1024 7.82108 14.1789 7.89757 14.273 7.9455C14.38 8 14.52 8 14.8 8H20L14 2Z" fill="currentColor"/>
+<path d="M3 12C2.44772 12 2 12.4477 2 13C2 13.5523 2.44772 14 3 14H21C21.5523 14 22 13.5523 22 13C22 12.4477 21.5523 12 21 12H3Z" fill="currentColor"/>
+</svg>
+)
+    default:
+      return (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+<path d="M13 3V7.4C13 7.96005 13 8.24008 13.109 8.45399C13.2049 8.64215 13.3578 8.79513 13.546 8.89101C13.7599 9 14.0399 9 14.6 9H19M13 3H8.2C7.07989 3 6.51984 3 6.09202 3.21799C5.71569 3.40973 5.40973 3.71569 5.21799 4.09202C5 4.51984 5 5.0799 5 6.2V13M13 3L19 9M19 9V13M3 13H21M6 19V17M10 21V17M14 21V17M18 19V17" stroke="currentColor" strokeWidth="2" strokeLinecap="round" stroke-linejoin="round"/>
+</svg>
+)
+  }
+};
+
+export default FileShredder;
