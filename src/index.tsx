@@ -1,15 +1,15 @@
-import 0 from "./icons/0";
-import 00 from "./icons/00";
-import 1 from "./icons/1";
-import 100 from "./icons/100";
-import 2 from "./icons/2";
-import 3 from "./icons/3";
-import 4 from "./icons/4";
-import 5 from "./icons/5";
-import 6 from "./icons/6";
-import 7 from "./icons/7";
-import 8 from "./icons/8";
-import 9 from "./icons/9";
+import icon0 from "./icons/0";
+import icon00 from "./icons/00";
+import icon1 from "./icons/1";
+import icon100 from "./icons/100";
+import icon2 from "./icons/2";
+import icon3 from "./icons/3";
+import icon4 from "./icons/4";
+import icon5 from "./icons/5";
+import icon6 from "./icons/6";
+import icon7 from "./icons/7";
+import icon8 from "./icons/8";
+import icon9 from "./icons/9";
 import AceSmileTear from "./icons/AceSmileTear";
 import AddressBook from "./icons/AddressBook";
 import AddressCard from "./icons/AddressCard";
@@ -86,6 +86,7 @@ import ArrowNarrowRightAlignment from "./icons/ArrowNarrowRightAlignment";
 import ArrowNarrowRightMove from "./icons/ArrowNarrowRightMove";
 import ArrowNarrowTopAlignment from "./icons/ArrowNarrowTopAlignment";
 import ArrowNarrowUp from "./icons/ArrowNarrowUp";
+import ArrowNarrowUp1 from "./icons/ArrowNarrowUp1";
 import ArrowNarrowUpMove from "./icons/ArrowNarrowUpMove";
 import ArrowRight from "./icons/ArrowRight";
 import ArrowRightFromArc from "./icons/ArrowRightFromArc";
@@ -1681,7 +1682,7 @@ import SnowAlt1 from "./icons/SnowAlt1";
 import SnowBlowing from "./icons/SnowBlowing";
 import Snowman from "./icons/Snowman";
 import SnowmanHead from "./icons/SnowmanHead";
-import Soccer ball from "./icons/Soccer ball";
+import Soccerball from "./icons/Soccer ball";
 import Sort from "./icons/Sort";
 import SortAmountDown from "./icons/SortAmountDown";
 import SortAmountUp from "./icons/SortAmountUp";
@@ -1759,7 +1760,7 @@ import Stopwatch from "./icons/Stopwatch";
 import Stopwatch10 from "./icons/Stopwatch10";
 import Strawberry from "./icons/Strawberry";
 import Strikethrough from "./icons/Strikethrough";
-import Style=Monochrome from "./icons/Style=Monochrome";
+// import iconAi from "./icons/Style=Monochrome";
 import Subdirectory from "./icons/Subdirectory";
 import Subscript from "./icons/Subscript";
 import Suitcase from "./icons/Suitcase";
@@ -2007,18 +2008,18 @@ import YenSign from "./icons/YenSign";
 import YoutubeLogo from "./icons/YoutubeLogo";
 
 export {
-0,
-00,
-1,
-100,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
+icon0,
+icon00,
+icon1,
+icon100,
+icon2,
+icon3,
+icon4,
+icon5,
+icon6,
+icon7,
+icon8,
+icon9,
 AceSmileTear,
 AddressBook,
 AddressCard,
@@ -2095,6 +2096,7 @@ ArrowNarrowRightAlignment,
 ArrowNarrowRightMove,
 ArrowNarrowTopAlignment,
 ArrowNarrowUp,
+ArrowNarrowUp1,
 ArrowNarrowUpMove,
 ArrowRight,
 ArrowRightFromArc,
@@ -3690,7 +3692,7 @@ SnowAlt1,
 SnowBlowing,
 Snowman,
 SnowmanHead,
-Soccer ball,
+Soccerball,
 Sort,
 SortAmountDown,
 SortAmountUp,
@@ -3768,7 +3770,7 @@ Stopwatch,
 Stopwatch10,
 Strawberry,
 Strikethrough,
-Style=Monochrome,
+// Style=Monochrome,
 Subdirectory,
 Subscript,
 Suitcase,

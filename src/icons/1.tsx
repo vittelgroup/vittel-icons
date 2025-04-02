@@ -4,7 +4,7 @@ interface IconsProps extends React.SVGProps<SVGSVGElement> {
   variant?: 'linear' | 'solid' | 'duotone' | 'monochrome';
 }
 
-const 1: React.FC<IconsProps> = ({ variant = 'linear', ...props }) => {
+const Icon1: React.FC<IconsProps> = ({ variant = 'linear', ...props }) => {
   switch (variant) {
     
     case 'linear':

@@ -4,3 +4,4 @@ node_modules
 dist
 
 *storybook.log
+src/icons-svg/**
